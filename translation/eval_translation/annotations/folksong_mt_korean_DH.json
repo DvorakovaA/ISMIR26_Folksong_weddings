@@ -1,0 +1,2556 @@
+{
+  "language": "Korean",
+  "exportedAt": "2026-03-27T12:32:57.795Z",
+  "evaluations": [
+    {
+      "textId": 1,
+      "title": "시집살이노래-사촌성님",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "In sijipsari minyo, the terms “성seong” or “형hyeong” are used to refer to an older female relative, such as an older sister or a female cousin.",
+      "words": [
+        {
+          "word": "성님",
+          "status": "wrong"
+        },
+        {
+          "word": "성님",
+          "status": "wrong"
+        },
+        {
+          "word": "사춘",
+          "status": "wrong"
+        },
+        {
+          "word": "성님",
+          "status": "wrong"
+        },
+        {
+          "word": "나온다고",
+          "status": "wrong"
+        },
+        {
+          "word": "기념",
+          "status": "correct"
+        },
+        {
+          "word": "마소",
+          "status": "wrong"
+        },
+        {
+          "word": "쌀",
+          "status": "correct"
+        },
+        {
+          "word": "반되",
+          "status": "correct"
+        },
+        {
+          "word": "제졌으믄",
+          "status": "correct"
+        },
+        {
+          "word": "성도",
+          "status": "wrong"
+        },
+        {
+          "word": "묵고",
+          "status": "correct"
+        },
+        {
+          "word": "나도",
+          "status": "correct"
+        },
+        {
+          "word": "묵고",
+          "status": "correct"
+        },
+        {
+          "word": "고초",
+          "status": "wrong"
+        },
+        {
+          "word": "화초",
+          "status": "wrong"
+        },
+        {
+          "word": "맵다뻘로",
+          "status": "wrong"
+        },
+        {
+          "word": "시집살이만",
+          "status": "correct"
+        },
+        {
+          "word": "하오릴까",
+          "status": "correct"
+        },
+        {
+          "word": "성내",
+          "status": "wrong"
+        },
+        {
+          "word": "갱토",
+          "status": "correct"
+        },
+        {
+          "word": "꾸정물은",
+          "status": "correct"
+        },
+        {
+          "word": "성소",
+          "status": "wrong"
+        },
+        {
+          "word": "주제",
+          "status": "wrong"
+        },
+        {
+          "word": "울소",
+          "status": "wrong"
+        },
+        {
+          "word": "주까",
+          "status": "wrong"
+        },
+        {
+          "word": "성내",
+          "status": "wrong"
+        },
+        {
+          "word": "채소",
+          "status": "correct"
+        },
+        {
+          "word": "싸래기는",
+          "status": "correct"
+        },
+        {
+          "word": "성닭",
+          "status": "wrong"
+        },
+        {
+          "word": "주제",
+          "status": "wrong"
+        },
+        {
+          "word": "울닭",
+          "status": "wrong"
+        },
+        {
+          "word": "주까",
+          "status": "wrong"
+        },
+        {
+          "word": "앞밭에는",
+          "status": "correct"
+        },
+        {
+          "word": "상추",
+          "status": "correct"
+        },
+        {
+          "word": "심어",
+          "status": "correct"
+        },
+        {
+          "word": "뒷밭에는",
+          "status": "correct"
+        },
+        {
+          "word": "고추",
+          "status": "correct"
+        },
+        {
+          "word": "심어",
+          "status": "correct"
+        },
+        {
+          "word": "고추",
+          "status": "correct"
+        },
+        {
+          "word": "상추",
+          "status": "correct"
+        },
+        {
+          "word": "맵다해도",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이만",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "못하대",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "시집살이노래",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "When a line of lyrics is spoken by a character but omits the subject and object, it is sometimes rendered as a declarative sentence.\nFor example, “washing his face and eating the morning meal” can represent the speaker addressing her father-in-law, meaning: “Wash your face and eat your breakfast.”",
+      "words": [
+        {
+          "word": "한",
+          "status": "correct"
+        },
+        {
+          "word": "살",
+          "status": "correct"
+        },
+        {
+          "word": "묵아",
+          "status": "correct"
+        },
+        {
+          "word": "모친",
+          "status": "correct"
+        },
+        {
+          "word": "죽고",
+          "status": "correct"
+        },
+        {
+          "word": "두",
+          "status": "correct"
+        },
+        {
+          "word": "살",
+          "status": "correct"
+        },
+        {
+          "word": "묵아",
+          "status": "correct"
+        },
+        {
+          "word": "부친",
+          "status": "correct"
+        },
+        {
+          "word": "죽고",
+          "status": "correct"
+        },
+        {
+          "word": "시우시",
+          "status": "not_important"
+        },
+        {
+          "word": "열다섯살",
+          "status": "correct"
+        },
+        {
+          "word": "묵어가니",
+          "status": "correct"
+        },
+        {
+          "word": "중신애비",
+          "status": "wrong"
+        },
+        {
+          "word": "왔다",
+          "status": "correct"
+        },
+        {
+          "word": "갔다",
+          "status": "correct"
+        },
+        {
+          "word": "시집이라꼬",
+          "status": "correct"
+        },
+        {
+          "word": "가니까네",
+          "status": "correct"
+        },
+        {
+          "word": "하늘같은",
+          "status": "correct"
+        },
+        {
+          "word": "시아바시",
+          "status": "wrong"
+        },
+        {
+          "word": "나",
+          "status": "correct"
+        },
+        {
+          "word": "작다고",
+          "status": "correct"
+        },
+        {
+          "word": "나무래고",
+          "status": "correct"
+        },
+        {
+          "word": "키",
+          "status": "correct"
+        },
+        {
+          "word": "작다고",
+          "status": "correct"
+        },
+        {
+          "word": "나무래네",
+          "status": "correct"
+        },
+        {
+          "word": "시어마씨",
+          "status": "correct"
+        },
+        {
+          "word": "거동",
+          "status": "correct"
+        },
+        {
+          "word": "보소",
+          "status": "correct"
+        },
+        {
+          "word": "허솔부솔",
+          "status": "not_important"
+        },
+        {
+          "word": "나가면서",
+          "status": "correct"
+        },
+        {
+          "word": "나",
+          "status": "correct"
+        },
+        {
+          "word": "작다고",
+          "status": "correct"
+        },
+        {
+          "word": "나무래네",
+          "status": "correct"
+        },
+        {
+          "word": "키",
+          "status": "correct"
+        },
+        {
+          "word": "작다고",
+          "status": "correct"
+        },
+        {
+          "word": "나무래네",
+          "status": "correct"
+        },
+        {
+          "word": "사랑방에",
+          "status": "correct"
+        },
+        {
+          "word": "아버님요",
+          "status": "correct"
+        },
+        {
+          "word": "유리영창",
+          "status": "correct"
+        },
+        {
+          "word": "햇볕",
+          "status": "correct"
+        },
+        {
+          "word": "났네",
+          "status": "correct"
+        },
+        {
+          "word": "세수탕에",
+          "status": "correct"
+        },
+        {
+          "word": "세수하고",
+          "status": "correct"
+        },
+        {
+          "word": "아침",
+          "status": "correct"
+        },
+        {
+          "word": "조반",
+          "status": "correct"
+        },
+        {
+          "word": "잡수셔요",
+          "status": "wrong"
+        },
+        {
+          "word": "에라",
+          "status": "correct"
+        },
+        {
+          "word": "조년",
+          "status": "correct"
+        },
+        {
+          "word": "요망한",
+          "status": "correct"
+        },
+        {
+          "word": "년",
+          "status": "correct"
+        },
+        {
+          "word": "너나",
+          "status": "correct"
+        },
+        {
+          "word": "먹고",
+          "status": "correct"
+        },
+        {
+          "word": "개나",
+          "status": "correct"
+        },
+        {
+          "word": "줘라",
+          "status": "correct"
+        },
+        {
+          "word": "건내방에",
+          "status": "correct"
+        },
+        {
+          "word": "시누부야",
+          "status": "correct"
+        },
+        {
+          "word": "유리영창",
+          "status": "correct"
+        },
+        {
+          "word": "햇볕",
+          "status": "correct"
+        },
+        {
+          "word": "났네",
+          "status": "correct"
+        },
+        {
+          "word": "세수탕에",
+          "status": "correct"
+        },
+        {
+          "word": "세수하고",
+          "status": "correct"
+        },
+        {
+          "word": "아침",
+          "status": "correct"
+        },
+        {
+          "word": "조반",
+          "status": "correct"
+        },
+        {
+          "word": "잡수세요",
+          "status": "wrong"
+        },
+        {
+          "word": "명태같이",
+          "status": "correct"
+        },
+        {
+          "word": "뚜딜",
+          "status": "correct"
+        },
+        {
+          "word": "년아",
+          "status": "correct"
+        },
+        {
+          "word": "접시같이",
+          "status": "not_important"
+        },
+        {
+          "word": "다닐",
+          "status": "correct"
+        },
+        {
+          "word": "년아",
+          "status": "correct"
+        },
+        {
+          "word": "니나",
+          "status": "correct"
+        },
+        {
+          "word": "먹고",
+          "status": "correct"
+        },
+        {
+          "word": "개나",
+          "status": "correct"
+        },
+        {
+          "word": "줘라",
+          "status": "correct"
+        },
+        {
+          "word": "서럼일세",
+          "status": "correct"
+        },
+        {
+          "word": "서럼일세",
+          "status": "correct"
+        },
+        {
+          "word": "내가",
+          "status": "correct"
+        },
+        {
+          "word": "나서",
+          "status": "wrong"
+        },
+        {
+          "word": "서럼일세",
+          "status": "correct"
+        },
+        {
+          "word": "한",
+          "status": "correct"
+        },
+        {
+          "word": "절로",
+          "status": "correct"
+        },
+        {
+          "word": "들어가니",
+          "status": "correct"
+        },
+        {
+          "word": "늙은",
+          "status": "correct"
+        },
+        {
+          "word": "중은",
+          "status": "correct"
+        },
+        {
+          "word": "잠을",
+          "status": "correct"
+        },
+        {
+          "word": "자고",
+          "status": "correct"
+        },
+        {
+          "word": "젊은",
+          "status": "correct"
+        },
+        {
+          "word": "중은",
+          "status": "correct"
+        },
+        {
+          "word": "신",
+          "status": "correct"
+        },
+        {
+          "word": "삼고",
+          "status": "wrong"
+        },
+        {
+          "word": "중아",
+          "status": "correct"
+        },
+        {
+          "word": "중아",
+          "status": "correct"
+        },
+        {
+          "word": "대사중아",
+          "status": "correct"
+        },
+        {
+          "word": "요내",
+          "status": "wrong"
+        },
+        {
+          "word": "머리",
+          "status": "correct"
+        },
+        {
+          "word": "깎아주세",
+          "status": "correct"
+        },
+        {
+          "word": "깎아",
+          "status": "correct"
+        },
+        {
+          "word": "무상",
+          "status": "not_important"
+        },
+        {
+          "word": "좋지마는",
+          "status": "correct"
+        },
+        {
+          "word": "근본이",
+          "status": "not_important"
+        },
+        {
+          "word": "높아",
+          "status": "not_important"
+        },
+        {
+          "word": "못",
+          "status": "correct"
+        },
+        {
+          "word": "깎을세",
+          "status": "correct"
+        },
+        {
+          "word": "근본이사",
+          "status": "wrong"
+        },
+        {
+          "word": "높으나따나",
+          "status": "correct"
+        },
+        {
+          "word": "요내",
+          "status": "wrong"
+        },
+        {
+          "word": "머리",
+          "status": "correct"
+        },
+        {
+          "word": "깎아주세",
+          "status": "correct"
+        },
+        {
+          "word": "한쪽머리",
+          "status": "correct"
+        },
+        {
+          "word": "깎고나니",
+          "status": "correct"
+        },
+        {
+          "word": "친정생각",
+          "status": "correct"
+        },
+        {
+          "word": "절로나네",
+          "status": "correct"
+        },
+        {
+          "word": "한쪽머리",
+          "status": "correct"
+        },
+        {
+          "word": "마저",
+          "status": "correct"
+        },
+        {
+          "word": "깎고",
+          "status": "correct"
+        },
+        {
+          "word": "나니",
+          "status": "correct"
+        },
+        {
+          "word": "친정",
+          "status": "correct"
+        },
+        {
+          "word": "생각",
+          "status": "correct"
+        },
+        {
+          "word": "절로",
+          "status": "correct"
+        },
+        {
+          "word": "나네",
+          "status": "correct"
+        },
+        {
+          "word": "중아중아",
+          "status": "correct"
+        },
+        {
+          "word": "대사중아",
+          "status": "correct"
+        },
+        {
+          "word": "백팔염줄",
+          "status": "correct"
+        },
+        {
+          "word": "목에",
+          "status": "correct"
+        },
+        {
+          "word": "걸고",
+          "status": "correct"
+        },
+        {
+          "word": "친정곁을",
+          "status": "correct"
+        },
+        {
+          "word": "동냥가세",
+          "status": "correct"
+        },
+        {
+          "word": "동냥주소",
+          "status": "correct"
+        },
+        {
+          "word": "동냥주소",
+          "status": "correct"
+        },
+        {
+          "word": "딸애기는",
+          "status": "correct"
+        },
+        {
+          "word": "빨래가고",
+          "status": "correct"
+        },
+        {
+          "word": "며느리애기",
+          "status": "correct"
+        },
+        {
+          "word": "동냥주소",
+          "status": "correct"
+        },
+        {
+          "word": "중아",
+          "status": "correct"
+        },
+        {
+          "word": "중아",
+          "status": "correct"
+        },
+        {
+          "word": "대사중아",
+          "status": "correct"
+        },
+        {
+          "word": "숲대밭에",
+          "status": "correct"
+        },
+        {
+          "word": "왕대밭에",
+          "status": "correct"
+        },
+        {
+          "word": "가니",
+          "status": "correct"
+        },
+        {
+          "word": "아무도",
+          "status": "correct"
+        },
+        {
+          "word": "없네",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 3,
+      "title": "시집살이노래",
+      "overallRating": 2,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "The first and third lines repeat parts of the sentences used in the second and fourth lines, making it difficult to interpret their meaning on their own.\n“Why do you keep making me long for you? Why are you so pretty?”",
+      "words": [
+        {
+          "word": "애",
+          "status": "wrong"
+        },
+        {
+          "word": "태웠냐",
+          "status": "wrong"
+        },
+        {
+          "word": "애",
+          "status": "wrong"
+        },
+        {
+          "word": "태우냐",
+          "status": "wrong"
+        },
+        {
+          "word": "받어논",
+          "status": "correct"
+        },
+        {
+          "word": "날짜를",
+          "status": "correct"
+        },
+        {
+          "word": "애",
+          "status": "wrong"
+        },
+        {
+          "word": "태우냐",
+          "status": "wrong"
+        },
+        {
+          "word": "왜",
+          "status": "wrong"
+        },
+        {
+          "word": "생겼냐",
+          "status": "wrong"
+        },
+        {
+          "word": "왜",
+          "status": "wrong"
+        },
+        {
+          "word": "생겼냐",
+          "status": "wrong"
+        },
+        {
+          "word": "너다지",
+          "status": "correct"
+        },
+        {
+          "word": "곱게도",
+          "status": "correct"
+        },
+        {
+          "word": "왜",
+          "status": "wrong"
+        },
+        {
+          "word": "생겼냐",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 4,
+      "title": "시집살이노래-사촌성님",
+      "overallRating": 2,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "Words are written phonetically rather than following standard orthography, which makes translation more difficult.",
+      "words": [
+        {
+          "word": "아",
+          "status": "wrong"
+        },
+        {
+          "word": "성아",
+          "status": "wrong"
+        },
+        {
+          "word": "사촌성아",
+          "status": "wrong"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "어떻더노",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "좋다마는",
+          "status": "correct"
+        },
+        {
+          "word": "주우벗은",
+          "status": "not_important"
+        },
+        {
+          "word": "시아자비",
+          "status": "wrong"
+        },
+        {
+          "word": "말하기가",
+          "status": "correct"
+        },
+        {
+          "word": "어렵더라",
+          "status": "correct"
+        },
+        {
+          "word": "도래도래",
+          "status": "not_important"
+        },
+        {
+          "word": "도래판에",
+          "status": "not_important"
+        },
+        {
+          "word": "수저놓기",
+          "status": "correct"
+        },
+        {
+          "word": "어렵더라",
+          "status": "correct"
+        },
+        {
+          "word": "조그마는",
+          "status": "correct"
+        },
+        {
+          "word": "수박씨끼",
+          "status": "wrong"
+        },
+        {
+          "word": "밥당기도",
+          "status": "wrong"
+        },
+        {
+          "word": "어렵더라",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 5,
+      "title": "시집살이노래",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "가기싫은",
+          "status": "correct"
+        },
+        {
+          "word": "시집이라고",
+          "status": "correct"
+        },
+        {
+          "word": "가였드니야",
+          "status": "correct"
+        },
+        {
+          "word": "울도담도",
+          "status": "wrong"
+        },
+        {
+          "word": "없는",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "공방살이가",
+          "status": "wrong"
+        },
+        {
+          "word": "웬말인고",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 6,
+      "title": "신세타령",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "지게목발 is same as 지제목발, but with the slight difference in pronunciation, they were  interpreted differently.",
+      "words": [
+        {
+          "word": "어떤사람은",
+          "status": "correct"
+        },
+        {
+          "word": "팔자가",
+          "status": "correct"
+        },
+        {
+          "word": "좋아",
+          "status": "correct"
+        },
+        {
+          "word": "면일",
+          "status": "wrong"
+        },
+        {
+          "word": "장주를",
+          "status": "wrong"
+        },
+        {
+          "word": "하건만은",
+          "status": "wrong"
+        },
+        {
+          "word": "요놈",
+          "status": "correct"
+        },
+        {
+          "word": "내팔자",
+          "status": "correct"
+        },
+        {
+          "word": "와이렇소",
+          "status": "correct"
+        },
+        {
+          "word": "뒷동산",
+          "status": "correct"
+        },
+        {
+          "word": "올감서",
+          "status": "correct"
+        },
+        {
+          "word": "지게목발",
+          "status": "correct"
+        },
+        {
+          "word": "두들리고",
+          "status": "correct"
+        },
+        {
+          "word": "아이고",
+          "status": "correct"
+        },
+        {
+          "word": "아고",
+          "status": "correct"
+        },
+        {
+          "word": "내팔자",
+          "status": "correct"
+        },
+        {
+          "word": "내팔자가",
+          "status": "correct"
+        },
+        {
+          "word": "외이렇노",
+          "status": "correct"
+        },
+        {
+          "word": "지제목발",
+          "status": "wrong"
+        },
+        {
+          "word": "드들리고",
+          "status": "wrong"
+        },
+        {
+          "word": "줄령태산을",
+          "status": "correct"
+        },
+        {
+          "word": "넘나들고",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 7,
+      "title": "시집살이노래",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "몰대Moldae is a dialectal variant of 말대maldae, a rod used in spinning to roll cotton into a long",
+      "words": [
+        {
+          "word": "살이",
+          "status": "correct"
+        },
+        {
+          "word": "살이",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "살으드록",
+          "status": "correct"
+        },
+        {
+          "word": "살락했더이",
+          "status": "correct"
+        },
+        {
+          "word": "공덕같은",
+          "status": "not_important"
+        },
+        {
+          "word": "요내",
+          "status": "correct"
+        },
+        {
+          "word": "몸이",
+          "status": "correct"
+        },
+        {
+          "word": "몰대같이",
+          "status": "wrong"
+        },
+        {
+          "word": "몰라진다",
+          "status": "wrong"
+        },
+        {
+          "word": "꼬막같은",
+          "status": "correct"
+        },
+        {
+          "word": "요내",
+          "status": "correct"
+        },
+        {
+          "word": "입이",
+          "status": "correct"
+        },
+        {
+          "word": "단내",
+          "status": "correct"
+        },
+        {
+          "word": "나고",
+          "status": "correct"
+        },
+        {
+          "word": "쓴내",
+          "status": "correct"
+        },
+        {
+          "word": "난다",
+          "status": "correct"
+        },
+        {
+          "word": "샛별같은",
+          "status": "correct"
+        },
+        {
+          "word": "요내",
+          "status": "correct"
+        },
+        {
+          "word": "눈에",
+          "status": "correct"
+        },
+        {
+          "word": "안개",
+          "status": "correct"
+        },
+        {
+          "word": "져서",
+          "status": "correct"
+        },
+        {
+          "word": "비가",
+          "status": "correct"
+        },
+        {
+          "word": "오네",
+          "status": "correct"
+        },
+        {
+          "word": "하늘에서",
+          "status": "correct"
+        },
+        {
+          "word": "오는",
+          "status": "correct"
+        },
+        {
+          "word": "비는",
+          "status": "correct"
+        },
+        {
+          "word": "만인간이",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "알건만",
+          "status": "correct"
+        },
+        {
+          "word": "요내",
+          "status": "correct"
+        },
+        {
+          "word": "눈에",
+          "status": "correct"
+        },
+        {
+          "word": "오는",
+          "status": "correct"
+        },
+        {
+          "word": "비는",
+          "status": "correct"
+        },
+        {
+          "word": "한품의",
+          "status": "correct"
+        },
+        {
+          "word": "든님도",
+          "status": "correct"
+        },
+        {
+          "word": "몰라주네",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 8,
+      "title": "시집살이노래",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "어매",
+          "status": "correct"
+        },
+        {
+          "word": "어매",
+          "status": "correct"
+        },
+        {
+          "word": "우리",
+          "status": "correct"
+        },
+        {
+          "word": "어매",
+          "status": "correct"
+        },
+        {
+          "word": "날",
+          "status": "correct"
+        },
+        {
+          "word": "여울때는",
+          "status": "wrong"
+        },
+        {
+          "word": "잘사라고",
+          "status": "correct"
+        },
+        {
+          "word": "날",
+          "status": "correct"
+        },
+        {
+          "word": "여웠는디",
+          "status": "correct"
+        },
+        {
+          "word": "놈난시에",
+          "status": "correct"
+        },
+        {
+          "word": "나도",
+          "status": "correct"
+        },
+        {
+          "word": "낳고",
+          "status": "correct"
+        },
+        {
+          "word": "나난시에",
+          "status": "correct"
+        },
+        {
+          "word": "놈도",
+          "status": "correct"
+        },
+        {
+          "word": "낳건마는",
+          "status": "correct"
+        },
+        {
+          "word": "나는",
+          "status": "correct"
+        },
+        {
+          "word": "어채",
+          "status": "correct"
+        },
+        {
+          "word": "이란다여",
+          "status": "correct"
+        },
+        {
+          "word": "날",
+          "status": "correct"
+        },
+        {
+          "word": "데려",
+          "status": "correct"
+        },
+        {
+          "word": "갈적에는",
+          "status": "correct"
+        },
+        {
+          "word": "덕석갓에",
+          "status": "not_important"
+        },
+        {
+          "word": "새만",
+          "status": "not_important"
+        },
+        {
+          "word": "보라고",
+          "status": "correct"
+        },
+        {
+          "word": "하더니",
+          "status": "correct"
+        },
+        {
+          "word": "못살겄네",
+          "status": "correct"
+        },
+        {
+          "word": "못살겄네",
+          "status": "correct"
+        },
+        {
+          "word": "이세상을",
+          "status": "correct"
+        },
+        {
+          "word": "어이를",
+          "status": "correct"
+        },
+        {
+          "word": "하라요",
+          "status": "correct"
+        },
+        {
+          "word": "하레죙일",
+          "status": "correct"
+        },
+        {
+          "word": "밭을",
+          "status": "correct"
+        },
+        {
+          "word": "매고",
+          "status": "correct"
+        },
+        {
+          "word": "심에다가",
+          "status": "not_important"
+        },
+        {
+          "word": "장사리",
+          "status": "not_important"
+        },
+        {
+          "word": "밥을",
+          "status": "correct"
+        },
+        {
+          "word": "내가",
+          "status": "correct"
+        },
+        {
+          "word": "주니",
+          "status": "correct"
+        },
+        {
+          "word": "못살겄어요",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 9,
+      "title": "시집살이노래",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "여북Yeobuk means “how much,” “how greatly,” or “how could it not be,” and is used to emphasize a very high degree or a difficult situation.",
+      "words": [
+        {
+          "word": "우리도",
+          "status": "correct"
+        },
+        {
+          "word": "집안",
+          "status": "correct"
+        },
+        {
+          "word": "가풍이",
+          "status": "correct"
+        },
+        {
+          "word": "여북에",
+          "status": "wrong"
+        },
+        {
+          "word": "주믄",
+          "status": "not_important"
+        },
+        {
+          "word": "고깔을",
+          "status": "correct"
+        },
+        {
+          "word": "씨구",
+          "status": "correct"
+        },
+        {
+          "word": "머리를",
+          "status": "correct"
+        },
+        {
+          "word": "깎구",
+          "status": "correct"
+        },
+        {
+          "word": "…씨구",
+          "status": "not_important"
+        },
+        {
+          "word": "절루",
+          "status": "correct"
+        },
+        {
+          "word": "가랴",
+          "status": "correct"
+        },
+        {
+          "word": "일곱폭",
+          "status": "correct"
+        },
+        {
+          "word": "치마를",
+          "status": "correct"
+        },
+        {
+          "word": "한폭은",
+          "status": "correct"
+        },
+        {
+          "word": "뜯어서",
+          "status": "correct"
+        },
+        {
+          "word": "고깔",
+          "status": "correct"
+        },
+        {
+          "word": "짓구",
+          "status": "correct"
+        },
+        {
+          "word": "한폭은",
+          "status": "correct"
+        },
+        {
+          "word": "뜯어서",
+          "status": "correct"
+        },
+        {
+          "word": "허리에",
+          "status": "correct"
+        },
+        {
+          "word": "두르구",
+          "status": "correct"
+        },
+        {
+          "word": "한폭은",
+          "status": "correct"
+        },
+        {
+          "word": "뜯어서",
+          "status": "correct"
+        },
+        {
+          "word": "바랑",
+          "status": "correct"
+        },
+        {
+          "word": "짓구",
+          "status": "correct"
+        },
+        {
+          "word": "한폭은",
+          "status": "correct"
+        },
+        {
+          "word": "뜯어서",
+          "status": "correct"
+        },
+        {
+          "word": "감발하구",
+          "status": "wrong"
+        },
+        {
+          "word": "올라가네",
+          "status": "correct"
+        },
+        {
+          "word": "올러가네",
+          "status": "correct"
+        },
+        {
+          "word": "높으네",
+          "status": "correct"
+        },
+        {
+          "word": "산중",
+          "status": "correct"
+        },
+        {
+          "word": "스님찾아",
+          "status": "correct"
+        },
+        {
+          "word": "올러를",
+          "status": "correct"
+        },
+        {
+          "word": "가네",
+          "status": "correct"
+        },
+        {
+          "word": "느",
+          "status": "correct"
+        },
+        {
+          "word": "집안",
+          "status": "correct"
+        },
+        {
+          "word": "가풍이",
+          "status": "correct"
+        },
+        {
+          "word": "여북에",
+          "status": "wrong"
+        },
+        {
+          "word": "주믄",
+          "status": "not_important"
+        },
+        {
+          "word": "머리를",
+          "status": "correct"
+        },
+        {
+          "word": "깎구",
+          "status": "correct"
+        },
+        {
+          "word": "절루를",
+          "status": "correct"
+        },
+        {
+          "word": "가느냐",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 10,
+      "title": "신세타령",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "아깝다",
+          "status": "correct"
+        },
+        {
+          "word": "내",
+          "status": "correct"
+        },
+        {
+          "word": "청춘아",
+          "status": "correct"
+        },
+        {
+          "word": "청춘은",
+          "status": "correct"
+        },
+        {
+          "word": "간곳",
+          "status": "correct"
+        },
+        {
+          "word": "없고",
+          "status": "correct"
+        },
+        {
+          "word": "백발이",
+          "status": "correct"
+        },
+        {
+          "word": "휘날려서",
+          "status": "correct"
+        },
+        {
+          "word": "백발을",
+          "status": "correct"
+        },
+        {
+          "word": "막을라고",
+          "status": "correct"
+        },
+        {
+          "word": "한손에는",
+          "status": "correct"
+        },
+        {
+          "word": "망치들고",
+          "status": "correct"
+        },
+        {
+          "word": "한손에는",
+          "status": "correct"
+        },
+        {
+          "word": "절대들고",
+          "status": "wrong"
+        },
+        {
+          "word": "아무리",
+          "status": "correct"
+        },
+        {
+          "word": "허여도",
+          "status": "correct"
+        },
+        {
+          "word": "백발을",
+          "status": "correct"
+        },
+        {
+          "word": "못",
+          "status": "correct"
+        },
+        {
+          "word": "막겄네",
+          "status": "correct"
+        },
+        {
+          "word": "그",
+          "status": "correct"
+        },
+        {
+          "word": "백발을",
+          "status": "correct"
+        },
+        {
+          "word": "못",
+          "status": "correct"
+        },
+        {
+          "word": "막겄네",
+          "status": "correct"
+        },
+        {
+          "word": "-흥그레타령",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 11,
+      "title": "시집살이노래",
+      "overallRating": 1,
+      "hallucination": "yes",
+      "unusualLanguage": "none",
+      "comment": "The first and third lines repeat parts of the sentences used in the second and fourth lines, making it difficult to interpret their meaning on their own.\nTogether, they convey the meaning: “Why do you keep making me worry? Why are you so pretty?”",
+      "words": [
+        {
+          "word": "애",
+          "status": "wrong"
+        },
+        {
+          "word": "태웠냐",
+          "status": "wrong"
+        },
+        {
+          "word": "애",
+          "status": "wrong"
+        },
+        {
+          "word": "태우냐",
+          "status": "wrong"
+        },
+        {
+          "word": "받어논",
+          "status": "correct"
+        },
+        {
+          "word": "날짜를",
+          "status": "correct"
+        },
+        {
+          "word": "애",
+          "status": "wrong"
+        },
+        {
+          "word": "태우냐",
+          "status": "wrong"
+        },
+        {
+          "word": "왜",
+          "status": "wrong"
+        },
+        {
+          "word": "생겼냐",
+          "status": "wrong"
+        },
+        {
+          "word": "왜",
+          "status": "wrong"
+        },
+        {
+          "word": "생겼냐",
+          "status": "wrong"
+        },
+        {
+          "word": "너다지",
+          "status": "correct"
+        },
+        {
+          "word": "곱게도",
+          "status": "correct"
+        },
+        {
+          "word": "왜",
+          "status": "wrong"
+        },
+        {
+          "word": "생겼냐",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 12,
+      "title": "시집살이노래",
+      "overallRating": 1,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "가설일래",
+          "status": "not_important"
+        },
+        {
+          "word": "가설일래",
+          "status": "not_important"
+        },
+        {
+          "word": "우리나",
+          "status": "correct"
+        },
+        {
+          "word": "시누",
+          "status": "wrong"
+        },
+        {
+          "word": "남편",
+          "status": "wrong"
+        },
+        {
+          "word": "가살일래",
+          "status": "not_important"
+        },
+        {
+          "word": "우리",
+          "status": "wrong"
+        },
+        {
+          "word": "문전",
+          "status": "wrong"
+        },
+        {
+          "word": "지냄서로",
+          "status": "wrong"
+        },
+        {
+          "word": "부채",
+          "status": "not_important"
+        },
+        {
+          "word": "챙연",
+          "status": "not_important"
+        },
+        {
+          "word": "허고",
+          "status": "correct"
+        },
+        {
+          "word": "가네",
+          "status": "correct"
+        },
+        {
+          "word": "우리도야",
+          "status": "correct"
+        },
+        {
+          "word": "꼬사리",
+          "status": "wrong"
+        },
+        {
+          "word": "꺾어다",
+          "status": "wrong"
+        },
+        {
+          "word": "지붕시고",
+          "status": "wrong"
+        },
+        {
+          "word": "누룩으로",
+          "status": "correct"
+        },
+        {
+          "word": "죽담싸고",
+          "status": "wrong"
+        },
+        {
+          "word": "원추리로",
+          "status": "correct"
+        },
+        {
+          "word": "대문",
+          "status": "correct"
+        },
+        {
+          "word": "달고",
+          "status": "correct"
+        },
+        {
+          "word": "고대",
+          "status": "not_important"
+        },
+        {
+          "word": "공실",
+          "status": "not_important"
+        },
+        {
+          "word": "높은집이",
+          "status": "correct"
+        },
+        {
+          "word": "니",
+          "status": "correct"
+        },
+        {
+          "word": "귀에다",
+          "status": "correct"
+        },
+        {
+          "word": "핑경달고",
+          "status": "wrong"
+        },
+        {
+          "word": "어느",
+          "status": "correct"
+        },
+        {
+          "word": "바람이",
+          "status": "correct"
+        },
+        {
+          "word": "드리부니",
+          "status": "correct"
+        },
+        {
+          "word": "우리도",
+          "status": "correct"
+        },
+        {
+          "word": "한때",
+          "status": "correct"
+        },
+        {
+          "word": "살아본다",
+          "status": "correct"
+        },
+        {
+          "word": "대문",
+          "status": "correct"
+        },
+        {
+          "word": "아케",
+          "status": "wrong"
+        },
+        {
+          "word": "저",
+          "status": "correct"
+        },
+        {
+          "word": "처자야",
+          "status": "correct"
+        },
+        {
+          "word": "뉘",
+          "status": "wrong"
+        },
+        {
+          "word": "간장을",
+          "status": "wrong"
+        },
+        {
+          "word": "뇍일라고",
+          "status": "wrong"
+        },
+        {
+          "word": "저리나",
+          "status": "correct"
+        },
+        {
+          "word": "곱게도",
+          "status": "correct"
+        },
+        {
+          "word": "생겼느냐",
+          "status": "correct"
+        },
+        {
+          "word": "내가",
+          "status": "wrong"
+        },
+        {
+          "word": "무신",
+          "status": "wrong"
+        },
+        {
+          "word": "곱소리요",
+          "status": "wrong"
+        },
+        {
+          "word": "내가",
+          "status": "wrong"
+        },
+        {
+          "word": "무신",
+          "status": "wrong"
+        },
+        {
+          "word": "곱소리오",
+          "status": "wrong"
+        },
+        {
+          "word": "단장안에",
+          "status": "wrong"
+        },
+        {
+          "word": "꽃이로세",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 13,
+      "title": "시집살이노래",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "해다지고",
+          "status": "wrong"
+        },
+        {
+          "word": "다저문날",
+          "status": "wrong"
+        },
+        {
+          "word": "삼십골로",
+          "status": "correct"
+        },
+        {
+          "word": "감잡느니",
+          "status": "wrong"
+        },
+        {
+          "word": "오른손을",
+          "status": "correct"
+        },
+        {
+          "word": "받은편지",
+          "status": "correct"
+        },
+        {
+          "word": "왼손을",
+          "status": "correct"
+        },
+        {
+          "word": "대이보니",
+          "status": "correct"
+        },
+        {
+          "word": "부모죽은",
+          "status": "correct"
+        },
+        {
+          "word": "편지로다",
+          "status": "correct"
+        },
+        {
+          "word": "집에",
+          "status": "correct"
+        },
+        {
+          "word": "와서",
+          "status": "correct"
+        },
+        {
+          "word": "물은",
+          "status": "wrong"
+        },
+        {
+          "word": "끼네",
+          "status": "wrong"
+        },
+        {
+          "word": "바하",
+          "status": "wrong"
+        },
+        {
+          "word": "당송",
+          "status": "wrong"
+        },
+        {
+          "word": "하고",
+          "status": "correct"
+        },
+        {
+          "word": "가라",
+          "status": "correct"
+        },
+        {
+          "word": "처답",
+          "status": "wrong"
+        },
+        {
+          "word": "당송",
+          "status": "wrong"
+        },
+        {
+          "word": "하고",
+          "status": "correct"
+        },
+        {
+          "word": "가라",
+          "status": "correct"
+        },
+        {
+          "word": "그러고로",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "해",
+          "status": "correct"
+        },
+        {
+          "word": "놓고",
+          "status": "correct"
+        },
+        {
+          "word": "가니께",
+          "status": "correct"
+        },
+        {
+          "word": "강문을",
+          "status": "wrong"
+        },
+        {
+          "word": "닫았는데",
+          "status": "correct"
+        },
+        {
+          "word": "아홉상제",
+          "status": "correct"
+        },
+        {
+          "word": "맏오라베",
+          "status": "correct"
+        },
+        {
+          "word": "강문쪼게",
+          "status": "wrong"
+        },
+        {
+          "word": "열어두라",
+          "status": "correct"
+        },
+        {
+          "word": "어지거지",
+          "status": "wrong"
+        },
+        {
+          "word": "편지갈때",
+          "status": "correct"
+        },
+        {
+          "word": "못오더나",
+          "status": "wrong"
+        },
+        {
+          "word": "아홉상제",
+          "status": "correct"
+        },
+        {
+          "word": "맏올채야",
+          "status": "wrong"
+        },
+        {
+          "word": "강문쪼께",
+          "status": "wrong"
+        },
+        {
+          "word": "열어주라",
+          "status": "correct"
+        },
+        {
+          "word": "이지기지",
+          "status": "wrong"
+        },
+        {
+          "word": "보고갈때",
+          "status": "correct"
+        },
+        {
+          "word": "뭣하고",
+          "status": "correct"
+        },
+        {
+          "word": "오늘",
+          "status": "correct"
+        },
+        {
+          "word": "왔노",
+          "status": "correct"
+        },
+        {
+          "word": "강문을",
+          "status": "wrong"
+        },
+        {
+          "word": "아홉상제",
+          "status": "correct"
+        },
+        {
+          "word": "맏올채야",
+          "status": "wrong"
+        },
+        {
+          "word": "강문쪼끼",
+          "status": "wrong"
+        },
+        {
+          "word": "열어주라",
+          "status": "correct"
+        },
+        {
+          "word": "비단공상",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "wrong"
+        },
+        {
+          "word": "우짜고",
+          "status": "wrong"
+        },
+        {
+          "word": "헌두디기",
+          "status": "correct"
+        },
+        {
+          "word": "입히났노",
+          "status": "wrong"
+        },
+        {
+          "word": "그러고",
+          "status": "correct"
+        },
+        {
+          "word": "시가집에",
+          "status": "correct"
+        },
+        {
+          "word": "가니",
+          "status": "correct"
+        },
+        {
+          "word": "쑥대밭이",
+          "status": "correct"
+        },
+        {
+          "word": "되어",
+          "status": "correct"
+        },
+        {
+          "word": "있더란다",
+          "status": "correct"
+        },
+        {
+          "word": "맹화",
+          "status": "not_important"
+        },
+        {
+          "word": "당년에",
+          "status": "not_important"
+        },
+        {
+          "word": "꽃을",
+          "status": "correct"
+        },
+        {
+          "word": "잃고",
+          "status": "correct"
+        },
+        {
+          "word": "꽃을",
+          "status": "correct"
+        },
+        {
+          "word": "찾아",
+          "status": "correct"
+        },
+        {
+          "word": "내",
+          "status": "correct"
+        },
+        {
+          "word": "왔노라",
+          "status": "correct"
+        },
+        {
+          "word": "풍파에",
+          "status": "correct"
+        },
+        {
+          "word": "배를",
+          "status": "correct"
+        },
+        {
+          "word": "잃고",
+          "status": "correct"
+        },
+        {
+          "word": "배를",
+          "status": "correct"
+        },
+        {
+          "word": "찾아",
+          "status": "correct"
+        },
+        {
+          "word": "내",
+          "status": "correct"
+        },
+        {
+          "word": "왔노라",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 14,
+      "title": "시집살이노래-사촌성님",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "성님성님",
+          "status": "wrong"
+        },
+        {
+          "word": "사춘성님",
+          "status": "wrong"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "어떻든가",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "좋데만은",
+          "status": "correct"
+        },
+        {
+          "word": "행지초매",
+          "status": "wrong"
+        },
+        {
+          "word": "죽반인기",
+          "status": "correct"
+        },
+        {
+          "word": "콧물눈물",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "쳐졌네()",
+          "status": "wrong"
+        },
+        {
+          "word": "분질같은",
+          "status": "wrong"
+        },
+        {
+          "word": "요내",
+          "status": "correct"
+        },
+        {
+          "word": "얼굴",
+          "status": "correct"
+        },
+        {
+          "word": "미나라꽃이",
+          "status": "wrong"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "되었네",
+          "status": "correct"
+        },
+        {
+          "word": "삼단같은",
+          "status": "wrong"
+        },
+        {
+          "word": "요내",
+          "status": "correct"
+        },
+        {
+          "word": "머리",
+          "status": "correct"
+        },
+        {
+          "word": "비스르춤이",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "되었네",
+          "status": "correct"
+        },
+        {
+          "word": "은가락지",
+          "status": "correct"
+        },
+        {
+          "word": "차던",
+          "status": "correct"
+        },
+        {
+          "word": "손질",
+          "status": "correct"
+        },
+        {
+          "word": "호무짤기",
+          "status": "wrong"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "되었네",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 15,
+      "title": "시집살이노래-사촌성님",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "성님성님",
+          "status": "wrong"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "어떻딥까",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "삼년만에",
+          "status": "correct"
+        },
+        {
+          "word": "고추당추",
+          "status": "correct"
+        },
+        {
+          "word": "맵다해도",
+          "status": "correct"
+        },
+        {
+          "word": "시집살이",
+          "status": "correct"
+        },
+        {
+          "word": "더",
+          "status": "correct"
+        },
+        {
+          "word": "매우리",
+          "status": "not_important"
+        },
+        {
+          "word": "물명지초마",
+          "status": "wrong"
+        },
+        {
+          "word": "열두폭이",
+          "status": "correct"
+        },
+        {
+          "word": "휏대끝에서",
+          "status": "wrong"
+        },
+        {
+          "word": "눈물콧물에",
+          "status": "correct"
+        },
+        {
+          "word": "다",
+          "status": "correct"
+        },
+        {
+          "word": "썩었소",
+          "status": "correct"
+        },
+        {
+          "word": "성님성님",
+          "status": "wrong"
+        },
+        {
+          "word": "사촌성님",
+          "status": "wrong"
+        },
+        {
+          "word": "친정에는",
+          "status": "correct"
+        },
+        {
+          "word": "열두달에",
+          "status": "correct"
+        },
+        {
+          "word": "한번도",
+          "status": "correct"
+        },
+        {
+          "word": "못",
+          "status": "correct"
+        },
+        {
+          "word": "가봤소",
+          "status": "correct"
+        },
+        {
+          "word": "삼년오년",
+          "status": "correct"
+        },
+        {
+          "word": "지나가도",
+          "status": "correct"
+        },
+        {
+          "word": "친정엄마",
+          "status": "correct"
+        },
+        {
+          "word": "얼굴",
+          "status": "correct"
+        },
+        {
+          "word": "한번",
+          "status": "correct"
+        },
+        {
+          "word": "못",
+          "status": "correct"
+        },
+        {
+          "word": "봤네",
+          "status": "correct"
+        }
+      ]
+    }
+  ]
+}

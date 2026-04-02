@@ -1,0 +1,3850 @@
+{
+  "language": "Estonian",
+  "exportedAt": "2026-04-01T13:54:09.571Z",
+  "evaluations": [
+    {
+      "textId": 1,
+      "title": "Title 1",
+      "overallRating": 4,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Ole",
+          "status": "not_important"
+        },
+        {
+          "word": "terve,",
+          "status": "correct"
+        },
+        {
+          "word": "neitsikene",
+          "status": "correct"
+        },
+        {
+          "word": "Ole",
+          "status": "not_important"
+        },
+        {
+          "word": "terve",
+          "status": "correct"
+        },
+        {
+          "word": "kasvamasta",
+          "status": "correct"
+        },
+        {
+          "word": "Oma",
+          "status": "not_important"
+        },
+        {
+          "word": "au",
+          "status": "correct"
+        },
+        {
+          "word": "hoidemasta",
+          "status": "correct"
+        },
+        {
+          "word": "Nüid",
+          "status": "correct"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "saad",
+          "status": "not_important"
+        },
+        {
+          "word": "saele",
+          "status": "correct"
+        },
+        {
+          "word": "sõita.",
+          "status": "correct"
+        },
+        {
+          "word": "Isameestel",
+          "status": "wrong"
+        },
+        {
+          "word": "hüpitada",
+          "status": "wrong"
+        },
+        {
+          "word": "Oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "läind",
+          "status": "correct"
+        },
+        {
+          "word": "metsast",
+          "status": "correct"
+        },
+        {
+          "word": "mehele",
+          "status": "correct"
+        },
+        {
+          "word": "Puu",
+          "status": "correct"
+        },
+        {
+          "word": "otsast",
+          "status": "not_important"
+        },
+        {
+          "word": "poistelegi",
+          "status": "correct"
+        },
+        {
+          "word": "Kännu",
+          "status": "correct"
+        },
+        {
+          "word": "otsast",
+          "status": "not_important"
+        },
+        {
+          "word": "kaasadelle.",
+          "status": "wrong"
+        },
+        {
+          "word": "Puud",
+          "status": "correct"
+        },
+        {
+          "word": "oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "olnud",
+          "status": "not_important"
+        },
+        {
+          "word": "pulmanaised",
+          "status": "wrong"
+        },
+        {
+          "word": "Kased",
+          "status": "correct"
+        },
+        {
+          "word": "valged",
+          "status": "correct"
+        },
+        {
+          "word": "kaasanaised",
+          "status": "correct"
+        },
+        {
+          "word": "Sööditükk",
+          "status": "correct"
+        },
+        {
+          "word": "su",
+          "status": "not_important"
+        },
+        {
+          "word": "söömalauda",
+          "status": "correct"
+        },
+        {
+          "word": "Kanarbik",
+          "status": "correct"
+        },
+        {
+          "word": "su",
+          "status": "not_important"
+        },
+        {
+          "word": "hoostekarja",
+          "status": "wrong"
+        },
+        {
+          "word": "Põllupeenar",
+          "status": "correct"
+        },
+        {
+          "word": "istepinki.",
+          "status": "correct"
+        },
+        {
+          "word": "Nüid",
+          "status": "correct"
+        },
+        {
+          "word": "sind",
+          "status": "not_important"
+        },
+        {
+          "word": "kaasale",
+          "status": "correct"
+        },
+        {
+          "word": "kositi.",
+          "status": "correct"
+        },
+        {
+          "word": "Nüid",
+          "status": "correct"
+        },
+        {
+          "word": "on",
+          "status": "not_important"
+        },
+        {
+          "word": "sõitnud",
+          "status": "correct"
+        },
+        {
+          "word": "saekene",
+          "status": "correct"
+        },
+        {
+          "word": "Piitsaplaksud,",
+          "status": "correct"
+        },
+        {
+          "word": "peniplaksud",
+          "status": "wrong"
+        },
+        {
+          "word": "Sõitis",
+          "status": "correct"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "õue",
+          "status": "correct"
+        },
+        {
+          "word": "alla",
+          "status": "not_important"
+        },
+        {
+          "word": "Sõitis",
+          "status": "correct"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "õue",
+          "status": "correct"
+        },
+        {
+          "word": "alla",
+          "status": "not_important"
+        },
+        {
+          "word": "Tule",
+          "status": "correct"
+        },
+        {
+          "word": "ämma,",
+          "status": "correct"
+        },
+        {
+          "word": "too",
+          "status": "not_important"
+        },
+        {
+          "word": "kasukast",
+          "status": "correct"
+        },
+        {
+          "word": "Tule",
+          "status": "correct"
+        },
+        {
+          "word": "vahest",
+          "status": "correct"
+        },
+        {
+          "word": "vaatamaie",
+          "status": "correct"
+        },
+        {
+          "word": "Vii",
+          "status": "correct"
+        },
+        {
+          "word": "see",
+          "status": "not_important"
+        },
+        {
+          "word": "tige",
+          "status": "correct"
+        },
+        {
+          "word": "teelta",
+          "status": "correct"
+        },
+        {
+          "word": "Vii",
+          "status": "correct"
+        },
+        {
+          "word": "see",
+          "status": "not_important"
+        },
+        {
+          "word": "rine",
+          "status": "correct"
+        },
+        {
+          "word": "reelta",
+          "status": "correct"
+        },
+        {
+          "word": "Too",
+          "status": "correct"
+        },
+        {
+          "word": "kui",
+          "status": "not_important"
+        },
+        {
+          "word": "tonti",
+          "status": "correct"
+        },
+        {
+          "word": "tubaje",
+          "status": "correct"
+        },
+        {
+          "word": "Ämma",
+          "status": "not_important"
+        },
+        {
+          "word": "silma,",
+          "status": "correct"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "kõrva",
+          "status": "correct"
+        },
+        {
+          "word": "Pilusilma,",
+          "status": "wrong"
+        },
+        {
+          "word": "peni",
+          "status": "correct"
+        },
+        {
+          "word": "kõrva",
+          "status": "correct"
+        },
+        {
+          "word": "Kõverkäppa",
+          "status": "correct"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "ette",
+          "status": "not_important"
+        },
+        {
+          "word": "Liigu",
+          "status": "correct"
+        },
+        {
+          "word": "nüid",
+          "status": "correct"
+        },
+        {
+          "word": "liigu,",
+          "status": "correct"
+        },
+        {
+          "word": "leekene",
+          "status": "correct"
+        },
+        {
+          "word": "Anna",
+          "status": "correct"
+        },
+        {
+          "word": "ruumi",
+          "status": "correct"
+        },
+        {
+          "word": "ahjukene",
+          "status": "correct"
+        },
+        {
+          "word": "Tagane",
+          "status": "correct"
+        },
+        {
+          "word": "tagumine",
+          "status": "correct"
+        },
+        {
+          "word": "seina",
+          "status": "correct"
+        },
+        {
+          "word": "Nüid",
+          "status": "correct"
+        },
+        {
+          "word": "tuleb",
+          "status": "correct"
+        },
+        {
+          "word": "trummal",
+          "status": "correct"
+        },
+        {
+          "word": "tubaje",
+          "status": "correct"
+        },
+        {
+          "word": "Parapantsik",
+          "status": "wrong"
+        },
+        {
+          "word": "põrmandulle,",
+          "status": "correct"
+        },
+        {
+          "word": "Kui",
+          "status": "not_important"
+        },
+        {
+          "word": "ma",
+          "status": "not_important"
+        },
+        {
+          "word": "tuiskan",
+          "status": "correct"
+        },
+        {
+          "word": "ja",
+          "status": "not_important"
+        },
+        {
+          "word": "vihastan",
+          "status": "correct"
+        },
+        {
+          "word": "Võtan",
+          "status": "correct"
+        },
+        {
+          "word": "kulbi",
+          "status": "correct"
+        },
+        {
+          "word": "koera",
+          "status": "correct"
+        },
+        {
+          "word": "eesta",
+          "status": "not_important"
+        },
+        {
+          "word": "Leemevaagna",
+          "status": "correct"
+        },
+        {
+          "word": "litsi",
+          "status": "correct"
+        },
+        {
+          "word": "käästa",
+          "status": "correct"
+        },
+        {
+          "word": "Annan",
+          "status": "correct"
+        },
+        {
+          "word": "kulbi",
+          "status": "correct"
+        },
+        {
+          "word": "eide",
+          "status": "correct"
+        },
+        {
+          "word": "kätte",
+          "status": "not_important"
+        },
+        {
+          "word": "Leemekausi",
+          "status": "correct"
+        },
+        {
+          "word": "eide",
+          "status": "correct"
+        },
+        {
+          "word": "rüppe.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "Kiusulaul pulmas.",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Oh",
+          "status": "not_important"
+        },
+        {
+          "word": "sina",
+          "status": "not_important"
+        },
+        {
+          "word": "sigade",
+          "status": "correct"
+        },
+        {
+          "word": "saia,",
+          "status": "correct"
+        },
+        {
+          "word": "Kõige",
+          "status": "not_important"
+        },
+        {
+          "word": "pere",
+          "status": "correct"
+        },
+        {
+          "word": "pesukappa,",
+          "status": "correct"
+        },
+        {
+          "word": "Isa,",
+          "status": "correct"
+        },
+        {
+          "word": "ema",
+          "status": "correct"
+        },
+        {
+          "word": "kätekappa,",
+          "status": "correct"
+        },
+        {
+          "word": "Alga",
+          "status": "correct"
+        },
+        {
+          "word": "aga",
+          "status": "correct"
+        },
+        {
+          "word": "üles",
+          "status": "correct"
+        },
+        {
+          "word": "annivakka,",
+          "status": "wrong"
+        },
+        {
+          "word": "Kisu",
+          "status": "not_important"
+        },
+        {
+          "word": "aga",
+          "status": "not_important"
+        },
+        {
+          "word": "üles",
+          "status": "not_important"
+        },
+        {
+          "word": "kiidukerstu,",
+          "status": "wrong"
+        },
+        {
+          "word": "Mis",
+          "status": "not_important"
+        },
+        {
+          "word": "sina",
+          "status": "not_important"
+        },
+        {
+          "word": "mullu",
+          "status": "correct"
+        },
+        {
+          "word": "kiitelesid",
+          "status": "correct"
+        },
+        {
+          "word": "Meie",
+          "status": "not_important"
+        },
+        {
+          "word": "küla",
+          "status": "correct"
+        },
+        {
+          "word": "kiige",
+          "status": "correct"
+        },
+        {
+          "word": "alla,",
+          "status": "not_important"
+        },
+        {
+          "word": "Meie",
+          "status": "not_important"
+        },
+        {
+          "word": "valla",
+          "status": "correct"
+        },
+        {
+          "word": "vainuella:",
+          "status": "correct"
+        },
+        {
+          "word": "\"Oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "sada",
+          "status": "not_important"
+        },
+        {
+          "word": "naduda,",
+          "status": "wrong"
+        },
+        {
+          "word": "Oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "kümme",
+          "status": "not_important"
+        },
+        {
+          "word": "küdida!\"",
+          "status": "wrong"
+        },
+        {
+          "word": "Naisukesed,",
+          "status": "correct"
+        },
+        {
+          "word": "kaasukesed,",
+          "status": "correct"
+        },
+        {
+          "word": "Las",
+          "status": "correct"
+        },
+        {
+          "word": "siis",
+          "status": "correct"
+        },
+        {
+          "word": "küsin",
+          "status": "correct"
+        },
+        {
+          "word": "kannatelles.",
+          "status": "correct"
+        },
+        {
+          "word": "Kas",
+          "status": "correct"
+        },
+        {
+          "word": "siis",
+          "status": "correct"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "annab",
+          "status": "correct"
+        },
+        {
+          "word": "härja?",
+          "status": "correct"
+        },
+        {
+          "word": "Kas",
+          "status": "correct"
+        },
+        {
+          "word": "siis",
+          "status": "correct"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "annab",
+          "status": "correct"
+        },
+        {
+          "word": "lehma?",
+          "status": "correct"
+        },
+        {
+          "word": "Kas",
+          "status": "correct"
+        },
+        {
+          "word": "siis",
+          "status": "correct"
+        },
+        {
+          "word": "küdi",
+          "status": "wrong"
+        },
+        {
+          "word": "annab",
+          "status": "correct"
+        },
+        {
+          "word": "küüdu?",
+          "status": "correct"
+        },
+        {
+          "word": "Nadu",
+          "status": "wrong"
+        },
+        {
+          "word": "valgepea",
+          "status": "correct"
+        },
+        {
+          "word": "vasika?",
+          "status": "correct"
+        },
+        {
+          "word": "Küll",
+          "status": "not_important"
+        },
+        {
+          "word": "siis",
+          "status": "not_important"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "saaneb",
+          "status": "correct"
+        },
+        {
+          "word": "särgi,",
+          "status": "correct"
+        },
+        {
+          "word": "Küll",
+          "status": "not_important"
+        },
+        {
+          "word": "siis",
+          "status": "not_important"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "saaneb",
+          "status": "correct"
+        },
+        {
+          "word": "särgi,",
+          "status": "correct"
+        },
+        {
+          "word": "Küdi",
+          "status": "wrong"
+        },
+        {
+          "word": "soab",
+          "status": "correct"
+        },
+        {
+          "word": "küüdud",
+          "status": "correct"
+        },
+        {
+          "word": "searepaelad,",
+          "status": "wrong"
+        },
+        {
+          "word": "Nadu",
+          "status": "wrong"
+        },
+        {
+          "word": "narmikud",
+          "status": "wrong"
+        },
+        {
+          "word": "käiksed.",
+          "status": "wrong"
+        },
+        {
+          "word": "Tasa",
+          "status": "correct"
+        },
+        {
+          "word": "aga",
+          "status": "correct"
+        },
+        {
+          "word": "neiut",
+          "status": "correct"
+        },
+        {
+          "word": "tantsitage",
+          "status": "correct"
+        },
+        {
+          "word": "Viisipärast",
+          "status": "correct"
+        },
+        {
+          "word": "veeretage,",
+          "status": "correct"
+        },
+        {
+          "word": "Korrapärast",
+          "status": "correct"
+        },
+        {
+          "word": "keerutage,",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "ei",
+          "status": "not_important"
+        },
+        {
+          "word": "põru",
+          "status": "correct"
+        },
+        {
+          "word": "põllepaelad,",
+          "status": "correct"
+        },
+        {
+          "word": "Ega",
+          "status": "not_important"
+        },
+        {
+          "word": "ei",
+          "status": "not_important"
+        },
+        {
+          "word": "liigu",
+          "status": "correct"
+        },
+        {
+          "word": "mütsilindid.",
+          "status": "correct"
+        },
+        {
+          "word": "Ehk",
+          "status": "wrong"
+        },
+        {
+          "word": "on",
+          "status": "not_important"
+        },
+        {
+          "word": "tited",
+          "status": "correct"
+        },
+        {
+          "word": "tiiva",
+          "status": "correct"
+        },
+        {
+          "word": "alla,",
+          "status": "not_important"
+        },
+        {
+          "word": "Värdjad",
+          "status": "correct"
+        },
+        {
+          "word": "vöö",
+          "status": "correct"
+        },
+        {
+          "word": "vahella,",
+          "status": "not_important"
+        },
+        {
+          "word": "Kasulapsed",
+          "status": "wrong"
+        },
+        {
+          "word": "kaendelassa.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 3,
+      "title": "Title 3",
+      "overallRating": 2,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "peiukene - peigmees, not little boy in any case, a groom! Poisikene - dear son, not little lad. Throws all of the song off. ",
+      "words": [
+        {
+          "word": "Peiukene,",
+          "status": "wrong"
+        },
+        {
+          "word": "poisikene",
+          "status": "wrong"
+        },
+        {
+          "word": "Kust",
+          "status": "correct"
+        },
+        {
+          "word": "oskasid",
+          "status": "correct"
+        },
+        {
+          "word": "meile",
+          "status": "not_important"
+        },
+        {
+          "word": "tulla?",
+          "status": "correct"
+        },
+        {
+          "word": "Oskasid",
+          "status": "correct"
+        },
+        {
+          "word": "üle",
+          "status": "not_important"
+        },
+        {
+          "word": "oraste",
+          "status": "correct"
+        },
+        {
+          "word": "Märkasid",
+          "status": "correct"
+        },
+        {
+          "word": "üle",
+          "status": "not_important"
+        },
+        {
+          "word": "mägede",
+          "status": "correct"
+        },
+        {
+          "word": "Teil",
+          "status": "not_important"
+        },
+        {
+          "word": "olid",
+          "status": "not_important"
+        },
+        {
+          "word": "tulgid",
+          "status": "correct"
+        },
+        {
+          "word": "tullessagi",
+          "status": "correct"
+        },
+        {
+          "word": "Keelekoerad",
+          "status": "wrong"
+        },
+        {
+          "word": "kaasassagi.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 4,
+      "title": "Title 4",
+      "overallRating": 5,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "This is a rare song that has very little dialectal words, although not purely in Estonian either. ",
+      "words": [
+        {
+          "word": "Kas",
+          "status": "correct"
+        },
+        {
+          "word": "need",
+          "status": "not_important"
+        },
+        {
+          "word": "annid,",
+          "status": "correct"
+        },
+        {
+          "word": "mis",
+          "status": "not_important"
+        },
+        {
+          "word": "ma",
+          "status": "not_important"
+        },
+        {
+          "word": "saanud",
+          "status": "correct"
+        },
+        {
+          "word": "Või",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "kinki,",
+          "status": "correct"
+        },
+        {
+          "word": "mis",
+          "status": "not_important"
+        },
+        {
+          "word": "kingiti",
+          "status": "correct"
+        },
+        {
+          "word": "Siga",
+          "status": "correct"
+        },
+        {
+          "word": "oli",
+          "status": "not_important"
+        },
+        {
+          "word": "särsanud",
+          "status": "correct"
+        },
+        {
+          "word": "sinista",
+          "status": "correct"
+        },
+        {
+          "word": "Hobu",
+          "status": "correct"
+        },
+        {
+          "word": "oli",
+          "status": "not_important"
+        },
+        {
+          "word": "pursanud",
+          "status": "correct"
+        },
+        {
+          "word": "punasta",
+          "status": "correct"
+        },
+        {
+          "word": "Kas",
+          "status": "correct"
+        },
+        {
+          "word": "pean",
+          "status": "not_important"
+        },
+        {
+          "word": "pistma",
+          "status": "correct"
+        },
+        {
+          "word": "pingi",
+          "status": "correct"
+        },
+        {
+          "word": "alla",
+          "status": "not_important"
+        },
+        {
+          "word": "Või",
+          "status": "not_important"
+        },
+        {
+          "word": "pean",
+          "status": "not_important"
+        },
+        {
+          "word": "laskma",
+          "status": "correct"
+        },
+        {
+          "word": "laua",
+          "status": "correct"
+        },
+        {
+          "word": "alla",
+          "status": "not_important"
+        },
+        {
+          "word": "Või",
+          "status": "not_important"
+        },
+        {
+          "word": "viin",
+          "status": "correct"
+        },
+        {
+          "word": "seasöötijalle",
+          "status": "correct"
+        },
+        {
+          "word": "Kannan",
+          "status": "correct"
+        },
+        {
+          "word": "koju",
+          "status": "correct"
+        },
+        {
+          "word": "karjutsele.",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 5,
+      "title": "Pulmalugu pruudile",
+      "overallRating": 1,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "Very dialectal. Not estonian ",
+      "words": [
+        {
+          "word": "Õekene,",
+          "status": "correct"
+        },
+        {
+          "word": "ellakene,",
+          "status": "correct"
+        },
+        {
+          "word": "Tuo",
+          "status": "not_important"
+        },
+        {
+          "word": "tänna",
+          "status": "wrong"
+        },
+        {
+          "word": "näita",
+          "status": "wrong"
+        },
+        {
+          "word": "välja?",
+          "status": "wrong"
+        },
+        {
+          "word": "Mis",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "kukeni",
+          "status": "wrong"
+        },
+        {
+          "word": "kudusid",
+          "status": "correct"
+        },
+        {
+          "word": "Lauba",
+          "status": "correct"
+        },
+        {
+          "word": "õhtuni",
+          "status": "correct"
+        },
+        {
+          "word": "ladusid,",
+          "status": "wrong"
+        },
+        {
+          "word": "Pühapäised",
+          "status": "correct"
+        },
+        {
+          "word": "pikad",
+          "status": "wrong"
+        },
+        {
+          "word": "päevad,",
+          "status": "wrong"
+        },
+        {
+          "word": "Argipäised",
+          "status": "wrong"
+        },
+        {
+          "word": "söömaajad.",
+          "status": "correct"
+        },
+        {
+          "word": "Kuo",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "peerguda",
+          "status": "wrong"
+        },
+        {
+          "word": "põletasid,",
+          "status": "correct"
+        },
+        {
+          "word": "Külimitu",
+          "status": "wrong"
+        },
+        {
+          "word": "küünla'aida.",
+          "status": "correct"
+        },
+        {
+          "word": "Kui",
+          "status": "not_important"
+        },
+        {
+          "word": "põle",
+          "status": "wrong"
+        },
+        {
+          "word": "anda",
+          "status": "correct"
+        },
+        {
+          "word": "andisida,",
+          "status": "wrong"
+        },
+        {
+          "word": "Anna",
+          "status": "correct"
+        },
+        {
+          "word": "piuga",
+          "status": "wrong"
+        },
+        {
+          "word": "villusida.",
+          "status": "wrong"
+        },
+        {
+          "word": "Külap",
+          "status": "wrong"
+        },
+        {
+          "word": "ma",
+          "status": "not_important"
+        },
+        {
+          "word": "teel",
+          "status": "correct"
+        },
+        {
+          "word": "teeksin,",
+          "status": "correct"
+        },
+        {
+          "word": "Suanikol´lul",
+          "status": "wrong"
+        },
+        {
+          "word": "koorutaksin.",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 6,
+      "title": "Title 6",
+      "overallRating": 2,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "The meaning is totally lost, but the words are not written in a grammatically correct way, so for instance kirst is written kerst, there are many letters missing here and there and the meaning is only understandable  when the text is read aloud. Heavily dialectal, and poetic additions to words. ",
+      "words": [
+        {
+          "word": "Neitsikene",
+          "status": "correct"
+        },
+        {
+          "word": "noorukene",
+          "status": "wrong"
+        },
+        {
+          "word": "Kisu",
+          "status": "wrong"
+        },
+        {
+          "word": "nüid",
+          "status": "correct"
+        },
+        {
+          "word": "üles",
+          "status": "wrong"
+        },
+        {
+          "word": "kiidukerstu",
+          "status": "wrong"
+        },
+        {
+          "word": "Alga",
+          "status": "wrong"
+        },
+        {
+          "word": "aidast",
+          "status": "wrong"
+        },
+        {
+          "word": "annivakka",
+          "status": "wrong"
+        },
+        {
+          "word": "Mis",
+          "status": "not_important"
+        },
+        {
+          "word": "oled",
+          "status": "not_important"
+        },
+        {
+          "word": "eala",
+          "status": "wrong"
+        },
+        {
+          "word": "teinud",
+          "status": "correct"
+        },
+        {
+          "word": "Kasu",
+          "status": "wrong"
+        },
+        {
+          "word": "kalli",
+          "status": "correct"
+        },
+        {
+          "word": "kokku",
+          "status": "correct"
+        },
+        {
+          "word": "pannud.",
+          "status": "correct"
+        },
+        {
+          "word": "Mis",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "mullu",
+          "status": "correct"
+        },
+        {
+          "word": "kiitelesid.",
+          "status": "correct"
+        },
+        {
+          "word": "Kiitsid",
+          "status": "correct"
+        },
+        {
+          "word": "meie",
+          "status": "not_important"
+        },
+        {
+          "word": "kiige",
+          "status": "correct"
+        },
+        {
+          "word": "alla",
+          "status": "not_important"
+        },
+        {
+          "word": "Hooplesid",
+          "status": "wrong"
+        },
+        {
+          "word": "oma",
+          "status": "not_important"
+        },
+        {
+          "word": "kodugi.",
+          "status": "correct"
+        },
+        {
+          "word": "Oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "kümme",
+          "status": "not_important"
+        },
+        {
+          "word": "küdida",
+          "status": "wrong"
+        },
+        {
+          "word": "Oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "sada",
+          "status": "not_important"
+        },
+        {
+          "word": "naduda",
+          "status": "wrong"
+        },
+        {
+          "word": "Oleks",
+          "status": "not_important"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "viisi",
+          "status": "correct"
+        },
+        {
+          "word": "vennanaista",
+          "status": "correct"
+        },
+        {
+          "word": "Kõik",
+          "status": "not_important"
+        },
+        {
+          "word": "mina",
+          "status": "not_important"
+        },
+        {
+          "word": "kataks",
+          "status": "correct"
+        },
+        {
+          "word": "kangastelle",
+          "status": "correct"
+        },
+        {
+          "word": "Peidaks",
+          "status": "correct"
+        },
+        {
+          "word": "pikaje",
+          "status": "correct"
+        },
+        {
+          "word": "linale.",
+          "status": "correct"
+        },
+        {
+          "word": "Õbelõnga",
+          "status": "wrong"
+        },
+        {
+          "word": "õmbeleksin",
+          "status": "correct"
+        },
+        {
+          "word": "Kooksin",
+          "status": "correct"
+        },
+        {
+          "word": "kuldakroonidesse.",
+          "status": "correct"
+        },
+        {
+          "word": "Ootage",
+          "status": "correct"
+        },
+        {
+          "word": "urme",
+          "status": "wrong"
+        },
+        {
+          "word": "undid",
+          "status": "correct"
+        },
+        {
+          "word": "Kannatage",
+          "status": "correct"
+        },
+        {
+          "word": "karjakoerad",
+          "status": "correct"
+        },
+        {
+          "word": "Küll",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "saate",
+          "status": "not_important"
+        },
+        {
+          "word": "saamasandid",
+          "status": "wrong"
+        },
+        {
+          "word": "Saate",
+          "status": "correct"
+        },
+        {
+          "word": "õuesed",
+          "status": "correct"
+        },
+        {
+          "word": "agijad",
+          "status": "wrong"
+        },
+        {
+          "word": "Kerst",
+          "status": "wrong"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "täide",
+          "status": "wrong"
+        },
+        {
+          "word": "kiilitud",
+          "status": "wrong"
+        },
+        {
+          "word": "Kõik",
+          "status": "not_important"
+        },
+        {
+          "word": "mul",
+          "status": "not_important"
+        },
+        {
+          "word": "täide",
+          "status": "correct"
+        },
+        {
+          "word": "vaalitud",
+          "status": "wrong"
+        },
+        {
+          "word": "Küll",
+          "status": "correct"
+        },
+        {
+          "word": "siin",
+          "status": "correct"
+        },
+        {
+          "word": "soab",
+          "status": "correct"
+        },
+        {
+          "word": "siis",
+          "status": "correct"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "särgi",
+          "status": "correct"
+        },
+        {
+          "word": "Äia",
+          "status": "correct"
+        },
+        {
+          "word": "särgi",
+          "status": "correct"
+        },
+        {
+          "word": "laia",
+          "status": "correct"
+        },
+        {
+          "word": "loadi",
+          "status": "wrong"
+        },
+        {
+          "word": "Ämma",
+          "status": "correct"
+        },
+        {
+          "word": "särki",
+          "status": "correct"
+        },
+        {
+          "word": "pika",
+          "status": "correct"
+        },
+        {
+          "word": "pihta",
+          "status": "not_important"
+        },
+        {
+          "word": "Nadu",
+          "status": "wrong"
+        },
+        {
+          "word": "saab",
+          "status": "not_important"
+        },
+        {
+          "word": "käiksed",
+          "status": "wrong"
+        },
+        {
+          "word": "naastulised.",
+          "status": "wrong"
+        },
+        {
+          "word": "Küdi",
+          "status": "wrong"
+        },
+        {
+          "word": "kindad",
+          "status": "correct"
+        },
+        {
+          "word": "küisilised",
+          "status": "wrong"
+        },
+        {
+          "word": "Kui",
+          "status": "not_important"
+        },
+        {
+          "word": "siin",
+          "status": "correct"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "annab",
+          "status": "correct"
+        },
+        {
+          "word": "ärja",
+          "status": "correct"
+        },
+        {
+          "word": "Ja",
+          "status": "not_important"
+        },
+        {
+          "word": "kui",
+          "status": "not_important"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "kingib",
+          "status": "correct"
+        },
+        {
+          "word": "lehma,",
+          "status": "correct"
+        },
+        {
+          "word": "Küdi",
+          "status": "wrong"
+        },
+        {
+          "word": "siin",
+          "status": "correct"
+        },
+        {
+          "word": "kingib",
+          "status": "correct"
+        },
+        {
+          "word": "küidu",
+          "status": "correct"
+        },
+        {
+          "word": "härja",
+          "status": "correct"
+        },
+        {
+          "word": "Küll",
+          "status": "correct"
+        },
+        {
+          "word": "siin",
+          "status": "correct"
+        },
+        {
+          "word": "anni",
+          "status": "correct"
+        },
+        {
+          "word": "tahtijaida",
+          "status": "correct"
+        },
+        {
+          "word": "Laia",
+          "status": "correct"
+        },
+        {
+          "word": "vöö",
+          "status": "correct"
+        },
+        {
+          "word": "lunastajaid,",
+          "status": "correct"
+        },
+        {
+          "word": "Ei",
+          "status": "not_important"
+        },
+        {
+          "word": "ole",
+          "status": "correct"
+        },
+        {
+          "word": "ärja",
+          "status": "correct"
+        },
+        {
+          "word": "andijaida",
+          "status": "correct"
+        },
+        {
+          "word": "Ega",
+          "status": "not_important"
+        },
+        {
+          "word": "lehma",
+          "status": "correct"
+        },
+        {
+          "word": "kinkijaida.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 7,
+      "title": "Title 1",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Viidi",
+          "status": "correct"
+        },
+        {
+          "word": "meilt",
+          "status": "not_important"
+        },
+        {
+          "word": "üks",
+          "status": "not_important"
+        },
+        {
+          "word": "vilgas",
+          "status": "correct"
+        },
+        {
+          "word": "neiu",
+          "status": "correct"
+        },
+        {
+          "word": "Toodi",
+          "status": "correct"
+        },
+        {
+          "word": "meil",
+          "status": "not_important"
+        },
+        {
+          "word": "üks",
+          "status": "not_important"
+        },
+        {
+          "word": "torsuperse",
+          "status": "wrong"
+        },
+        {
+          "word": "Naesed",
+          "status": "correct"
+        },
+        {
+          "word": "kiitsid",
+          "status": "correct"
+        },
+        {
+          "word": "põllepõlve",
+          "status": "wrong"
+        },
+        {
+          "word": "Austasid",
+          "status": "correct"
+        },
+        {
+          "word": "tanualusta",
+          "status": "wrong"
+        },
+        {
+          "word": "Ma",
+          "status": "not_important"
+        },
+        {
+          "word": "olin",
+          "status": "not_important"
+        },
+        {
+          "word": "usin",
+          "status": "correct"
+        },
+        {
+          "word": "uskumaie",
+          "status": "correct"
+        },
+        {
+          "word": "Ja",
+          "status": "not_important"
+        },
+        {
+          "word": "olin",
+          "status": "not_important"
+        },
+        {
+          "word": "kaval",
+          "status": "correct"
+        },
+        {
+          "word": "katsumaie",
+          "status": "correct"
+        },
+        {
+          "word": "Sest",
+          "status": "not_important"
+        },
+        {
+          "word": "ep'",
+          "status": "wrong"
+        },
+        {
+          "word": "põld",
+          "status": "correct"
+        },
+        {
+          "word": "põllel",
+          "status": "correct"
+        },
+        {
+          "word": "parema",
+          "status": "correct"
+        },
+        {
+          "word": "Tanu",
+          "status": "wrong"
+        },
+        {
+          "word": "all",
+          "status": "correct"
+        },
+        {
+          "word": "saab",
+          "status": "not_important"
+        },
+        {
+          "word": "haige",
+          "status": "correct"
+        },
+        {
+          "word": "olla",
+          "status": "not_important"
+        },
+        {
+          "word": "Mütsi",
+          "status": "correct"
+        },
+        {
+          "word": "all",
+          "status": "not_important"
+        },
+        {
+          "word": "saab",
+          "status": "correct"
+        },
+        {
+          "word": "mütsakaid",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 8,
+      "title": "Title 8",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Imetasid",
+          "status": "correct"
+        },
+        {
+          "word": "poegalasta",
+          "status": "correct"
+        },
+        {
+          "word": "Imetasid",
+          "status": "correct"
+        },
+        {
+          "word": "ellitasid:",
+          "status": "wrong"
+        },
+        {
+          "word": "Kasvatasid",
+          "status": "correct"
+        },
+        {
+          "word": "kallistasid",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "tooks",
+          "status": "correct"
+        },
+        {
+          "word": "eidele",
+          "status": "correct"
+        },
+        {
+          "word": "esiko",
+          "status": "correct"
+        },
+        {
+          "word": "Haudujale",
+          "status": "wrong"
+        },
+        {
+          "word": "asteliko",
+          "status": "wrong"
+        },
+        {
+          "word": "Tuli",
+          "status": "correct"
+        },
+        {
+          "word": "aega",
+          "status": "correct"
+        },
+        {
+          "word": "jõudis",
+          "status": "correct"
+        },
+        {
+          "word": "pääva",
+          "status": "correct"
+        },
+        {
+          "word": "Poeg",
+          "status": "correct"
+        },
+        {
+          "word": "tõi",
+          "status": "correct"
+        },
+        {
+          "word": "eidele",
+          "status": "correct"
+        },
+        {
+          "word": "emanda",
+          "status": "correct"
+        },
+        {
+          "word": "haudujale",
+          "status": "wrong"
+        },
+        {
+          "word": "augutaja",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 9,
+      "title": "Title 9",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "alvad -> halvad\n\nIn many songs the words are written as they were pronounced. The h is barely heard in this word so it's just omitted. May be actually the machine translation would cope better if it were listening to the song, but when the words are coded into tokens it just has no idea. ",
+      "words": [
+        {
+          "word": "Oiu",
+          "status": "not_important"
+        },
+        {
+          "word": "voiu",
+          "status": "not_important"
+        },
+        {
+          "word": "vorsti",
+          "status": "correct"
+        },
+        {
+          "word": "tahaks",
+          "status": "correct"
+        },
+        {
+          "word": "Vorstikambre",
+          "status": "correct"
+        },
+        {
+          "word": "võti",
+          "status": "correct"
+        },
+        {
+          "word": "kadund",
+          "status": "correct"
+        },
+        {
+          "word": "Mull'",
+          "status": "correct"
+        },
+        {
+          "word": "aga",
+          "status": "correct"
+        },
+        {
+          "word": "anti",
+          "status": "correct"
+        },
+        {
+          "word": "alvad",
+          "status": "wrong"
+        },
+        {
+          "word": "annid",
+          "status": "wrong"
+        },
+        {
+          "word": "Alvad",
+          "status": "wrong"
+        },
+        {
+          "word": "annid",
+          "status": "wrong"
+        },
+        {
+          "word": "-",
+          "status": "not_important"
+        },
+        {
+          "word": "hallid",
+          "status": "correct"
+        },
+        {
+          "word": "sukad",
+          "status": "correct"
+        },
+        {
+          "word": "Kure",
+          "status": "wrong"
+        },
+        {
+          "word": "kustud",
+          "status": "correct"
+        },
+        {
+          "word": "säärepaelad",
+          "status": "correct"
+        },
+        {
+          "word": "Ma",
+          "status": "correct"
+        },
+        {
+          "word": "põld",
+          "status": "correct"
+        },
+        {
+          "word": "päris",
+          "status": "correct"
+        },
+        {
+          "word": "pulmaline.",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 10,
+      "title": "Title 10",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Neitsikene",
+          "status": "correct"
+        },
+        {
+          "word": "noorukene",
+          "status": "correct"
+        },
+        {
+          "word": "Kirjupihta",
+          "status": "wrong"
+        },
+        {
+          "word": "peenikene",
+          "status": "correct"
+        },
+        {
+          "word": "Ära",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "pane",
+          "status": "correct"
+        },
+        {
+          "word": "pahaksi",
+          "status": "correct"
+        },
+        {
+          "word": "Ära",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "võta",
+          "status": "correct"
+        },
+        {
+          "word": "vihaksi",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "not_important"
+        },
+        {
+          "word": "küdi",
+          "status": "wrong"
+        },
+        {
+          "word": "küüruselga",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "nadu",
+          "status": "wrong"
+        },
+        {
+          "word": "narmaskaela",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "pardalõuga",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "kiukalõuga",
+          "status": "wrong"
+        },
+        {
+          "word": "Sest",
+          "status": "not_important"
+        },
+        {
+          "word": "põle",
+          "status": "correct"
+        },
+        {
+          "word": "viga",
+          "status": "correct"
+        },
+        {
+          "word": "sest",
+          "status": "not_important"
+        },
+        {
+          "word": "pole",
+          "status": "not_important"
+        },
+        {
+          "word": "vaeva",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "not_important"
+        },
+        {
+          "word": "küdi",
+          "status": "not_important"
+        },
+        {
+          "word": "küiruselga",
+          "status": "correct"
+        },
+        {
+          "word": "Kodjada",
+          "status": "correct"
+        },
+        {
+          "word": "talo",
+          "status": "correct"
+        },
+        {
+          "word": "kivida",
+          "status": "correct"
+        },
+        {
+          "word": "Sest",
+          "status": "not_important"
+        },
+        {
+          "word": "põle",
+          "status": "correct"
+        },
+        {
+          "word": "viga",
+          "status": "correct"
+        },
+        {
+          "word": "sest",
+          "status": "not_important"
+        },
+        {
+          "word": "põle",
+          "status": "correct"
+        },
+        {
+          "word": "vaeva",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "nado",
+          "status": "wrong"
+        },
+        {
+          "word": "narmaskaela",
+          "status": "correct"
+        },
+        {
+          "word": "Luuata",
+          "status": "wrong"
+        },
+        {
+          "word": "pühib",
+          "status": "correct"
+        },
+        {
+          "word": "tubaje",
+          "status": "wrong"
+        },
+        {
+          "word": "Sest",
+          "status": "not_important"
+        },
+        {
+          "word": "põle",
+          "status": "correct"
+        },
+        {
+          "word": "viga",
+          "status": "correct"
+        },
+        {
+          "word": "sest",
+          "status": "not_important"
+        },
+        {
+          "word": "põle",
+          "status": "correct"
+        },
+        {
+          "word": "vaeva",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "äiä",
+          "status": "correct"
+        },
+        {
+          "word": "arvaparda",
+          "status": "wrong"
+        },
+        {
+          "word": "Hargita",
+          "status": "wrong"
+        },
+        {
+          "word": "ta",
+          "status": "not_important"
+        },
+        {
+          "word": "kütab",
+          "status": "correct"
+        },
+        {
+          "word": "ahjo",
+          "status": "correct"
+        },
+        {
+          "word": "Sest",
+          "status": "not_important"
+        },
+        {
+          "word": "pole",
+          "status": "correct"
+        },
+        {
+          "word": "viga",
+          "status": "correct"
+        },
+        {
+          "word": "sest",
+          "status": "not_important"
+        },
+        {
+          "word": "pole",
+          "status": "correct"
+        },
+        {
+          "word": "vaeva",
+          "status": "correct"
+        },
+        {
+          "word": "Et",
+          "status": "not_important"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "ämma",
+          "status": "correct"
+        },
+        {
+          "word": "kiukalõuga",
+          "status": "wrong"
+        },
+        {
+          "word": "Kulbita",
+          "status": "wrong"
+        },
+        {
+          "word": "ta",
+          "status": "not_important"
+        },
+        {
+          "word": "keedab",
+          "status": "correct"
+        },
+        {
+          "word": "leeme",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 11,
+      "title": "Title 11",
+      "overallRating": 2,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Oh",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "sandid",
+          "status": "wrong"
+        },
+        {
+          "word": "saelised",
+          "status": "wrong"
+        },
+        {
+          "word": "Pulmalised",
+          "status": "correct"
+        },
+        {
+          "word": "peiulised",
+          "status": "wrong"
+        },
+        {
+          "word": "Mis",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "siina",
+          "status": "correct"
+        },
+        {
+          "word": "seisa'ate",
+          "status": "correct"
+        },
+        {
+          "word": "Juba",
+          "status": "correct"
+        },
+        {
+          "word": "see",
+          "status": "not_important"
+        },
+        {
+          "word": "ammu",
+          "status": "correct"
+        },
+        {
+          "word": "siita",
+          "status": "correct"
+        },
+        {
+          "word": "läinud",
+          "status": "correct"
+        },
+        {
+          "word": "Paides",
+          "status": "correct"
+        },
+        {
+          "word": "ta",
+          "status": "not_important"
+        },
+        {
+          "word": "pea",
+          "status": "correct"
+        },
+        {
+          "word": "sugenud",
+          "status": "wrong"
+        },
+        {
+          "word": "Palus",
+          "status": "correct"
+        },
+        {
+          "word": "kingad",
+          "status": "correct"
+        },
+        {
+          "word": "paelutanud",
+          "status": "correct"
+        },
+        {
+          "word": "Peterburis",
+          "status": "correct"
+        },
+        {
+          "word": "teinud",
+          "status": "correct"
+        },
+        {
+          "word": "pulmad",
+          "status": "correct"
+        },
+        {
+          "word": "Tallinas",
+          "status": "correct"
+        },
+        {
+          "word": "pandud",
+          "status": "correct"
+        },
+        {
+          "word": "tanule",
+          "status": "wrong"
+        },
+        {
+          "word": "Küll",
+          "status": "not_important"
+        },
+        {
+          "word": "siin",
+          "status": "correct"
+        },
+        {
+          "word": "pestud",
+          "status": "correct"
+        },
+        {
+          "word": "peiu",
+          "status": "correct"
+        },
+        {
+          "word": "peeker",
+          "status": "wrong"
+        },
+        {
+          "word": "Pestud",
+          "status": "correct"
+        },
+        {
+          "word": "peiupoisi",
+          "status": "correct"
+        },
+        {
+          "word": "Ihutud",
+          "status": "wrong"
+        },
+        {
+          "word": "isame'",
+          "status": "wrong"
+        },
+        {
+          "word": "toopi",
+          "status": "wrong"
+        },
+        {
+          "word": "Küll",
+          "status": "correct"
+        },
+        {
+          "word": "saab",
+          "status": "not_important"
+        },
+        {
+          "word": "näia",
+          "status": "correct"
+        },
+        {
+          "word": "Kas",
+          "status": "correct"
+        },
+        {
+          "word": "siin",
+          "status": "correct"
+        },
+        {
+          "word": "pestud",
+          "status": "correct"
+        },
+        {
+          "word": "peiu",
+          "status": "correct"
+        },
+        {
+          "word": "peeker",
+          "status": "wrong"
+        },
+        {
+          "word": "Ihutud",
+          "status": "wrong"
+        },
+        {
+          "word": "isame'",
+          "status": "wrong"
+        },
+        {
+          "word": "mõeka",
+          "status": "wrong"
+        },
+        {
+          "word": "Neitsikene",
+          "status": "correct"
+        },
+        {
+          "word": "noorukene",
+          "status": "correct"
+        },
+        {
+          "word": "Mis",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "kuulad",
+          "status": "correct"
+        },
+        {
+          "word": "kammerissa",
+          "status": "correct"
+        },
+        {
+          "word": "Seisad",
+          "status": "correct"
+        },
+        {
+          "word": "seinade",
+          "status": "correct"
+        },
+        {
+          "word": "Oled",
+          "status": "not_important"
+        },
+        {
+          "word": "väetide",
+          "status": "wrong"
+        },
+        {
+          "word": "vahele",
+          "status": "not_important"
+        },
+        {
+          "word": "Tule",
+          "status": "correct"
+        },
+        {
+          "word": "tuppa",
+          "status": "correct"
+        },
+        {
+          "word": "tundemaie",
+          "status": "wrong"
+        },
+        {
+          "word": "Võsa",
+          "status": "wrong"
+        },
+        {
+          "word": "vasta",
+          "status": "wrong"
+        },
+        {
+          "word": "võtemaie",
+          "status": "correct"
+        },
+        {
+          "word": "Sugu",
+          "status": "correct"
+        },
+        {
+          "word": "suurt",
+          "status": "correct"
+        },
+        {
+          "word": "teretamaie",
+          "status": "correct"
+        },
+        {
+          "word": "Võta",
+          "status": "correct"
+        },
+        {
+          "word": "võera'ad",
+          "status": "correct"
+        },
+        {
+          "word": "omaksi",
+          "status": "not_important"
+        },
+        {
+          "word": "Jäta",
+          "status": "correct"
+        },
+        {
+          "word": "omad",
+          "status": "not_important"
+        },
+        {
+          "word": "võera'aksi",
+          "status": "correct"
+        },
+        {
+          "word": "Neitsikene",
+          "status": "correct"
+        },
+        {
+          "word": "noorukene",
+          "status": "correct"
+        },
+        {
+          "word": "Ei",
+          "status": "not_important"
+        },
+        {
+          "word": "ma",
+          "status": "not_important"
+        },
+        {
+          "word": "tule",
+          "status": "correct"
+        },
+        {
+          "word": "sööma",
+          "status": "correct"
+        },
+        {
+          "word": "tõttu",
+          "status": "not_important"
+        },
+        {
+          "word": "Ega",
+          "status": "correct"
+        },
+        {
+          "word": "joose",
+          "status": "wrong"
+        },
+        {
+          "word": "jooma",
+          "status": "correct"
+        },
+        {
+          "word": "tõttu",
+          "status": "not_important"
+        },
+        {
+          "word": "Ma",
+          "status": "not_important"
+        },
+        {
+          "word": "tulin",
+          "status": "correct"
+        },
+        {
+          "word": "lugude",
+          "status": "correct"
+        },
+        {
+          "word": "tõttu",
+          "status": "not_important"
+        },
+        {
+          "word": "Ma",
+          "status": "not_important"
+        },
+        {
+          "word": "tulin",
+          "status": "correct"
+        },
+        {
+          "word": "ilu",
+          "status": "correct"
+        },
+        {
+          "word": "tegema",
+          "status": "correct"
+        },
+        {
+          "word": "Naistel",
+          "status": "correct"
+        },
+        {
+          "word": "nal´la",
+          "status": "correct"
+        },
+        {
+          "word": "Ma",
+          "status": "correct"
+        },
+        {
+          "word": "tulin",
+          "status": "not_important"
+        },
+        {
+          "word": "saama",
+          "status": "correct"
+        },
+        {
+          "word": "saanitäita",
+          "status": "wrong"
+        },
+        {
+          "word": "Koguma",
+          "status": "correct"
+        },
+        {
+          "word": "tulen",
+          "status": "correct"
+        },
+        {
+          "word": "kolju",
+          "status": "wrong"
+        },
+        {
+          "word": "Oma",
+          "status": "correct"
+        },
+        {
+          "word": "venna",
+          "status": "not_important"
+        },
+        {
+          "word": "õlmatäita",
+          "status": "wrong"
+        },
+        {
+          "word": "Et",
+          "status": "correct"
+        },
+        {
+          "word": "las",
+          "status": "not_important"
+        },
+        {
+          "word": "ütlen",
+          "status": "correct"
+        },
+        {
+          "word": "ümmer",
+          "status": "wrong"
+        },
+        {
+          "word": "jälle",
+          "status": "correct"
+        },
+        {
+          "word": "Las",
+          "status": "correct"
+        },
+        {
+          "word": "laulan",
+          "status": "correct"
+        },
+        {
+          "word": "tagasi",
+          "status": "correct"
+        },
+        {
+          "word": "jälle",
+          "status": "correct"
+        },
+        {
+          "word": "Ellakene,",
+          "status": "correct"
+        },
+        {
+          "word": "vellakene",
+          "status": "correct"
+        },
+        {
+          "word": "Ära",
+          "status": "correct"
+        },
+        {
+          "word": "sina",
+          "status": "not_important"
+        },
+        {
+          "word": "nea",
+          "status": "wrong"
+        },
+        {
+          "word": "Vannu",
+          "status": "correct"
+        },
+        {
+          "word": "vaga",
+          "status": "correct"
+        },
+        {
+          "word": "ingesida",
+          "status": "wrong"
+        },
+        {
+          "word": "Nea",
+          "status": "correct"
+        },
+        {
+          "word": "sa",
+          "status": "correct"
+        },
+        {
+          "word": "neidiste",
+          "status": "not_important"
+        },
+        {
+          "word": "isada,",
+          "status": "not_important"
+        },
+        {
+          "word": "Nea",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "not_important"
+        },
+        {
+          "word": "neidiste",
+          "status": "not_important"
+        },
+        {
+          "word": "emada",
+          "status": "not_important"
+        },
+        {
+          "word": "Vannu",
+          "status": "wrong"
+        },
+        {
+          "word": "vana",
+          "status": "correct"
+        },
+        {
+          "word": "naisisida",
+          "status": "correct"
+        },
+        {
+          "word": "Kis",
+          "status": "correct"
+        },
+        {
+          "word": "tegi",
+          "status": "correct"
+        },
+        {
+          "word": "neiud",
+          "status": "correct"
+        },
+        {
+          "word": "kõrge'eksi",
+          "status": "correct"
+        },
+        {
+          "word": "Kõrge'eksi,",
+          "status": "correct"
+        },
+        {
+          "word": "kallieksi",
+          "status": "correct"
+        },
+        {
+          "word": "Enne",
+          "status": "correct"
+        },
+        {
+          "word": "sain",
+          "status": "correct"
+        },
+        {
+          "word": "neiu",
+          "status": "correct"
+        },
+        {
+          "word": "nel´lakümmend",
+          "status": "wrong"
+        },
+        {
+          "word": "Kaasa",
+          "status": "wrong"
+        },
+        {
+          "word": "sain",
+          "status": "wrong"
+        },
+        {
+          "word": "kaheksadkümmend",
+          "status": "correct"
+        },
+        {
+          "word": "Pulmi",
+          "status": "correct"
+        },
+        {
+          "word": "poole",
+          "status": "not_important"
+        },
+        {
+          "word": "tuhandella",
+          "status": "correct"
+        },
+        {
+          "word": "Nüid",
+          "status": "not_important"
+        },
+        {
+          "word": "ep",
+          "status": "not_important"
+        },
+        {
+          "word": "sa",
+          "status": "correct"
+        },
+        {
+          "word": "neiud",
+          "status": "correct"
+        },
+        {
+          "word": "nel´lalkümmnel",
+          "status": "wrong"
+        },
+        {
+          "word": "Kaasad",
+          "status": "wrong"
+        },
+        {
+          "word": "ei",
+          "status": "not_important"
+        },
+        {
+          "word": "kaheksalsaal",
+          "status": "wrong"
+        },
+        {
+          "word": "Pulmi",
+          "status": "correct"
+        },
+        {
+          "word": "poole",
+          "status": "not_important"
+        },
+        {
+          "word": "tuhandella.",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 12,
+      "title": "Pulmalaul",
+      "overallRating": 2,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "The automatic translation again struggles with the words signifying relationships and omitted letters: mini - minia. arakas - harakas.",
+      "words": [
+        {
+          "word": "Tasa",
+          "status": "correct"
+        },
+        {
+          "word": "neidu",
+          "status": "correct"
+        },
+        {
+          "word": "tansitage,",
+          "status": "correct"
+        },
+        {
+          "word": "Viisi",
+          "status": "wrong"
+        },
+        {
+          "word": "pärast",
+          "status": "wrong"
+        },
+        {
+          "word": "veeretage!",
+          "status": "wrong"
+        },
+        {
+          "word": "Ehk",
+          "status": "correct"
+        },
+        {
+          "word": "on",
+          "status": "correct"
+        },
+        {
+          "word": "tited",
+          "status": "correct"
+        },
+        {
+          "word": "tiiva",
+          "status": "correct"
+        },
+        {
+          "word": "alla,",
+          "status": "correct"
+        },
+        {
+          "word": "Äbarikud",
+          "status": "wrong"
+        },
+        {
+          "word": "alla",
+          "status": "wrong"
+        },
+        {
+          "word": "õlma.",
+          "status": "wrong"
+        },
+        {
+          "word": "Mini",
+          "status": "wrong"
+        },
+        {
+          "word": "kuulis",
+          "status": "correct"
+        },
+        {
+          "word": "vasta",
+          "status": "correct"
+        },
+        {
+          "word": "kostis:",
+          "status": "wrong"
+        },
+        {
+          "word": "On",
+          "status": "correct"
+        },
+        {
+          "word": "mul",
+          "status": "correct"
+        },
+        {
+          "word": "äia",
+          "status": "correct"
+        },
+        {
+          "word": "või",
+          "status": "correct"
+        },
+        {
+          "word": "mul",
+          "status": "correct"
+        },
+        {
+          "word": "ämma!",
+          "status": "correct"
+        },
+        {
+          "word": "Äi",
+          "status": "correct"
+        },
+        {
+          "word": "kui",
+          "status": "not_important"
+        },
+        {
+          "word": "halli",
+          "status": "correct"
+        },
+        {
+          "word": "tömpi",
+          "status": "correct"
+        },
+        {
+          "word": "koera,",
+          "status": "correct"
+        },
+        {
+          "word": "Ämm",
+          "status": "correct"
+        },
+        {
+          "word": "kui",
+          "status": "not_important"
+        },
+        {
+          "word": "kõrvend",
+          "status": "wrong"
+        },
+        {
+          "word": "arakas,",
+          "status": "wrong"
+        },
+        {
+          "word": "Nadu",
+          "status": "wrong"
+        },
+        {
+          "word": "nassi",
+          "status": "wrong"
+        },
+        {
+          "word": "kirju",
+          "status": "correct"
+        },
+        {
+          "word": "kassi,",
+          "status": "correct"
+        },
+        {
+          "word": "Küid",
+          "status": "wrong"
+        },
+        {
+          "word": "küirakad",
+          "status": "wrong"
+        },
+        {
+          "word": "mõlemad,",
+          "status": "correct"
+        },
+        {
+          "word": "Minu",
+          "status": "correct"
+        },
+        {
+          "word": "kaasa",
+          "status": "correct"
+        },
+        {
+          "word": "kallikene.",
+          "status": "correct"
+        },
+        {
+          "word": "Ämm",
+          "status": "correct"
+        },
+        {
+          "word": "see",
+          "status": "correct"
+        },
+        {
+          "word": "tehku",
+          "status": "correct"
+        },
+        {
+          "word": "äbarikku",
+          "status": "wrong"
+        },
+        {
+          "word": "Nadu",
+          "status": "wrong"
+        },
+        {
+          "word": "kaksi",
+          "status": "wrong"
+        },
+        {
+          "word": "kaksikuida,",
+          "status": "wrong"
+        },
+        {
+          "word": "Ei",
+          "status": "wrong"
+        },
+        {
+          "word": "mini",
+          "status": "wrong"
+        },
+        {
+          "word": "mida",
+          "status": "wrong"
+        },
+        {
+          "word": "kedagi!",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 13,
+      "title": "Title 13",
+      "overallRating": 4,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "This one is surprisingly good! Again, ari -> hari is where the translation stumbles, but otherwise in some other places it did not stumble (valge'ed -> valget) ",
+      "words": [
+        {
+          "word": "Kui",
+          "status": "correct"
+        },
+        {
+          "word": "sina",
+          "status": "correct"
+        },
+        {
+          "word": "viitsid",
+          "status": "correct"
+        },
+        {
+          "word": "olla",
+          "status": "correct"
+        },
+        {
+          "word": "virka",
+          "status": "correct"
+        },
+        {
+          "word": "Ja",
+          "status": "correct"
+        },
+        {
+          "word": "sina",
+          "status": "correct"
+        },
+        {
+          "word": "tahad",
+          "status": "correct"
+        },
+        {
+          "word": "olla",
+          "status": "correct"
+        },
+        {
+          "word": "tarka",
+          "status": "correct"
+        },
+        {
+          "word": "Ole",
+          "status": "correct"
+        },
+        {
+          "word": "hommiku",
+          "status": "correct"
+        },
+        {
+          "word": "usina",
+          "status": "correct"
+        },
+        {
+          "word": "Enne",
+          "status": "correct"
+        },
+        {
+          "word": "valge'ed",
+          "status": "correct"
+        },
+        {
+          "word": "varane",
+          "status": "correct"
+        },
+        {
+          "word": "Enne",
+          "status": "correct"
+        },
+        {
+          "word": "koitu",
+          "status": "correct"
+        },
+        {
+          "word": "kuulusama",
+          "status": "wrong"
+        },
+        {
+          "word": "Pühi",
+          "status": "correct"
+        },
+        {
+          "word": "tuba,",
+          "status": "correct"
+        },
+        {
+          "word": "laksi",
+          "status": "wrong"
+        },
+        {
+          "word": "lauda",
+          "status": "correct"
+        },
+        {
+          "word": "Ari",
+          "status": "wrong"
+        },
+        {
+          "word": "akende",
+          "status": "correct"
+        },
+        {
+          "word": "alune",
+          "status": "correct"
+        },
+        {
+          "word": "Keera",
+          "status": "correct"
+        },
+        {
+          "word": "kelderiesine",
+          "status": "correct"
+        },
+        {
+          "word": "Pese",
+          "status": "correct"
+        },
+        {
+          "word": "aga",
+          "status": "correct"
+        },
+        {
+          "word": "peekerid",
+          "status": "correct"
+        },
+        {
+          "word": "pinula",
+          "status": "correct"
+        },
+        {
+          "word": "Toobid",
+          "status": "correct"
+        },
+        {
+          "word": "toa",
+          "status": "correct"
+        },
+        {
+          "word": "nurga",
+          "status": "correct"
+        },
+        {
+          "word": "peale",
+          "status": "correct"
+        },
+        {
+          "word": "Kapad",
+          "status": "wrong"
+        },
+        {
+          "word": "köögikatuksele",
+          "status": "wrong"
+        },
+        {
+          "word": "Ämmerid",
+          "status": "correct"
+        },
+        {
+          "word": "kaevumäele",
+          "status": "correct"
+        },
+        {
+          "word": "Homme",
+          "status": "correct"
+        },
+        {
+          "word": "tuleb",
+          "status": "correct"
+        },
+        {
+          "word": "kubjas",
+          "status": "correct"
+        },
+        {
+          "word": "külasse",
+          "status": "correct"
+        },
+        {
+          "word": "Vana",
+          "status": "correct"
+        },
+        {
+          "word": "härra",
+          "status": "correct"
+        },
+        {
+          "word": "vainijulle",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 14,
+      "title": "Title 3",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "I already reviewed an almost identical one. ",
+      "words": [
+        {
+          "word": "Peiukene,",
+          "status": "wrong"
+        },
+        {
+          "word": "poisikene",
+          "status": "wrong"
+        },
+        {
+          "word": "Kust",
+          "status": "correct"
+        },
+        {
+          "word": "oskasid",
+          "status": "correct"
+        },
+        {
+          "word": "meile",
+          "status": "correct"
+        },
+        {
+          "word": "tulla?",
+          "status": "correct"
+        },
+        {
+          "word": "Oskasid",
+          "status": "correct"
+        },
+        {
+          "word": "üle",
+          "status": "correct"
+        },
+        {
+          "word": "oraste",
+          "status": "correct"
+        },
+        {
+          "word": "Märkasid",
+          "status": "correct"
+        },
+        {
+          "word": "üle",
+          "status": "correct"
+        },
+        {
+          "word": "mägede",
+          "status": "correct"
+        },
+        {
+          "word": "Teil",
+          "status": "correct"
+        },
+        {
+          "word": "olid",
+          "status": "correct"
+        },
+        {
+          "word": "tulgid",
+          "status": "correct"
+        },
+        {
+          "word": "tullessagi",
+          "status": "correct"
+        },
+        {
+          "word": "Keelekoerad",
+          "status": "wrong"
+        },
+        {
+          "word": "kaasassagi.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 15,
+      "title": "Title 15",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Isamees",
+          "status": "correct"
+        },
+        {
+          "word": "ilusikene",
+          "status": "correct"
+        },
+        {
+          "word": "Peiupoiss",
+          "status": "wrong"
+        },
+        {
+          "word": "punasikene",
+          "status": "correct"
+        },
+        {
+          "word": "Võta",
+          "status": "correct"
+        },
+        {
+          "word": "mõeka,",
+          "status": "wrong"
+        },
+        {
+          "word": "raiu",
+          "status": "wrong"
+        },
+        {
+          "word": "usta",
+          "status": "correct"
+        },
+        {
+          "word": "Löö",
+          "status": "wrong"
+        },
+        {
+          "word": "sina",
+          "status": "wrong"
+        },
+        {
+          "word": "lõhki",
+          "status": "wrong"
+        },
+        {
+          "word": "nõia",
+          "status": "correct"
+        },
+        {
+          "word": "silmad",
+          "status": "correct"
+        },
+        {
+          "word": "Katki",
+          "status": "correct"
+        },
+        {
+          "word": "tee",
+          "status": "correct"
+        },
+        {
+          "word": "kadeda",
+          "status": "correct"
+        },
+        {
+          "word": "kulmud.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 16,
+      "title": "Pulmalisi ajades",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Minema,",
+          "status": "correct"
+        },
+        {
+          "word": "minema",
+          "status": "correct"
+        },
+        {
+          "word": "mehed",
+          "status": "correct"
+        },
+        {
+          "word": "Padima,",
+          "status": "wrong"
+        },
+        {
+          "word": "padima",
+          "status": "wrong"
+        },
+        {
+          "word": "poisid",
+          "status": "correct"
+        },
+        {
+          "word": "Õllevaat",
+          "status": "correct"
+        },
+        {
+          "word": "on",
+          "status": "not_important"
+        },
+        {
+          "word": "upakile",
+          "status": "correct"
+        },
+        {
+          "word": "Viinaankur",
+          "status": "wrong"
+        },
+        {
+          "word": "vildakile",
+          "status": "correct"
+        },
+        {
+          "word": "Vorstikambri",
+          "status": "correct"
+        },
+        {
+          "word": "võti",
+          "status": "correct"
+        },
+        {
+          "word": "kadund",
+          "status": "correct"
+        },
+        {
+          "word": "Kass",
+          "status": "correct"
+        },
+        {
+          "word": "kurat",
+          "status": "wrong"
+        },
+        {
+          "word": "söönd",
+          "status": "wrong"
+        },
+        {
+          "word": "kalad",
+          "status": "wrong"
+        },
+        {
+          "word": "ää",
+          "status": "not_important"
+        },
+        {
+          "word": "Võipüti",
+          "status": "correct"
+        },
+        {
+          "word": "põhi",
+          "status": "correct"
+        },
+        {
+          "word": "paljas.",
+          "status": "correct"
+        }
+      ]
+    }
+  ]
+}

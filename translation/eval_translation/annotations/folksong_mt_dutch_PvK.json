@@ -1,0 +1,5856 @@
+{
+  "language": "Dutch",
+  "exportedAt": "2026-04-01T22:42:43.617Z",
+  "evaluations": [
+    {
+      "textId": 1,
+      "title": "Title 3",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Een",
+          "status": "not_important"
+        },
+        {
+          "word": "eigen",
+          "status": "correct"
+        },
+        {
+          "word": "tehuis",
+          "status": "correct"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "heerlijk",
+          "status": "correct"
+        },
+        {
+          "word": "idee",
+          "status": "correct"
+        },
+        {
+          "word": "Wel",
+          "status": "correct"
+        },
+        {
+          "word": "bruidje",
+          "status": "correct"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "zegt",
+          "status": "correct"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "ervan",
+          "status": "not_important"
+        },
+        {
+          "word": "Zo’n",
+          "status": "not_important"
+        },
+        {
+          "word": "liefelijk",
+          "status": "correct"
+        },
+        {
+          "word": "plekje",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "rust",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "vree",
+          "status": "correct"
+        },
+        {
+          "word": "Zo",
+          "status": "not_important"
+        },
+        {
+          "word": "leuk",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "gezellig",
+          "status": "correct"
+        },
+        {
+          "word": "als",
+          "status": "not_important"
+        },
+        {
+          "word": "‘t",
+          "status": "not_important"
+        },
+        {
+          "word": "kan",
+          "status": "not_important"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "dan",
+          "status": "not_important"
+        },
+        {
+          "word": "als",
+          "status": "not_important"
+        },
+        {
+          "word": "huisvrouw,",
+          "status": "correct"
+        },
+        {
+          "word": "wel",
+          "status": "correct"
+        },
+        {
+          "word": "denk",
+          "status": "correct"
+        },
+        {
+          "word": "eens",
+          "status": "correct"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "pret",
+          "status": "correct"
+        },
+        {
+          "word": "Te",
+          "status": "not_important"
+        },
+        {
+          "word": "zorgen",
+          "status": "correct"
+        },
+        {
+          "word": "voor",
+          "status": "not_important"
+        },
+        {
+          "word": "alles,",
+          "status": "correct"
+        },
+        {
+          "word": "heel",
+          "status": "not_important"
+        },
+        {
+          "word": "keurig",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "net",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "‘s",
+          "status": "not_important"
+        },
+        {
+          "word": "middags",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "maaltijd",
+          "status": "correct"
+        },
+        {
+          "word": "bereiden",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "dan",
+          "status": "correct"
+        },
+        {
+          "word": "Door",
+          "status": "not_important"
+        },
+        {
+          "word": "‘t",
+          "status": "not_important"
+        },
+        {
+          "word": "venster",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "zien",
+          "status": "correct"
+        },
+        {
+          "word": "naar",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "man",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "WELKOM AAN TAFEL",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "Level of 'archaic' is actually in between Barely and Significantly. Moderately.",
+      "words": [
+        {
+          "word": "Weest",
+          "status": "not_important"
+        },
+        {
+          "word": "welkom,",
+          "status": "correct"
+        },
+        {
+          "word": "Vrienden!",
+          "status": "correct"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "deez'",
+          "status": "not_important"
+        },
+        {
+          "word": "disch,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Waar",
+          "status": "correct"
+        },
+        {
+          "word": "thans",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugde",
+          "status": "correct"
+        },
+        {
+          "word": "praesis",
+          "status": "correct"
+        },
+        {
+          "word": "is,",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Wij",
+          "status": "not_important"
+        },
+        {
+          "word": "weten",
+          "status": "correct"
+        },
+        {
+          "word": "nu",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "zorg",
+          "status": "correct"
+        },
+        {
+          "word": "noch",
+          "status": "not_important"
+        },
+        {
+          "word": "pijn,",
+          "status": "correct"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "willen",
+          "status": "correct"
+        },
+        {
+          "word": "eens",
+          "status": "not_important"
+        },
+        {
+          "word": "regt",
+          "status": "correct"
+        },
+        {
+          "word": "vrolijk",
+          "status": "correct"
+        },
+        {
+          "word": "zijn,",
+          "status": "not_important"
+        },
+        {
+          "word": "Ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "falderala.",
+          "status": "not_important"
+        },
+        {
+          "word": "bis.",
+          "status": "not_important"
+        },
+        {
+          "word": "Weest",
+          "status": "not_important"
+        },
+        {
+          "word": "niet",
+          "status": "not_important"
+        },
+        {
+          "word": "beschroomd",
+          "status": "correct"
+        },
+        {
+          "word": "maar",
+          "status": "not_important"
+        },
+        {
+          "word": "tast",
+          "status": "correct"
+        },
+        {
+          "word": "vrij",
+          "status": "correct"
+        },
+        {
+          "word": "toe,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Eet",
+          "status": "correct"
+        },
+        {
+          "word": "dapper",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "drinkt",
+          "status": "correct"
+        },
+        {
+          "word": "blij",
+          "status": "wrong"
+        },
+        {
+          "word": "te",
+          "status": "wrong"
+        },
+        {
+          "word": "moe,",
+          "status": "wrong"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Eet",
+          "status": "not_important"
+        },
+        {
+          "word": "smaaklijk",
+          "status": "correct"
+        },
+        {
+          "word": "zelfs",
+          "status": "not_important"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "kust",
+          "status": "correct"
+        },
+        {
+          "word": "elkaâr,",
+          "status": "not_important"
+        },
+        {
+          "word": "Ter",
+          "status": "not_important"
+        },
+        {
+          "word": "eere",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "jonge",
+          "status": "correct"
+        },
+        {
+          "word": "Paar,",
+          "status": "correct"
+        },
+        {
+          "word": "Ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "falderala.",
+          "status": "not_important"
+        },
+        {
+          "word": "Wel",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruîgom!",
+          "status": "correct"
+        },
+        {
+          "word": "blijf",
+          "status": "correct"
+        },
+        {
+          "word": "nog",
+          "status": "not_important"
+        },
+        {
+          "word": "lang",
+          "status": "correct"
+        },
+        {
+          "word": "gezond,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "eet",
+          "status": "correct"
+        },
+        {
+          "word": "vooral",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "buik",
+          "status": "correct"
+        },
+        {
+          "word": "goed",
+          "status": "not_important"
+        },
+        {
+          "word": "rond,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Zoo",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "wilt",
+          "status": "not_important"
+        },
+        {
+          "word": "zien",
+          "status": "correct"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "lieve",
+          "status": "correct"
+        },
+        {
+          "word": "spruit,",
+          "status": "correct"
+        },
+        {
+          "word": "Dan",
+          "status": "not_important"
+        },
+        {
+          "word": "gaat",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "er",
+          "status": "not_important"
+        },
+        {
+          "word": "wel",
+          "status": "not_important"
+        },
+        {
+          "word": "met",
+          "status": "correct"
+        },
+        {
+          "word": "werken",
+          "status": "correct"
+        },
+        {
+          "word": "uit,",
+          "status": "correct"
+        },
+        {
+          "word": "Ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "falderala.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ja,",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruidje!",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "ook",
+          "status": "correct"
+        },
+        {
+          "word": "gegond,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Al",
+          "status": "not_important"
+        },
+        {
+          "word": "zet",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "nog",
+          "status": "not_important"
+        },
+        {
+          "word": "zoo'n",
+          "status": "not_important"
+        },
+        {
+          "word": "preutschen",
+          "status": "correct"
+        },
+        {
+          "word": "mond,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Nog",
+          "status": "not_important"
+        },
+        {
+          "word": "binnen",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "jaar",
+          "status": "correct"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "top,",
+          "status": "correct"
+        },
+        {
+          "word": "Als",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "speelt",
+          "status": "correct"
+        },
+        {
+          "word": "met",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "Huwlijkspop,",
+          "status": "correct"
+        },
+        {
+          "word": "Ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "falderala.",
+          "status": "not_important"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "middelen",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "bestaan,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Daar",
+          "status": "not_important"
+        },
+        {
+          "word": "mag",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "glaasje",
+          "status": "correct"
+        },
+        {
+          "word": "vol",
+          "status": "correct"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "staan,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Wij",
+          "status": "not_important"
+        },
+        {
+          "word": "wenschen",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "matig",
+          "status": "correct"
+        },
+        {
+          "word": "deel,",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Is",
+          "status": "not_important"
+        },
+        {
+          "word": "ongezond",
+          "status": "correct"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "al",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "correct"
+        },
+        {
+          "word": "veel,",
+          "status": "correct"
+        },
+        {
+          "word": "Ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "falderalla.",
+          "status": "not_important"
+        },
+        {
+          "word": "Komt",
+          "status": "correct"
+        },
+        {
+          "word": "Vrienden!",
+          "status": "correct"
+        },
+        {
+          "word": "klinken",
+          "status": "wrong"
+        },
+        {
+          "word": "we",
+          "status": "not_important"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "rond,",
+          "status": "wrong"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "wenschen",
+          "status": "correct"
+        },
+        {
+          "word": "met",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "gulle",
+          "status": "correct"
+        },
+        {
+          "word": "mond,",
+          "status": "correct"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha!",
+          "status": "not_important"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "groen,",
+          "status": "correct"
+        },
+        {
+          "word": "hun",
+          "status": "not_important"
+        },
+        {
+          "word": "zilver,",
+          "status": "correct"
+        },
+        {
+          "word": "goud,",
+          "status": "correct"
+        },
+        {
+          "word": "Elk",
+          "status": "not_important"
+        },
+        {
+          "word": "met",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "Paar",
+          "status": "correct"
+        },
+        {
+          "word": "eens",
+          "status": "correct"
+        },
+        {
+          "word": "bruiloft",
+          "status": "correct"
+        },
+        {
+          "word": "houdt,",
+          "status": "correct"
+        },
+        {
+          "word": "Ha",
+          "status": "not_important"
+        },
+        {
+          "word": "ha",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "falderala.",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 3,
+      "title": "Bruiloftslied [in schrift nr. 9]",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Waarom",
+          "status": "correct"
+        },
+        {
+          "word": "vloeien",
+          "status": "correct"
+        },
+        {
+          "word": "er",
+          "status": "not_important"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "tranen",
+          "status": "correct"
+        },
+        {
+          "word": "Uit",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "hart",
+          "status": "correct"
+        },
+        {
+          "word": "der",
+          "status": "not_important"
+        },
+        {
+          "word": "reine",
+          "status": "correct"
+        },
+        {
+          "word": "bruid",
+          "status": "correct"
+        },
+        {
+          "word": "Als",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "priester",
+          "status": "correct"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "Gods",
+          "status": "correct"
+        },
+        {
+          "word": "altaar",
+          "status": "correct"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "heilige",
+          "status": "correct"
+        },
+        {
+          "word": "band",
+          "status": "correct"
+        },
+        {
+          "word": "des",
+          "status": "not_important"
+        },
+        {
+          "word": "huwelijks",
+          "status": "correct"
+        },
+        {
+          "word": "sluit",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 4,
+      "title": "Het wederspannig Huwelyk of de wonderlyke Bruiloft tusschen Roosje en Fiolet",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Het",
+          "status": "not_important"
+        },
+        {
+          "word": "Roosje,",
+          "status": "correct"
+        },
+        {
+          "word": "heel",
+          "status": "not_important"
+        },
+        {
+          "word": "verheugd",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "zin,",
+          "status": "wrong"
+        },
+        {
+          "word": "Droeg",
+          "status": "wrong"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "Fiolet",
+          "status": "correct"
+        },
+        {
+          "word": "haar-min,",
+          "status": "correct"
+        },
+        {
+          "word": "Om",
+          "status": "not_important"
+        },
+        {
+          "word": "met",
+          "status": "not_important"
+        },
+        {
+          "word": "hem",
+          "status": "not_important"
+        },
+        {
+          "word": "eens",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "paaren,",
+          "status": "correct"
+        },
+        {
+          "word": "Schoon",
+          "status": "correct"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "zy",
+          "status": "not_important"
+        },
+        {
+          "word": "was",
+          "status": "not_important"
+        },
+        {
+          "word": "reeds",
+          "status": "correct"
+        },
+        {
+          "word": "ouderloos,",
+          "status": "wrong"
+        },
+        {
+          "word": "Een",
+          "status": "not_important"
+        },
+        {
+          "word": "bloem",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "veertig",
+          "status": "not_important"
+        },
+        {
+          "word": "jaaren.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 5,
+      "title": "Een Nieuw Lied. Op den Huwelyken staat, om te zingen op een Bruiloft",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Komt",
+          "status": "wrong"
+        },
+        {
+          "word": "hier",
+          "status": "wrong"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "naar",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "Huwelyk",
+          "status": "correct"
+        },
+        {
+          "word": "staan,",
+          "status": "correct"
+        },
+        {
+          "word": "Neemt",
+          "status": "correct"
+        },
+        {
+          "word": "acht",
+          "status": "correct"
+        },
+        {
+          "word": "al",
+          "status": "not_important"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "Lied,",
+          "status": "correct"
+        },
+        {
+          "word": "Ja",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "geen",
+          "status": "not_important"
+        },
+        {
+          "word": "ik",
+          "status": "not_important"
+        },
+        {
+          "word": "zal",
+          "status": "not_important"
+        },
+        {
+          "word": "verhaalen",
+          "status": "correct"
+        },
+        {
+          "word": "gaan,",
+          "status": "not_important"
+        },
+        {
+          "word": "Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "huwelyk",
+          "status": "correct"
+        },
+        {
+          "word": "al",
+          "status": "not_important"
+        },
+        {
+          "word": "gebied,",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "ook",
+          "status": "not_important"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "er",
+          "status": "not_important"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "geschied,",
+          "status": "correct"
+        },
+        {
+          "word": "Zal",
+          "status": "not_important"
+        },
+        {
+          "word": "ik",
+          "status": "not_important"
+        },
+        {
+          "word": "vermelden",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "Lied,",
+          "status": "correct"
+        },
+        {
+          "word": "In",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "kort,",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "kort,",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "kort.",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "eerst",
+          "status": "not_important"
+        },
+        {
+          "word": "zoo",
+          "status": "not_important"
+        },
+        {
+          "word": "wacht",
+          "status": "wrong"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "dan",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "correct"
+        },
+        {
+          "word": "zaam,",
+          "status": "correct"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "gy",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "twisten",
+          "status": "correct"
+        },
+        {
+          "word": "myd,",
+          "status": "correct"
+        },
+        {
+          "word": "Want",
+          "status": "not_important"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "niet",
+          "status": "correct"
+        },
+        {
+          "word": "aangenaam,",
+          "status": "correct"
+        },
+        {
+          "word": "Te",
+          "status": "not_important"
+        },
+        {
+          "word": "leven",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "haat",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "nyd,",
+          "status": "correct"
+        },
+        {
+          "word": "Myd",
+          "status": "correct"
+        },
+        {
+          "word": "dan",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "not_important"
+        },
+        {
+          "word": "twist",
+          "status": "correct"
+        },
+        {
+          "word": "zoo",
+          "status": "correct"
+        },
+        {
+          "word": "veel",
+          "status": "correct"
+        },
+        {
+          "word": "gy",
+          "status": "correct"
+        },
+        {
+          "word": "kunt,",
+          "status": "correct"
+        },
+        {
+          "word": "Opdat",
+          "status": "not_important"
+        },
+        {
+          "word": "God",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "rust",
+          "status": "correct"
+        },
+        {
+          "word": "vergunt,",
+          "status": "correct"
+        },
+        {
+          "word": "Tot",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd,",
+          "status": "correct"
+        },
+        {
+          "word": "tot",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd,",
+          "status": "correct"
+        },
+        {
+          "word": "tot",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd.",
+          "status": "correct"
+        },
+        {
+          "word": "Hebt",
+          "status": "not_important"
+        },
+        {
+          "word": "malkanders",
+          "status": "correct"
+        },
+        {
+          "word": "gebreeken",
+          "status": "correct"
+        },
+        {
+          "word": "geduld,",
+          "status": "correct"
+        },
+        {
+          "word": "Met",
+          "status": "not_important"
+        },
+        {
+          "word": "reine",
+          "status": "correct"
+        },
+        {
+          "word": "liefde",
+          "status": "correct"
+        },
+        {
+          "word": "klaar,",
+          "status": "correct"
+        },
+        {
+          "word": "Dan",
+          "status": "not_important"
+        },
+        {
+          "word": "ziet",
+          "status": "correct"
+        },
+        {
+          "word": "gy",
+          "status": "not_important"
+        },
+        {
+          "word": "uwen",
+          "status": "not_important"
+        },
+        {
+          "word": "wensch",
+          "status": "correct"
+        },
+        {
+          "word": "vervuld.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 6,
+      "title": "No. 19. BRUILOFTS-ZANG",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Stemt",
+          "status": "correct"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "loflied,",
+          "status": "correct"
+        },
+        {
+          "word": "feestelingen,",
+          "status": "correct"
+        },
+        {
+          "word": "Juicht",
+          "status": "correct"
+        },
+        {
+          "word": "bij",
+          "status": "not_important"
+        },
+        {
+          "word": "'s",
+          "status": "not_important"
+        },
+        {
+          "word": "levens",
+          "status": "correct"
+        },
+        {
+          "word": "hoogste",
+          "status": "correct"
+        },
+        {
+          "word": "goed,",
+          "status": "correct"
+        },
+        {
+          "word": "Wilt",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "heil",
+          "status": "correct"
+        },
+        {
+          "word": "der",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde",
+          "status": "correct"
+        },
+        {
+          "word": "zingen,",
+          "status": "correct"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "nimmer",
+          "status": "correct"
+        },
+        {
+          "word": "blozen",
+          "status": "correct"
+        },
+        {
+          "word": "doet.",
+          "status": "not_important"
+        },
+        {
+          "word": "Alles",
+          "status": "correct"
+        },
+        {
+          "word": "moet",
+          "status": "not_important"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "wellust",
+          "status": "correct"
+        },
+        {
+          "word": "roemen,",
+          "status": "correct"
+        },
+        {
+          "word": "Zij",
+          "status": "not_important"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "eerpalm",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "deugd;",
+          "status": "correct"
+        },
+        {
+          "word": "Meisjes",
+          "status": "correct"
+        },
+        {
+          "word": "zamen",
+          "status": "correct"
+        },
+        {
+          "word": "strooit",
+          "status": "correct"
+        },
+        {
+          "word": "nu",
+          "status": "not_important"
+        },
+        {
+          "word": "bloemen,",
+          "status": "correct"
+        },
+        {
+          "word": "Jongelingen",
+          "status": "correct"
+        },
+        {
+          "word": "zingt",
+          "status": "correct"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd.",
+          "status": "correct"
+        },
+        {
+          "word": "Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "toch",
+          "status": "not_important"
+        },
+        {
+          "word": "waar",
+          "status": "wrong"
+        },
+        {
+          "word": "deez'",
+          "status": "not_important"
+        },
+        {
+          "word": "nietige",
+          "status": "correct"
+        },
+        {
+          "word": "aarde,",
+          "status": "correct"
+        },
+        {
+          "word": "Zonder",
+          "status": "not_important"
+        },
+        {
+          "word": "u,",
+          "status": "not_important"
+        },
+        {
+          "word": "aanlok'lijke",
+          "status": "correct"
+        },
+        {
+          "word": "echt,",
+          "status": "correct"
+        },
+        {
+          "word": "Gij",
+          "status": "not_important"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "aller",
+          "status": "not_important"
+        },
+        {
+          "word": "lot",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "waarde",
+          "status": "correct"
+        },
+        {
+          "word": "Eeuwig",
+          "status": "correct"
+        },
+        {
+          "word": "aan",
+          "status": "correct"
+        },
+        {
+          "word": "elkand'ren",
+          "status": "correct"
+        },
+        {
+          "word": "hecht,",
+          "status": "correct"
+        },
+        {
+          "word": "Gij",
+          "status": "not_important"
+        },
+        {
+          "word": "schenkt",
+          "status": "correct"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "zoet",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "leven,",
+          "status": "correct"
+        },
+        {
+          "word": "Bij",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "voldoen",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "onzen",
+          "status": "not_important"
+        },
+        {
+          "word": "pligt,",
+          "status": "correct"
+        },
+        {
+          "word": "Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "mensch",
+          "status": "correct"
+        },
+        {
+          "word": "alleen",
+          "status": "not_important"
+        },
+        {
+          "word": "doet",
+          "status": "not_important"
+        },
+        {
+          "word": "beven,",
+          "status": "correct"
+        },
+        {
+          "word": "Valt",
+          "status": "correct"
+        },
+        {
+          "word": "vereende",
+          "status": "correct"
+        },
+        {
+          "word": "krachten",
+          "status": "correct"
+        },
+        {
+          "word": "ligt.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 7,
+      "title": "Title 7",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Iö",
+          "status": "not_important"
+        },
+        {
+          "word": "vivat!",
+          "status": "not_important"
+        },
+        {
+          "word": "Iö",
+          "status": "not_important"
+        },
+        {
+          "word": "vivat!",
+          "status": "not_important"
+        },
+        {
+          "word": "Heil",
+          "status": "correct"
+        },
+        {
+          "word": "zij",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "vriendenfeest,",
+          "status": "correct"
+        },
+        {
+          "word": "Men",
+          "status": "not_important"
+        },
+        {
+          "word": "vraag",
+          "status": "wrong"
+        },
+        {
+          "word": "naar",
+          "status": "not_important"
+        },
+        {
+          "word": "ouderdom",
+          "status": "wrong"
+        },
+        {
+          "word": "noch",
+          "status": "not_important"
+        },
+        {
+          "word": "jeugd,",
+          "status": "correct"
+        },
+        {
+          "word": "Elks",
+          "status": "not_important"
+        },
+        {
+          "word": "hart",
+          "status": "correct"
+        },
+        {
+          "word": "zij",
+          "status": "not_important"
+        },
+        {
+          "word": "open",
+          "status": "not_important"
+        },
+        {
+          "word": "voor",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd,",
+          "status": "correct"
+        },
+        {
+          "word": "Io",
+          "status": "not_important"
+        },
+        {
+          "word": "vivat!",
+          "status": "not_important"
+        },
+        {
+          "word": "enz.",
+          "status": "not_important"
+        },
+        {
+          "word": "Wijk",
+          "status": "correct"
+        },
+        {
+          "word": "zorg",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "smart,",
+          "status": "correct"
+        },
+        {
+          "word": "Ontwijk",
+          "status": "correct"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "hart,",
+          "status": "correct"
+        },
+        {
+          "word": "Wijk",
+          "status": "correct"
+        },
+        {
+          "word": "kommer",
+          "status": "correct"
+        },
+        {
+          "word": "ver",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "correct"
+        },
+        {
+          "word": "hier.",
+          "status": "correct"
+        },
+        {
+          "word": "Men",
+          "status": "not_important"
+        },
+        {
+          "word": "kenne",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "deez'",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruiloftszaal",
+          "status": "correct"
+        },
+        {
+          "word": "Geen",
+          "status": "not_important"
+        },
+        {
+          "word": "andere",
+          "status": "correct"
+        },
+        {
+          "word": "spraak",
+          "status": "correct"
+        },
+        {
+          "word": "dan",
+          "status": "not_important"
+        },
+        {
+          "word": "jubeltaal,",
+          "status": "correct"
+        },
+        {
+          "word": "Wijk",
+          "status": "correct"
+        },
+        {
+          "word": "zorg",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "smart,",
+          "status": "correct"
+        },
+        {
+          "word": "enz.",
+          "status": "not_important"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "gulle",
+          "status": "correct"
+        },
+        {
+          "word": "vreugd,",
+          "status": "correct"
+        },
+        {
+          "word": "Die",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "hart",
+          "status": "correct"
+        },
+        {
+          "word": "verheugt,",
+          "status": "correct"
+        },
+        {
+          "word": "Daal",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "midden",
+          "status": "correct"
+        },
+        {
+          "word": "neêr",
+          "status": "correct"
+        },
+        {
+          "word": "Met",
+          "status": "not_important"
+        },
+        {
+          "word": "feestgezang",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "vrolijkheid,",
+          "status": "correct"
+        },
+        {
+          "word": "Zij",
+          "status": "not_important"
+        },
+        {
+          "word": "deze",
+          "status": "not_important"
+        },
+        {
+          "word": "dag",
+          "status": "correct"
+        },
+        {
+          "word": "der",
+          "status": "not_important"
+        },
+        {
+          "word": "vreugd",
+          "status": "correct"
+        },
+        {
+          "word": "gewijd,",
+          "status": "correct"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "gulle",
+          "status": "correct"
+        },
+        {
+          "word": "vreugd.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 8,
+      "title": "Title 8",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Herinnert",
+          "status": "correct"
+        },
+        {
+          "word": "ge",
+          "status": "not_important"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "dien",
+          "status": "not_important"
+        },
+        {
+          "word": "stond",
+          "status": "correct"
+        },
+        {
+          "word": "zoo",
+          "status": "correct"
+        },
+        {
+          "word": "waard,",
+          "status": "wrong"
+        },
+        {
+          "word": "Toen",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "correct"
+        },
+        {
+          "word": "zamen",
+          "status": "correct"
+        },
+        {
+          "word": "zijt",
+          "status": "not_important"
+        },
+        {
+          "word": "gepaard,",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "vijf",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "correct"
+        },
+        {
+          "word": "twintig",
+          "status": "correct"
+        },
+        {
+          "word": "jaren,",
+          "status": "correct"
+        },
+        {
+          "word": "Herinnert",
+          "status": "correct"
+        },
+        {
+          "word": "ge",
+          "status": "not_important"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "dien",
+          "status": "not_important"
+        },
+        {
+          "word": "blijden",
+          "status": "correct"
+        },
+        {
+          "word": "tijd,",
+          "status": "correct"
+        },
+        {
+          "word": "Toen",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "zaam",
+          "status": "correct"
+        },
+        {
+          "word": "vereenigd",
+          "status": "correct"
+        },
+        {
+          "word": "zijt",
+          "status": "not_important"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "Hijmens",
+          "status": "wrong"
+        },
+        {
+          "word": "echtaltaren?",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 9,
+      "title": "HET VARKENTJE",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Meûtjes",
+          "status": "correct"
+        },
+        {
+          "word": "kostbre",
+          "status": "correct"
+        },
+        {
+          "word": "pillegift,",
+          "status": "wrong"
+        },
+        {
+          "word": "(Maartjes",
+          "status": "correct"
+        },
+        {
+          "word": "zilvren",
+          "status": "correct"
+        },
+        {
+          "word": "beugeltasch)",
+          "status": "correct"
+        },
+        {
+          "word": "Had",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "diamanten",
+          "status": "correct"
+        },
+        {
+          "word": "stift;",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "ik",
+          "status": "not_important"
+        },
+        {
+          "word": "meen,",
+          "status": "correct"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "ze",
+          "status": "not_important"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "dat",
+          "status": "correct"
+        },
+        {
+          "word": "pas",
+          "status": "correct"
+        },
+        {
+          "word": "Vol",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "gouden",
+          "status": "correct"
+        },
+        {
+          "word": "rijders",
+          "status": "correct"
+        },
+        {
+          "word": "was.",
+          "status": "not_important"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "duurde",
+          "status": "correct"
+        },
+        {
+          "word": "weinig",
+          "status": "correct"
+        },
+        {
+          "word": "jaren,",
+          "status": "correct"
+        },
+        {
+          "word": "Of",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "rijders",
+          "status": "correct"
+        },
+        {
+          "word": "reden",
+          "status": "correct"
+        },
+        {
+          "word": "voort,",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "ze",
+          "status": "not_important"
+        },
+        {
+          "word": "hield",
+          "status": "correct"
+        },
+        {
+          "word": "geen",
+          "status": "not_important"
+        },
+        {
+          "word": "rooden",
+          "status": "correct"
+        },
+        {
+          "word": "oord'...",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Dartel",
+          "status": "correct"
+        },
+        {
+          "word": "meisken",
+          "status": "correct"
+        },
+        {
+          "word": "had",
+          "status": "not_important"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "sparen",
+          "status": "correct"
+        },
+        {
+          "word": "Nooit",
+          "status": "correct"
+        },
+        {
+          "word": "gehoord!",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Guurtje",
+          "status": "correct"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "steenen",
+          "status": "correct"
+        },
+        {
+          "word": "varken",
+          "status": "correct"
+        },
+        {
+          "word": "kreeg",
+          "status": "correct"
+        },
+        {
+          "word": "(Al",
+          "status": "not_important"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "peetmeû",
+          "status": "correct"
+        },
+        {
+          "word": "geven",
+          "status": "correct"
+        },
+        {
+          "word": "kon!)",
+          "status": "not_important"
+        },
+        {
+          "word": "-",
+          "status": "not_important"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "bleef",
+          "status": "correct"
+        },
+        {
+          "word": "niet",
+          "status": "correct"
+        },
+        {
+          "word": "lang",
+          "status": "correct"
+        },
+        {
+          "word": "toch",
+          "status": "not_important"
+        },
+        {
+          "word": "leêg;",
+          "status": "correct"
+        },
+        {
+          "word": "Want",
+          "status": "not_important"
+        },
+        {
+          "word": "ze",
+          "status": "not_important"
+        },
+        {
+          "word": "breide",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "naaide",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "spon",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "vergaârde",
+          "status": "correct"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "ze",
+          "status": "not_important"
+        },
+        {
+          "word": "won.",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "weinig,",
+          "status": "correct"
+        },
+        {
+          "word": "weinig",
+          "status": "correct"
+        },
+        {
+          "word": "jaren",
+          "status": "correct"
+        },
+        {
+          "word": "Werd",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "varken",
+          "status": "correct"
+        },
+        {
+          "word": "zóó",
+          "status": "correct"
+        },
+        {
+          "word": "gezet,",
+          "status": "correct"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "barstte",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "vet:",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Nijver",
+          "status": "correct"
+        },
+        {
+          "word": "meisken",
+          "status": "correct"
+        },
+        {
+          "word": "wist",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "sparen,",
+          "status": "correct"
+        },
+        {
+          "word": "Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "pret!",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 10,
+      "title": "Title 10",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "\"keusda's\" should be two words: \"keus da's\"",
+      "words": [
+        {
+          "word": "1.Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "prijkt",
+          "status": "correct"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "ieders",
+          "status": "not_important"
+        },
+        {
+          "word": "gezicht",
+          "status": "correct"
+        },
+        {
+          "word": "‘t",
+          "status": "not_important"
+        },
+        {
+          "word": "meest",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "neus",
+          "status": "correct"
+        },
+        {
+          "word": "Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "roemen",
+          "status": "correct"
+        },
+        {
+          "word": "wij",
+          "status": "not_important"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "feest‘t",
+          "status": "correct"
+        },
+        {
+          "word": "meest",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "neus",
+          "status": "correct"
+        },
+        {
+          "word": "Elkeen",
+          "status": "not_important"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "dus",
+          "status": "not_important"
+        },
+        {
+          "word": "zijn",
+          "status": "not_important"
+        },
+        {
+          "word": "neusje",
+          "status": "correct"
+        },
+        {
+          "word": "mint",
+          "status": "correct"
+        },
+        {
+          "word": "Juicht",
+          "status": "correct"
+        },
+        {
+          "word": "met",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "vrolijk",
+          "status": "correct"
+        },
+        {
+          "word": "eensgezind",
+          "status": "correct"
+        },
+        {
+          "word": "Vivat",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "neus,",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "neus.",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "Ton",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "had",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "goede",
+          "status": "correct"
+        },
+        {
+          "word": "neus",
+          "status": "correct"
+        },
+        {
+          "word": "da’s",
+          "status": "not_important"
+        },
+        {
+          "word": "waar",
+          "status": "not_important"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "merkt",
+          "status": "correct"
+        },
+        {
+          "word": "men",
+          "status": "not_important"
+        },
+        {
+          "word": "dadelijk",
+          "status": "correct"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "zijn",
+          "status": "not_important"
+        },
+        {
+          "word": "keusda’s",
+          "status": "correct"
+        },
+        {
+          "word": "waar",
+          "status": "not_important"
+        },
+        {
+          "word": "Hij",
+          "status": "not_important"
+        },
+        {
+          "word": "gaf",
+          "status": "wrong"
+        },
+        {
+          "word": "toen",
+          "status": "not_important"
+        },
+        {
+          "word": "Hella",
+          "status": "correct"
+        },
+        {
+          "word": "‘t",
+          "status": "not_important"
+        },
+        {
+          "word": "jawoord",
+          "status": "correct"
+        },
+        {
+          "word": "gaf",
+          "status": "correct"
+        },
+        {
+          "word": "Er",
+          "status": "not_important"
+        },
+        {
+          "word": "met",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "lange",
+          "status": "wrong"
+        },
+        {
+          "word": "neus",
+          "status": "wrong"
+        },
+        {
+          "word": "van",
+          "status": "wrong"
+        },
+        {
+          "word": "af",
+          "status": "wrong"
+        },
+        {
+          "word": "Da’s",
+          "status": "not_important"
+        },
+        {
+          "word": "waar",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 11,
+      "title": "Title 11",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Toen",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruidje",
+          "status": "correct"
+        },
+        {
+          "word": "lief",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "aardig,",
+          "status": "correct"
+        },
+        {
+          "word": "Om",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "minnen",
+          "status": "wrong"
+        },
+        {
+          "word": "werd",
+          "status": "not_important"
+        },
+        {
+          "word": "gevraagd.",
+          "status": "correct"
+        },
+        {
+          "word": "Sloeg",
+          "status": "correct"
+        },
+        {
+          "word": "zij",
+          "status": "not_important"
+        },
+        {
+          "word": "dra",
+          "status": "correct"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "oogjes",
+          "status": "correct"
+        },
+        {
+          "word": "neder.",
+          "status": "correct"
+        },
+        {
+          "word": "Schoon",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "vraag",
+          "status": "correct"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "had",
+          "status": "not_important"
+        },
+        {
+          "word": "behaagd,",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "blosje",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "koontjes.",
+          "status": "correct"
+        },
+        {
+          "word": "Was",
+          "status": "not_important"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "roosje",
+          "status": "correct"
+        },
+        {
+          "word": "toen",
+          "status": "not_important"
+        },
+        {
+          "word": "gelijk,",
+          "status": "correct"
+        },
+        {
+          "word": "Doch",
+          "status": "not_important"
+        },
+        {
+          "word": "nu",
+          "status": "not_important"
+        },
+        {
+          "word": "geeft",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "gloed",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "blozen",
+          "status": "correct"
+        },
+        {
+          "word": "Van",
+          "status": "not_important"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "minnend",
+          "status": "correct"
+        },
+        {
+          "word": "harte",
+          "status": "correct"
+        },
+        {
+          "word": "blijk.",
+          "status": "correct"
+        },
+        {
+          "word": "Nu",
+          "status": "not_important"
+        },
+        {
+          "word": "zij",
+          "status": "not_important"
+        },
+        {
+          "word": "zich",
+          "status": "not_important"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "deze",
+          "status": "not_important"
+        },
+        {
+          "word": "stonden",
+          "status": "wrong"
+        },
+        {
+          "word": "Als",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruid",
+          "status": "correct"
+        },
+        {
+          "word": "ziet",
+          "status": "not_important"
+        },
+        {
+          "word": "opgetooid",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "daarna",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "Huwelijks",
+          "status": "correct"
+        },
+        {
+          "word": "Outer",
+          "status": "wrong"
+        },
+        {
+          "word": "Met",
+          "status": "not_important"
+        },
+        {
+          "word": "gebloemt",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "palm",
+          "status": "correct"
+        },
+        {
+          "word": "bestrooit",
+          "status": "correct"
+        },
+        {
+          "word": "Heeft",
+          "status": "not_important"
+        },
+        {
+          "word": "zij",
+          "status": "not_important"
+        },
+        {
+          "word": "ook",
+          "status": "not_important"
+        },
+        {
+          "word": "niet",
+          "status": "correct"
+        },
+        {
+          "word": "meer",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "blozen",
+          "status": "correct"
+        },
+        {
+          "word": "Om",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "neiging",
+          "status": "wrong"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "jeugd,",
+          "status": "correct"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "lonken",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "oogjes",
+          "status": "correct"
+        },
+        {
+          "word": "Spel",
+          "status": "wrong"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruigom",
+          "status": "correct"
+        },
+        {
+          "word": "ware",
+          "status": "correct"
+        },
+        {
+          "word": "vreugd.",
+          "status": "correct"
+        },
+        {
+          "word": "Teedre",
+          "status": "correct"
+        },
+        {
+          "word": "bruid",
+          "status": "correct"
+        },
+        {
+          "word": "wier",
+          "status": "not_important"
+        },
+        {
+          "word": "minzaamheden",
+          "status": "wrong"
+        },
+        {
+          "word": "Waard",
+          "status": "correct"
+        },
+        {
+          "word": "zijn",
+          "status": "not_important"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde",
+          "status": "correct"
+        },
+        {
+          "word": "wint.",
+          "status": "correct"
+        },
+        {
+          "word": "Spreek",
+          "status": "correct"
+        },
+        {
+          "word": "dan",
+          "status": "not_important"
+        },
+        {
+          "word": "vrij",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "taal",
+          "status": "correct"
+        },
+        {
+          "word": "der",
+          "status": "not_important"
+        },
+        {
+          "word": "oogen,",
+          "status": "correct"
+        },
+        {
+          "word": "Met",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "uitverkoren",
+          "status": "correct"
+        },
+        {
+          "word": "Vrind;",
+          "status": "wrong"
+        },
+        {
+          "word": "Hij",
+          "status": "not_important"
+        },
+        {
+          "word": "verstaat",
+          "status": "correct"
+        },
+        {
+          "word": "dit",
+          "status": "not_important"
+        },
+        {
+          "word": "zwijgend",
+          "status": "correct"
+        },
+        {
+          "word": "spreken.",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "geeft",
+          "status": "correct"
+        },
+        {
+          "word": "antwoord",
+          "status": "correct"
+        },
+        {
+          "word": "door",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "lonk,",
+          "status": "correct"
+        },
+        {
+          "word": "Maakt",
+          "status": "not_important"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "deze",
+          "status": "not_important"
+        },
+        {
+          "word": "taal",
+          "status": "correct"
+        },
+        {
+          "word": "hem",
+          "status": "not_important"
+        },
+        {
+          "word": "duurzaam",
+          "status": "correct"
+        },
+        {
+          "word": "Meer",
+          "status": "not_important"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "meer",
+          "status": "not_important"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde",
+          "status": "correct"
+        },
+        {
+          "word": "ontvonk.",
+          "status": "correct"
+        },
+        {
+          "word": "Minzaam",
+          "status": "wrong"
+        },
+        {
+          "word": "Paar!",
+          "status": "correct"
+        },
+        {
+          "word": "strooi",
+          "status": "correct"
+        },
+        {
+          "word": "telkens",
+          "status": "not_important"
+        },
+        {
+          "word": "bloemen",
+          "status": "correct"
+        },
+        {
+          "word": "Op",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "schoone",
+          "status": "correct"
+        },
+        {
+          "word": "levensbaan,",
+          "status": "correct"
+        },
+        {
+          "word": "Denk",
+          "status": "correct"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "er",
+          "status": "not_important"
+        },
+        {
+          "word": "met",
+          "status": "correct"
+        },
+        {
+          "word": "elkander",
+          "status": "correct"
+        },
+        {
+          "word": "Tot",
+          "status": "not_important"
+        },
+        {
+          "word": "haar",
+          "status": "not_important"
+        },
+        {
+          "word": "eindperk",
+          "status": "correct"
+        },
+        {
+          "word": "voort",
+          "status": "correct"
+        },
+        {
+          "word": "moet",
+          "status": "not_important"
+        },
+        {
+          "word": "gaan.",
+          "status": "correct"
+        },
+        {
+          "word": "Al",
+          "status": "not_important"
+        },
+        {
+          "word": "bedekt",
+          "status": "correct"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "luchtig",
+          "status": "correct"
+        },
+        {
+          "word": "wolkje",
+          "status": "correct"
+        },
+        {
+          "word": "Eens",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "voorspoeds",
+          "status": "correct"
+        },
+        {
+          "word": "zonneschijn,",
+          "status": "correct"
+        },
+        {
+          "word": "In",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "trouw",
+          "status": "correct"
+        },
+        {
+          "word": "vereende",
+          "status": "correct"
+        },
+        {
+          "word": "zielen",
+          "status": "correct"
+        },
+        {
+          "word": "Moet",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "altijd",
+          "status": "correct"
+        },
+        {
+          "word": "helder",
+          "status": "correct"
+        },
+        {
+          "word": "zijn.",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 12,
+      "title": "Title 12",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Kom",
+          "status": "correct"
+        },
+        {
+          "word": "laat",
+          "status": "correct"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "klinken!",
+          "status": "correct"
+        },
+        {
+          "word": "Ter",
+          "status": "not_important"
+        },
+        {
+          "word": "eer",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruidegom",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruid,",
+          "status": "correct"
+        },
+        {
+          "word": "Bij",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "afscheid",
+          "status": "correct"
+        },
+        {
+          "word": "nemen,",
+          "status": "correct"
+        },
+        {
+          "word": "Drinkt",
+          "status": "correct"
+        },
+        {
+          "word": "elk",
+          "status": "not_important"
+        },
+        {
+          "word": "zijn",
+          "status": "not_important"
+        },
+        {
+          "word": "glaasje",
+          "status": "correct"
+        },
+        {
+          "word": "uit.",
+          "status": "not_important"
+        },
+        {
+          "word": "Zie,",
+          "status": "correct"
+        },
+        {
+          "word": "hoe",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "lieve",
+          "status": "correct"
+        },
+        {
+          "word": "Bruidje",
+          "status": "correct"
+        },
+        {
+          "word": "lacht!",
+          "status": "correct"
+        },
+        {
+          "word": "Zij",
+          "status": "not_important"
+        },
+        {
+          "word": "denkt,",
+          "status": "correct"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "wordt",
+          "status": "correct"
+        },
+        {
+          "word": "reeds",
+          "status": "correct"
+        },
+        {
+          "word": "middernacht....",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "dat's",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "tijd,",
+          "status": "not_important"
+        },
+        {
+          "word": "dat.....",
+          "status": "not_important"
+        },
+        {
+          "word": "elke",
+          "status": "not_important"
+        },
+        {
+          "word": "gast,",
+          "status": "correct"
+        },
+        {
+          "word": "Verheugd",
+          "status": "correct"
+        },
+        {
+          "word": "tot",
+          "status": "not_important"
+        },
+        {
+          "word": "zijnent",
+          "status": "correct"
+        },
+        {
+          "word": "keert.",
+          "status": "correct"
+        },
+        {
+          "word": "Kom",
+          "status": "correct"
+        },
+        {
+          "word": "laat,",
+          "status": "correct"
+        },
+        {
+          "word": "enz.",
+          "status": "not_important"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruigom",
+          "status": "correct"
+        },
+        {
+          "word": "telt",
+          "status": "correct"
+        },
+        {
+          "word": "elk",
+          "status": "not_important"
+        },
+        {
+          "word": "klokgetik,",
+          "status": "correct"
+        },
+        {
+          "word": "Rijkhalzend'",
+          "status": "correct"
+        },
+        {
+          "word": "naar",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "oogenblik,",
+          "status": "correct"
+        },
+        {
+          "word": "Waarin",
+          "status": "not_important"
+        },
+        {
+          "word": "hij",
+          "status": "not_important"
+        },
+        {
+          "word": ".....",
+          "status": "not_important"
+        },
+        {
+          "word": "ziet",
+          "status": "correct"
+        },
+        {
+          "word": "hoe",
+          "status": "not_important"
+        },
+        {
+          "word": "elke",
+          "status": "not_important"
+        },
+        {
+          "word": "gast,",
+          "status": "correct"
+        },
+        {
+          "word": "Verheugd",
+          "status": "correct"
+        },
+        {
+          "word": "tot",
+          "status": "not_important"
+        },
+        {
+          "word": "zijnent",
+          "status": "correct"
+        },
+        {
+          "word": "keert.",
+          "status": "correct"
+        },
+        {
+          "word": "Kom",
+          "status": "correct"
+        },
+        {
+          "word": "laat,",
+          "status": "correct"
+        },
+        {
+          "word": "enz.",
+          "status": "not_important"
+        },
+        {
+          "word": "Wij",
+          "status": "not_important"
+        },
+        {
+          "word": "wenschen",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Bruidje",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "not_important"
+        },
+        {
+          "word": "strijd,",
+          "status": "correct"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "diepste",
+          "status": "correct"
+        },
+        {
+          "word": "onderdanigheid,",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "veel",
+          "status": "not_important"
+        },
+        {
+          "word": "genoegen",
+          "status": "correct"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "deez'",
+          "status": "not_important"
+        },
+        {
+          "word": "nacht,",
+          "status": "correct"
+        },
+        {
+          "word": "Door",
+          "status": "not_important"
+        },
+        {
+          "word": "Amor",
+          "status": "correct"
+        },
+        {
+          "word": "uitgedacht.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 13,
+      "title": "XXV. Bruiloftszang",
+      "overallRating": 2,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Geliefjes",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "u",
+          "status": "wrong"
+        },
+        {
+          "word": "in",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "not_important"
+        },
+        {
+          "word": "echt",
+          "status": "correct"
+        },
+        {
+          "word": "Door",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde",
+          "status": "correct"
+        },
+        {
+          "word": "zamenbindt,",
+          "status": "correct"
+        },
+        {
+          "word": "Ik",
+          "status": "not_important"
+        },
+        {
+          "word": "bid",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "toch",
+          "status": "not_important"
+        },
+        {
+          "word": "wel",
+          "status": "not_important"
+        },
+        {
+          "word": "overlegt",
+          "status": "correct"
+        },
+        {
+          "word": "Wat",
+          "status": "not_important"
+        },
+        {
+          "word": "staat",
+          "status": "wrong"
+        },
+        {
+          "word": "dat",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "begint.",
+          "status": "correct"
+        },
+        {
+          "word": "Het",
+          "status": "not_important"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "geen",
+          "status": "correct"
+        },
+        {
+          "word": "os-",
+          "status": "correct"
+        },
+        {
+          "word": "noch",
+          "status": "correct"
+        },
+        {
+          "word": "koeijen-koop,",
+          "status": "correct"
+        },
+        {
+          "word": "Noch",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "geen",
+          "status": "correct"
+        },
+        {
+          "word": "kinderspel;",
+          "status": "correct"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "al",
+          "status": "not_important"
+        },
+        {
+          "word": "vrij",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "vaster",
+          "status": "correct"
+        },
+        {
+          "word": "knoop,",
+          "status": "correct"
+        },
+        {
+          "word": "Dus",
+          "status": "not_important"
+        },
+        {
+          "word": "overlegt",
+          "status": "correct"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "wel.",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Is",
+          "status": "not_important"
+        },
+        {
+          "word": "staâg",
+          "status": "wrong"
+        },
+        {
+          "word": "niet:",
+          "status": "not_important"
+        },
+        {
+          "word": "liefste",
+          "status": "correct"
+        },
+        {
+          "word": "kom",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "bed,",
+          "status": "correct"
+        },
+        {
+          "word": "Noch",
+          "status": "not_important"
+        },
+        {
+          "word": "boter",
+          "status": "correct"
+        },
+        {
+          "word": "tot",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "not_important"
+        },
+        {
+          "word": "boôm,",
+          "status": "wrong"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "zorg",
+          "status": "wrong"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "zorgen",
+          "status": "wrong"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "belet,",
+          "status": "correct"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "wekt",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "uit",
+          "status": "not_important"
+        },
+        {
+          "word": "tien",
+          "status": "wrong"
+        },
+        {
+          "word": "droom:",
+          "status": "correct"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "zorg",
+          "status": "correct"
+        },
+        {
+          "word": "voor",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "huis",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "huisbehoor,",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "aschschop",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "voor",
+          "status": "not_important"
+        },
+        {
+          "word": "tang,",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "zwavelstok",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "voor",
+          "status": "not_important"
+        },
+        {
+          "word": "konfoor,",
+          "status": "wrong"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "maakt",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "dikwijls",
+          "status": "correct"
+        },
+        {
+          "word": "bang.",
+          "status": "correct"
+        },
+        {
+          "word": "Dan",
+          "status": "not_important"
+        },
+        {
+          "word": "moet",
+          "status": "not_important"
+        },
+        {
+          "word": "gij",
+          "status": "not_important"
+        },
+        {
+          "word": "zorgen",
+          "status": "wrong"
+        },
+        {
+          "word": "voor",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "not_important"
+        },
+        {
+          "word": "kost;",
+          "status": "wrong"
+        },
+        {
+          "word": "O",
+          "status": "not_important"
+        },
+        {
+          "word": "zware",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "stâge",
+          "status": "correct"
+        },
+        {
+          "word": "schuld!",
+          "status": "wrong"
+        },
+        {
+          "word": "Want",
+          "status": "not_important"
+        },
+        {
+          "word": "heeft",
+          "status": "correct"
+        },
+        {
+          "word": "men",
+          "status": "not_important"
+        },
+        {
+          "word": "wijn",
+          "status": "correct"
+        },
+        {
+          "word": "men",
+          "status": "not_important"
+        },
+        {
+          "word": "heeft",
+          "status": "correct"
+        },
+        {
+          "word": "geen",
+          "status": "correct"
+        },
+        {
+          "word": "most,",
+          "status": "correct"
+        },
+        {
+          "word": "Of",
+          "status": "not_important"
+        },
+        {
+          "word": "spek,",
+          "status": "correct"
+        },
+        {
+          "word": "men",
+          "status": "not_important"
+        },
+        {
+          "word": "heeft",
+          "status": "correct"
+        },
+        {
+          "word": "geen",
+          "status": "correct"
+        },
+        {
+          "word": "zult.",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "zoo",
+          "status": "not_important"
+        },
+        {
+          "word": "uw",
+          "status": "not_important"
+        },
+        {
+          "word": "echtboom",
+          "status": "correct"
+        },
+        {
+          "word": "vruchtbaar",
+          "status": "correct"
+        },
+        {
+          "word": "wordt",
+          "status": "not_important"
+        },
+        {
+          "word": "Sta",
+          "status": "wrong"
+        },
+        {
+          "word": "bij",
+          "status": "wrong"
+        },
+        {
+          "word": "dan",
+          "status": "not_important"
+        },
+        {
+          "word": "doek",
+          "status": "wrong"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "luur",
+          "status": "wrong"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "wieg",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "wat",
+          "status": "not_important"
+        },
+        {
+          "word": "er",
+          "status": "not_important"
+        },
+        {
+          "word": "meer",
+          "status": "not_important"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "schort,",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "alle",
+          "status": "correct"
+        },
+        {
+          "word": "ding",
+          "status": "correct"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "duur.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 14,
+      "title": "Title 14",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Aangevangen",
+          "status": "correct"
+        },
+        {
+          "word": "Jubelzangen",
+          "status": "correct"
+        },
+        {
+          "word": "Moeten",
+          "status": "correct"
+        },
+        {
+          "word": "zich",
+          "status": "not_important"
+        },
+        {
+          "word": "herhalen;",
+          "status": "correct"
+        },
+        {
+          "word": "Van",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "zingen,",
+          "status": "correct"
+        },
+        {
+          "word": "Moeten",
+          "status": "correct"
+        },
+        {
+          "word": "dringen",
+          "status": "correct"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "echo's",
+          "status": "correct"
+        },
+        {
+          "word": "door",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "zalen;",
+          "status": "correct"
+        },
+        {
+          "word": "Heil",
+          "status": "correct"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "huwlijksleven,",
+          "status": "correct"
+        },
+        {
+          "word": "Ons",
+          "status": "correct"
+        },
+        {
+          "word": "op",
+          "status": "not_important"
+        },
+        {
+          "word": "aard",
+          "status": "correct"
+        },
+        {
+          "word": "gegeven,",
+          "status": "correct"
+        },
+        {
+          "word": "Heil",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde,",
+          "status": "correct"
+        },
+        {
+          "word": "heil",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "trouw,",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "beiden",
+          "status": "not_important"
+        },
+        {
+          "word": "Man",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "Vrouw.",
+          "status": "correct"
+        },
+        {
+          "word": "Eenzaam",
+          "status": "correct"
+        },
+        {
+          "word": "handlen,",
+          "status": "correct"
+        },
+        {
+          "word": "Eenzaam",
+          "status": "correct"
+        },
+        {
+          "word": "wandlen,",
+          "status": "correct"
+        },
+        {
+          "word": "Kan",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "hart",
+          "status": "correct"
+        },
+        {
+          "word": "niet",
+          "status": "correct"
+        },
+        {
+          "word": "streelen,",
+          "status": "correct"
+        },
+        {
+          "word": "Aan",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "harte,",
+          "status": "correct"
+        },
+        {
+          "word": "Vreugd",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "smarte",
+          "status": "correct"
+        },
+        {
+          "word": "Stadig",
+          "status": "correct"
+        },
+        {
+          "word": "meê",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "deelen;",
+          "status": "correct"
+        },
+        {
+          "word": "Dat",
+          "status": "not_important"
+        },
+        {
+          "word": "alleen",
+          "status": "correct"
+        },
+        {
+          "word": "kan",
+          "status": "not_important"
+        },
+        {
+          "word": "geven,",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Zalig",
+          "status": "correct"
+        },
+        {
+          "word": "huwlijksleven,",
+          "status": "correct"
+        },
+        {
+          "word": "Heil",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde,",
+          "status": "correct"
+        },
+        {
+          "word": "heil",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "trouw,",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "beiden,",
+          "status": "not_important"
+        },
+        {
+          "word": "Man",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "Vrouw.",
+          "status": "correct"
+        },
+        {
+          "word": "Met",
+          "status": "not_important"
+        },
+        {
+          "word": "bezwaren,",
+          "status": "correct"
+        },
+        {
+          "word": "En",
+          "status": "not_important"
+        },
+        {
+          "word": "gevaren,",
+          "status": "correct"
+        },
+        {
+          "word": "Heeft",
+          "status": "not_important"
+        },
+        {
+          "word": "men",
+          "status": "not_important"
+        },
+        {
+          "word": "vaak",
+          "status": "not_important"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "strijden,",
+          "status": "correct"
+        },
+        {
+          "word": "Om",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "zorgen",
+          "status": "correct"
+        },
+        {
+          "word": "Van",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "not_important"
+        },
+        {
+          "word": "morgen,",
+          "status": "correct"
+        },
+        {
+          "word": "Dikwijls",
+          "status": "correct"
+        },
+        {
+          "word": "veel",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "not_important"
+        },
+        {
+          "word": "lijden;",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Zalig",
+          "status": "correct"
+        },
+        {
+          "word": "huwlijksleven",
+          "status": "correct"
+        },
+        {
+          "word": "Zal",
+          "status": "not_important"
+        },
+        {
+          "word": "verligting",
+          "status": "correct"
+        },
+        {
+          "word": "geven,",
+          "status": "correct"
+        },
+        {
+          "word": "Heil",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "liefde,",
+          "status": "correct"
+        },
+        {
+          "word": "heil",
+          "status": "correct"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "trouw,",
+          "status": "correct"
+        },
+        {
+          "word": "Voor",
+          "status": "not_important"
+        },
+        {
+          "word": "beiden,",
+          "status": "not_important"
+        },
+        {
+          "word": "Man",
+          "status": "correct"
+        },
+        {
+          "word": "en",
+          "status": "not_important"
+        },
+        {
+          "word": "Vrouw.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 15,
+      "title": "Bruiloftslied [in schrift nr. 9]",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Waarom",
+          "status": "correct"
+        },
+        {
+          "word": "vloeien",
+          "status": "correct"
+        },
+        {
+          "word": "er",
+          "status": "not_important"
+        },
+        {
+          "word": "die",
+          "status": "not_important"
+        },
+        {
+          "word": "tranen",
+          "status": "correct"
+        },
+        {
+          "word": "Uit",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "hart",
+          "status": "correct"
+        },
+        {
+          "word": "der",
+          "status": "not_important"
+        },
+        {
+          "word": "reine",
+          "status": "correct"
+        },
+        {
+          "word": "bruid",
+          "status": "correct"
+        },
+        {
+          "word": "Als",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "priester",
+          "status": "correct"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "Gods",
+          "status": "correct"
+        },
+        {
+          "word": "altaar",
+          "status": "correct"
+        },
+        {
+          "word": "De",
+          "status": "not_important"
+        },
+        {
+          "word": "heilige",
+          "status": "correct"
+        },
+        {
+          "word": "band",
+          "status": "correct"
+        },
+        {
+          "word": "des",
+          "status": "not_important"
+        },
+        {
+          "word": "huwelijks",
+          "status": "correct"
+        },
+        {
+          "word": "sluit",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 16,
+      "title": "AFSCHEID VAN HET DESSERT",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Rijst",
+          "status": "correct"
+        },
+        {
+          "word": "op,",
+          "status": "correct"
+        },
+        {
+          "word": "o",
+          "status": "not_important"
+        },
+        {
+          "word": "Feestgenooten!",
+          "status": "correct"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Is",
+          "status": "not_important"
+        },
+        {
+          "word": "tijd",
+          "status": "correct"
+        },
+        {
+          "word": "om",
+          "status": "not_important"
+        },
+        {
+          "word": "heen",
+          "status": "correct"
+        },
+        {
+          "word": "te",
+          "status": "correct"
+        },
+        {
+          "word": "gaan,",
+          "status": "correct"
+        },
+        {
+          "word": "Het",
+          "status": "not_important"
+        },
+        {
+          "word": "heeft",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "niet",
+          "status": "correct"
+        },
+        {
+          "word": "verdrooten,",
+          "status": "correct"
+        },
+        {
+          "word": "Maar",
+          "status": "not_important"
+        },
+        {
+          "word": "hoort",
+          "status": "correct"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "klokken",
+          "status": "correct"
+        },
+        {
+          "word": "slaan;",
+          "status": "correct"
+        },
+        {
+          "word": "Nu",
+          "status": "correct"
+        },
+        {
+          "word": "is",
+          "status": "not_important"
+        },
+        {
+          "word": "het",
+          "status": "not_important"
+        },
+        {
+          "word": "tijd",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "scheiden,",
+          "status": "correct"
+        },
+        {
+          "word": "Doch",
+          "status": "not_important"
+        },
+        {
+          "word": "tegen",
+          "status": "correct"
+        },
+        {
+          "word": "alle",
+          "status": "not_important"
+        },
+        {
+          "word": "smart,",
+          "status": "correct"
+        },
+        {
+          "word": "Kan",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "nog",
+          "status": "not_important"
+        },
+        {
+          "word": "een",
+          "status": "not_important"
+        },
+        {
+          "word": "teugje",
+          "status": "correct"
+        },
+        {
+          "word": "lijden,",
+          "status": "correct"
+        },
+        {
+          "word": "Tot",
+          "status": "not_important"
+        },
+        {
+          "word": "afscheid",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "Dessert.",
+          "status": "correct"
+        },
+        {
+          "word": "Hallo,",
+          "status": "not_important"
+        },
+        {
+          "word": "hallo,",
+          "status": "not_important"
+        },
+        {
+          "word": "hallo,",
+          "status": "not_important"
+        },
+        {
+          "word": "hallo!",
+          "status": "not_important"
+        },
+        {
+          "word": "Bij",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "gaat",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "immer",
+          "status": "not_important"
+        },
+        {
+          "word": "zoo,",
+          "status": "not_important"
+        },
+        {
+          "word": "bis.",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 17,
+      "title": "No. 107. HUWELIJKS-ZANG",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Bezing",
+          "status": "wrong"
+        },
+        {
+          "word": "Deez",
+          "status": "not_important"
+        },
+        {
+          "word": "kring",
+          "status": "correct"
+        },
+        {
+          "word": "Het",
+          "status": "not_important"
+        },
+        {
+          "word": "Feest",
+          "status": "correct"
+        },
+        {
+          "word": "aan",
+          "status": "not_important"
+        },
+        {
+          "word": "ons",
+          "status": "not_important"
+        },
+        {
+          "word": "gegeven,",
+          "status": "correct"
+        },
+        {
+          "word": "Geen",
+          "status": "not_important"
+        },
+        {
+          "word": "dag",
+          "status": "correct"
+        },
+        {
+          "word": "van",
+          "status": "not_important"
+        },
+        {
+          "word": "'t",
+          "status": "not_important"
+        },
+        {
+          "word": "heele",
+          "status": "correct"
+        },
+        {
+          "word": "leven,",
+          "status": "correct"
+        },
+        {
+          "word": "Is",
+          "status": "not_important"
+        },
+        {
+          "word": "hooger",
+          "status": "correct"
+        },
+        {
+          "word": "toonen",
+          "status": "wrong"
+        },
+        {
+          "word": "waard.",
+          "status": "correct"
+        },
+        {
+          "word": "-",
+          "status": "not_important"
+        },
+        {
+          "word": "Bleef",
+          "status": "correct"
+        },
+        {
+          "word": "Adam",
+          "status": "correct"
+        },
+        {
+          "word": "niet",
+          "status": "correct"
+        },
+        {
+          "word": "nog",
+          "status": "not_important"
+        },
+        {
+          "word": "klagen,",
+          "status": "correct"
+        },
+        {
+          "word": "Al",
+          "status": "not_important"
+        },
+        {
+          "word": "had",
+          "status": "correct"
+        },
+        {
+          "word": "hij",
+          "status": "not_important"
+        },
+        {
+          "word": "de",
+          "status": "not_important"
+        },
+        {
+          "word": "aarde",
+          "status": "correct"
+        },
+        {
+          "word": "alleen,",
+          "status": "correct"
+        },
+        {
+          "word": "Tot",
+          "status": "not_important"
+        },
+        {
+          "word": "Eva",
+          "status": "correct"
+        },
+        {
+          "word": "op",
+          "status": "correct"
+        },
+        {
+          "word": "kwam",
+          "status": "correct"
+        },
+        {
+          "word": "dagen,",
+          "status": "correct"
+        },
+        {
+          "word": "Uit",
+          "status": "not_important"
+        },
+        {
+          "word": "zijn",
+          "status": "not_important"
+        },
+        {
+          "word": "ribbebeen.",
+          "status": "correct"
+        }
+      ]
+    }
+  ]
+}
