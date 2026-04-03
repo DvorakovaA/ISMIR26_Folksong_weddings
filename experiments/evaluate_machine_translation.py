@@ -55,17 +55,17 @@ JSONS_MAP = {
     'et': 'folksong_mt_estonian_AA.json',
     'ko': 'folksong_mt_korean_DH.json',
     'nl': 'folksong_mt_dutch_PvK.json',
-    'uk': None
+    'uk': 'folksong_mt_ukrainian_IL.json'
 }
 
 DUPLICATE_SONGS_MAP = {
-    'cs': None,
-    'et': None,
-    'ko': None,
-    'nl': None,
-    'uk': None
+    'cs': [4, 14],
+    'et': [3, 14],
+    'ko': [3, 11],
+    'nl': [3, 15],
+    'uk': [3, 16]
 }
-
+# Used ids refer to existing ids in the data, that go from 1!
 
 def compute_mean_correctness(evaluations):
     n_correct = 0
