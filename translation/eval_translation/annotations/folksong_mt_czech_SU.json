@@ -1,0 +1,3328 @@
+{
+  "language": "Czech",
+  "exportedAt": "2026-04-02T19:21:48.543Z",
+  "evaluations": [
+    {
+      "textId": 1,
+      "title": "Má zlatá Ančička v komůrce spí, Honzíček, holeček připíjel jí",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Má",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatá",
+          "status": "correct"
+        },
+        {
+          "word": "Ančička",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "komůrce",
+          "status": "correct"
+        },
+        {
+          "word": "spí,",
+          "status": "correct"
+        },
+        {
+          "word": "Honzíček",
+          "status": "correct"
+        },
+        {
+          "word": "holeček",
+          "status": "correct"
+        },
+        {
+          "word": "připíjel",
+          "status": "correct"
+        },
+        {
+          "word": "jí:",
+          "status": "not_important"
+        },
+        {
+          "word": "Ančko",
+          "status": "correct"
+        },
+        {
+          "word": "mé",
+          "status": "not_important"
+        },
+        {
+          "word": "dítě!",
+          "status": "correct"
+        },
+        {
+          "word": "tu",
+          "status": "correct"
+        },
+        {
+          "word": "máte,",
+          "status": "correct"
+        },
+        {
+          "word": "píte",
+          "status": "correct"
+        },
+        {
+          "word": "moje",
+          "status": "not_important"
+        },
+        {
+          "word": "zdraví!",
+          "status": "correct"
+        },
+        {
+          "word": "„Proč",
+          "status": "correct"
+        },
+        {
+          "word": "pak",
+          "status": "correct"
+        },
+        {
+          "word": "bych",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "vaše",
+          "status": "not_important"
+        },
+        {
+          "word": "zdraví",
+          "status": "correct"
+        },
+        {
+          "word": "pila?",
+          "status": "correct"
+        },
+        {
+          "word": "když",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "nejsem",
+          "status": "not_important"
+        },
+        {
+          "word": "žádná",
+          "status": "not_important"
+        },
+        {
+          "word": "vaše",
+          "status": "not_important"
+        },
+        {
+          "word": "milá:",
+          "status": "correct"
+        },
+        {
+          "word": "Honzíčku",
+          "status": "correct"
+        },
+        {
+          "word": "dítě,",
+          "status": "correct"
+        },
+        {
+          "word": "vy",
+          "status": "not_important"
+        },
+        {
+          "word": "mě",
+          "status": "not_important"
+        },
+        {
+          "word": "šidíte!“",
+          "status": "wrong"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "pravila.",
+          "status": "correct"
+        },
+        {
+          "word": "Budeme",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "soudit",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "rychtáře,",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "toho,",
+          "status": "not_important"
+        },
+        {
+          "word": "co",
+          "status": "not_important"
+        },
+        {
+          "word": "bydlí",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "naší",
+          "status": "not_important"
+        },
+        {
+          "word": "faře:",
+          "status": "correct"
+        },
+        {
+          "word": "on",
+          "status": "not_important"
+        },
+        {
+          "word": "veme",
+          "status": "correct"
+        },
+        {
+          "word": "štolu,",
+          "status": "correct"
+        },
+        {
+          "word": "sváže",
+          "status": "correct"
+        },
+        {
+          "word": "nás",
+          "status": "not_important"
+        },
+        {
+          "word": "spolu",
+          "status": "correct"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "oltáře.",
+          "status": "correct"
+        },
+        {
+          "word": "Budeme",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "spolu",
+          "status": "correct"
+        },
+        {
+          "word": "milovali,",
+          "status": "correct"
+        },
+        {
+          "word": "ty",
+          "status": "not_important"
+        },
+        {
+          "word": "budeš",
+          "status": "not_important"
+        },
+        {
+          "word": "šít",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "kolíbati:",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "tak",
+          "status": "correct"
+        },
+        {
+          "word": "vesele",
+          "status": "correct"
+        },
+        {
+          "word": "budem",
+          "status": "not_important"
+        },
+        {
+          "word": "u",
+          "status": "not_important"
+        },
+        {
+          "word": "sebe",
+          "status": "not_important"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "do",
+          "status": "not_important"
+        },
+        {
+          "word": "smrti.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "Jaké to trápení mám smutný na zemi, bolí mě, bolí hlavička pro mé potěšení",
+      "overallRating": 4,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Jaké",
+          "status": "not_important"
+        },
+        {
+          "word": "to",
+          "status": "not_important"
+        },
+        {
+          "word": "trápení",
+          "status": "correct"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "smutný",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "zemi:",
+          "status": "correct"
+        },
+        {
+          "word": "bolí",
+          "status": "correct"
+        },
+        {
+          "word": "mě,",
+          "status": "not_important"
+        },
+        {
+          "word": "bolí",
+          "status": "correct"
+        },
+        {
+          "word": "hlavička",
+          "status": "correct"
+        },
+        {
+          "word": "pro",
+          "status": "not_important"
+        },
+        {
+          "word": "mé",
+          "status": "not_important"
+        },
+        {
+          "word": "potěšení!",
+          "status": "correct"
+        },
+        {
+          "word": "Teče",
+          "status": "correct"
+        },
+        {
+          "word": "voda,",
+          "status": "correct"
+        },
+        {
+          "word": "teče",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "ty",
+          "status": "not_important"
+        },
+        {
+          "word": "novy",
+          "status": "correct"
+        },
+        {
+          "word": "mlejny:",
+          "status": "correct"
+        },
+        {
+          "word": "což",
+          "status": "not_important"
+        },
+        {
+          "word": "je",
+          "status": "not_important"
+        },
+        {
+          "word": "těžko",
+          "status": "correct"
+        },
+        {
+          "word": "milovati,",
+          "status": "correct"
+        },
+        {
+          "word": "co",
+          "status": "not_important"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "libosti",
+          "status": "correct"
+        },
+        {
+          "word": "není!",
+          "status": "not_important"
+        },
+        {
+          "word": "Co",
+          "status": "not_important"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "libosti",
+          "status": "correct"
+        },
+        {
+          "word": "bylo,",
+          "status": "not_important"
+        },
+        {
+          "word": "to",
+          "status": "not_important"
+        },
+        {
+          "word": "mě",
+          "status": "not_important"
+        },
+        {
+          "word": "opustilo;",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "dalekých",
+          "status": "correct"
+        },
+        {
+          "word": "širých",
+          "status": "correct"
+        },
+        {
+          "word": "krajinách",
+          "status": "correct"
+        },
+        {
+          "word": "mne",
+          "status": "not_important"
+        },
+        {
+          "word": "je",
+          "status": "not_important"
+        },
+        {
+          "word": "zanechalo.",
+          "status": "correct"
+        },
+        {
+          "word": "Chodil",
+          "status": "correct"
+        },
+        {
+          "word": "jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "po",
+          "status": "not_important"
+        },
+        {
+          "word": "horách",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "dalekých",
+          "status": "correct"
+        },
+        {
+          "word": "krajinách,",
+          "status": "correct"
+        },
+        {
+          "word": "všude",
+          "status": "correct"
+        },
+        {
+          "word": "volal",
+          "status": "correct"
+        },
+        {
+          "word": "jsem:",
+          "status": "not_important"
+        },
+        {
+          "word": "Má",
+          "status": "not_important"
+        },
+        {
+          "word": "milá!",
+          "status": "correct"
+        },
+        {
+          "word": "kam",
+          "status": "correct"
+        },
+        {
+          "word": "jsi",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "poděla?",
+          "status": "correct"
+        },
+        {
+          "word": "Přijdu",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "tu",
+          "status": "not_important"
+        },
+        {
+          "word": "krajinu,",
+          "status": "correct"
+        },
+        {
+          "word": "slyšel",
+          "status": "correct"
+        },
+        {
+          "word": "jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "novinu,",
+          "status": "correct"
+        },
+        {
+          "word": "že",
+          "status": "not_important"
+        },
+        {
+          "word": "moje",
+          "status": "not_important"
+        },
+        {
+          "word": "milá",
+          "status": "correct"
+        },
+        {
+          "word": "zůstává",
+          "status": "correct"
+        },
+        {
+          "word": "zde",
+          "status": "correct"
+        },
+        {
+          "word": "tuto",
+          "status": "not_important"
+        },
+        {
+          "word": "hodinu.",
+          "status": "correct"
+        },
+        {
+          "word": "Andulko",
+          "status": "wrong"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "milá!",
+          "status": "correct"
+        },
+        {
+          "word": "jsi-li",
+          "status": "not_important"
+        },
+        {
+          "word": "tak",
+          "status": "correct"
+        },
+        {
+          "word": "upřímná,",
+          "status": "correct"
+        },
+        {
+          "word": "vyjdi",
+          "status": "correct"
+        },
+        {
+          "word": "ty",
+          "status": "not_important"
+        },
+        {
+          "word": "ven",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "slovíčko,",
+          "status": "correct"
+        },
+        {
+          "word": "tvůj",
+          "status": "not_important"
+        },
+        {
+          "word": "milej",
+          "status": "correct"
+        },
+        {
+          "word": "tě",
+          "status": "not_important"
+        },
+        {
+          "word": "volá!",
+          "status": "correct"
+        },
+        {
+          "word": "Tuším,",
+          "status": "correct"
+        },
+        {
+          "word": "tuším,",
+          "status": "correct"
+        },
+        {
+          "word": "tuším,",
+          "status": "correct"
+        },
+        {
+          "word": "že",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "odtud",
+          "status": "wrong"
+        },
+        {
+          "word": "musím:",
+          "status": "correct"
+        },
+        {
+          "word": "kterou",
+          "status": "not_important"
+        },
+        {
+          "word": "jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "pannu",
+          "status": "correct"
+        },
+        {
+          "word": "miloval,",
+          "status": "correct"
+        },
+        {
+          "word": "tu",
+          "status": "not_important"
+        },
+        {
+          "word": "opustit",
+          "status": "correct"
+        },
+        {
+          "word": "musím.",
+          "status": "correct"
+        },
+        {
+          "word": "Snadno",
+          "status": "correct"
+        },
+        {
+          "word": "ji",
+          "status": "not_important"
+        },
+        {
+          "word": "opustím,",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "když",
+          "status": "not_important"
+        },
+        {
+          "word": "jinou",
+          "status": "correct"
+        },
+        {
+          "word": "nemám,",
+          "status": "correct"
+        },
+        {
+          "word": "vyjdu",
+          "status": "correct"
+        },
+        {
+          "word": "si",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "vršíček,",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "jinou",
+          "status": "correct"
+        },
+        {
+          "word": "zavolám!",
+          "status": "correct"
+        },
+        {
+          "word": "Rybičky",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "hlubinách,",
+          "status": "correct"
+        },
+        {
+          "word": "ptáčkové",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "huštinách,",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "moje",
+          "status": "not_important"
+        },
+        {
+          "word": "zlaté",
+          "status": "wrong"
+        },
+        {
+          "word": "panenky",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "hlubokých",
+          "status": "correct"
+        },
+        {
+          "word": "komorách.",
+          "status": "correct"
+        },
+        {
+          "word": "Kuřátka",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "hůře,",
+          "status": "wrong"
+        },
+        {
+          "word": "děvčátka",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "komoře:",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "vy",
+          "status": "not_important"
+        },
+        {
+          "word": "zlaté",
+          "status": "wrong"
+        },
+        {
+          "word": "panímámy,",
+          "status": "wrong"
+        },
+        {
+          "word": "otevřete",
+          "status": "correct"
+        },
+        {
+          "word": "dvéře!",
+          "status": "correct"
+        },
+        {
+          "word": "Dvéře",
+          "status": "correct"
+        },
+        {
+          "word": "jsou",
+          "status": "not_important"
+        },
+        {
+          "word": "zavřeny,",
+          "status": "correct"
+        },
+        {
+          "word": "stýblem",
+          "status": "correct"
+        },
+        {
+          "word": "zastrčeny,",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "ty",
+          "status": "not_important"
+        },
+        {
+          "word": "zlaté",
+          "status": "wrong"
+        },
+        {
+          "word": "panímámy",
+          "status": "wrong"
+        },
+        {
+          "word": "otevřít",
+          "status": "correct"
+        },
+        {
+          "word": "nechtějí.",
+          "status": "correct"
+        },
+        {
+          "word": "Ale",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "nestarám,",
+          "status": "correct"
+        },
+        {
+          "word": "výplatu",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "ruce",
+          "status": "correct"
+        },
+        {
+          "word": "mám:",
+          "status": "correct"
+        },
+        {
+          "word": "jen",
+          "status": "not_important"
+        },
+        {
+          "word": "mi",
+          "status": "not_important"
+        },
+        {
+          "word": "nevěstu",
+          "status": "correct"
+        },
+        {
+          "word": "vydejte,",
+          "status": "correct"
+        },
+        {
+          "word": "dobře",
+          "status": "correct"
+        },
+        {
+          "word": "zaplatím",
+          "status": "correct"
+        },
+        {
+          "word": "vám.",
+          "status": "not_important"
+        },
+        {
+          "word": "Jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "družba",
+          "status": "wrong"
+        },
+        {
+          "word": "zjednaný,",
+          "status": "correct"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "vám",
+          "status": "not_important"
+        },
+        {
+          "word": "posel",
+          "status": "correct"
+        },
+        {
+          "word": "vyslaný,",
+          "status": "correct"
+        },
+        {
+          "word": "chci",
+          "status": "correct"
+        },
+        {
+          "word": "si",
+          "status": "not_important"
+        },
+        {
+          "word": "nevěstu",
+          "status": "correct"
+        },
+        {
+          "word": "vyplatit",
+          "status": "correct"
+        },
+        {
+          "word": "tvrdými",
+          "status": "correct"
+        },
+        {
+          "word": "tolary.",
+          "status": "correct"
+        },
+        {
+          "word": "Dvéře",
+          "status": "correct"
+        },
+        {
+          "word": "otevřete,",
+          "status": "correct"
+        },
+        {
+          "word": "nevěstu",
+          "status": "correct"
+        },
+        {
+          "word": "vydejte,",
+          "status": "correct"
+        },
+        {
+          "word": "ať",
+          "status": "not_important"
+        },
+        {
+          "word": "ji",
+          "status": "not_important"
+        },
+        {
+          "word": "odevzdám",
+          "status": "correct"
+        },
+        {
+          "word": "ženichu,",
+          "status": "correct"
+        },
+        {
+          "word": "víc",
+          "status": "correct"
+        },
+        {
+          "word": "neprodlívejte.",
+          "status": "correct"
+        },
+        {
+          "word": "Nevěsto,",
+          "status": "correct"
+        },
+        {
+          "word": "pojďte",
+          "status": "correct"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "nám,",
+          "status": "not_important"
+        },
+        {
+          "word": "ať",
+          "status": "not_important"
+        },
+        {
+          "word": "vás",
+          "status": "not_important"
+        },
+        {
+          "word": "ženichu",
+          "status": "correct"
+        },
+        {
+          "word": "dám:",
+          "status": "correct"
+        },
+        {
+          "word": "už",
+          "status": "correct"
+        },
+        {
+          "word": "žádný",
+          "status": "not_important"
+        },
+        {
+          "word": "vás",
+          "status": "not_important"
+        },
+        {
+          "word": "nerozvede,",
+          "status": "correct"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "někdy",
+          "status": "correct"
+        },
+        {
+          "word": "pán",
+          "status": "correct"
+        },
+        {
+          "word": "Bůh",
+          "status": "correct"
+        },
+        {
+          "word": "sám.",
+          "status": "correct"
+        },
+        {
+          "word": "Už",
+          "status": "correct"
+        },
+        {
+          "word": "vás",
+          "status": "not_important"
+        },
+        {
+          "word": "nerozvede,",
+          "status": "correct"
+        },
+        {
+          "word": "ani",
+          "status": "not_important"
+        },
+        {
+          "word": "nerozloučí,",
+          "status": "correct"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "smrtelné",
+          "status": "correct"
+        },
+        {
+          "word": "posteli",
+          "status": "correct"
+        },
+        {
+          "word": "pán",
+          "status": "correct"
+        },
+        {
+          "word": "Bůh",
+          "status": "correct"
+        },
+        {
+          "word": "všemohoucí.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 3,
+      "title": "Och tatíčku, vstávejte, och můj tatíčku, z hrobu vstávejte",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "Och",
+          "status": "not_important"
+        },
+        {
+          "word": "tatíčku,",
+          "status": "correct"
+        },
+        {
+          "word": "vstávejte!",
+          "status": "correct"
+        },
+        {
+          "word": "och",
+          "status": "not_important"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "tatíčku!",
+          "status": "correct"
+        },
+        {
+          "word": "z",
+          "status": "not_important"
+        },
+        {
+          "word": "hrobu",
+          "status": "correct"
+        },
+        {
+          "word": "vstávejte,",
+          "status": "correct"
+        },
+        {
+          "word": "požehnání",
+          "status": "correct"
+        },
+        {
+          "word": "nám",
+          "status": "not_important"
+        },
+        {
+          "word": "dejte.",
+          "status": "correct"
+        },
+        {
+          "word": "Och",
+          "status": "not_important"
+        },
+        {
+          "word": "mamičko,",
+          "status": "correct"
+        },
+        {
+          "word": "vstávejte!",
+          "status": "correct"
+        },
+        {
+          "word": "och",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "mamičko!",
+          "status": "correct"
+        },
+        {
+          "word": "z",
+          "status": "not_important"
+        },
+        {
+          "word": "hrobu",
+          "status": "correct"
+        },
+        {
+          "word": "vstávejte,",
+          "status": "correct"
+        },
+        {
+          "word": "požehnání",
+          "status": "correct"
+        },
+        {
+          "word": "nám",
+          "status": "not_important"
+        },
+        {
+          "word": "dejte.",
+          "status": "correct"
+        },
+        {
+          "word": "„Dcero,",
+          "status": "correct"
+        },
+        {
+          "word": "dcero,",
+          "status": "correct"
+        },
+        {
+          "word": "nevolej!",
+          "status": "correct"
+        },
+        {
+          "word": "och",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "dcero!",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "ně",
+          "status": "not_important"
+        },
+        {
+          "word": "nevolej,",
+          "status": "correct"
+        },
+        {
+          "word": "těžkosti",
+          "status": "correct"
+        },
+        {
+          "word": "mi",
+          "status": "not_important"
+        },
+        {
+          "word": "nedělej.",
+          "status": "correct"
+        },
+        {
+          "word": "Jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "od",
+          "status": "not_important"
+        },
+        {
+          "word": "tebe",
+          "status": "not_important"
+        },
+        {
+          "word": "daleko,",
+          "status": "correct"
+        },
+        {
+          "word": "och",
+          "status": "not_important"
+        },
+        {
+          "word": "jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "od",
+          "status": "not_important"
+        },
+        {
+          "word": "tebe",
+          "status": "not_important"
+        },
+        {
+          "word": "tuze",
+          "status": "correct"
+        },
+        {
+          "word": "daleko,",
+          "status": "correct"
+        },
+        {
+          "word": "ležím",
+          "status": "correct"
+        },
+        {
+          "word": "v",
+          "status": "not_important"
+        },
+        {
+          "word": "hrobě",
+          "status": "correct"
+        },
+        {
+          "word": "hlyboko!“",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 4,
+      "title": "Já mám holubičku, můj zlatej Jeníčku, já mám holubičku, mám",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "Já",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "holubičku,",
+          "status": "correct"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatej",
+          "status": "correct"
+        },
+        {
+          "word": "Jeníčku!",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "holubičku,",
+          "status": "correct"
+        },
+        {
+          "word": "mám:",
+          "status": "correct"
+        },
+        {
+          "word": "přijď",
+          "status": "correct"
+        },
+        {
+          "word": "ke",
+          "status": "not_important"
+        },
+        {
+          "word": "mně,",
+          "status": "not_important"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "milý,",
+          "status": "correct"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "correct"
+        },
+        {
+          "word": "nachýlí,",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "ti",
+          "status": "not_important"
+        },
+        {
+          "word": "holubičku,",
+          "status": "correct"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatej",
+          "status": "correct"
+        },
+        {
+          "word": "Jeníčku!",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "ti",
+          "status": "not_important"
+        },
+        {
+          "word": "holubičku",
+          "status": "correct"
+        },
+        {
+          "word": "dám.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 5,
+      "title": "Co jsem se nažala, snopů navázala na tom našem dvoře, ičko musím jíti",
+      "overallRating": 2,
+      "hallucination": "yes",
+      "unusualLanguage": "significantly",
+      "comment": "",
+      "words": [
+        {
+          "word": "Co",
+          "status": "not_important"
+        },
+        {
+          "word": "jsem",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "nažála,",
+          "status": "wrong"
+        },
+        {
+          "word": "snopů",
+          "status": "correct"
+        },
+        {
+          "word": "navázala",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "tom",
+          "status": "not_important"
+        },
+        {
+          "word": "našem",
+          "status": "not_important"
+        },
+        {
+          "word": "dvoře:",
+          "status": "correct"
+        },
+        {
+          "word": "ičko",
+          "status": "not_important"
+        },
+        {
+          "word": "muším",
+          "status": "correct"
+        },
+        {
+          "word": "jití,",
+          "status": "wrong"
+        },
+        {
+          "word": "´šečko",
+          "status": "correct"
+        },
+        {
+          "word": "vopustiti",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "to",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "nejvíc",
+          "status": "correct"
+        },
+        {
+          "word": "hoře!",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 6,
+      "title": "Až z toho Spáňova pudu, což já se vohlížet budu, vohlídnu se jednú, dvakrát",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Až",
+          "status": "not_important"
+        },
+        {
+          "word": "z",
+          "status": "not_important"
+        },
+        {
+          "word": "toho",
+          "status": "not_important"
+        },
+        {
+          "word": "Spáňova",
+          "status": "wrong"
+        },
+        {
+          "word": "pudu,",
+          "status": "wrong"
+        },
+        {
+          "word": "což",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "vohlížet",
+          "status": "correct"
+        },
+        {
+          "word": "budu:",
+          "status": "not_important"
+        },
+        {
+          "word": "vohlídnu",
+          "status": "wrong"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "jednu,",
+          "status": "correct"
+        },
+        {
+          "word": "dvakrát,",
+          "status": "correct"
+        },
+        {
+          "word": "po",
+          "status": "not_important"
+        },
+        {
+          "word": "třetí",
+          "status": "correct"
+        },
+        {
+          "word": "už",
+          "status": "correct"
+        },
+        {
+          "word": "budu",
+          "status": "not_important"
+        },
+        {
+          "word": "plakat.",
+          "status": "correct"
+        },
+        {
+          "word": "Má",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatá",
+          "status": "wrong"
+        },
+        {
+          "word": "Spáňovská",
+          "status": "not_important"
+        },
+        {
+          "word": "cesto,",
+          "status": "correct"
+        },
+        {
+          "word": "což",
+          "status": "not_important"
+        },
+        {
+          "word": "je",
+          "status": "not_important"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "po",
+          "status": "not_important"
+        },
+        {
+          "word": "tobě",
+          "status": "not_important"
+        },
+        {
+          "word": "teskno:",
+          "status": "correct"
+        },
+        {
+          "word": "ne",
+          "status": "not_important"
+        },
+        {
+          "word": "tak",
+          "status": "not_important"
+        },
+        {
+          "word": "po",
+          "status": "not_important"
+        },
+        {
+          "word": "tě,",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "cestičko,",
+          "status": "correct"
+        },
+        {
+          "word": "ako",
+          "status": "not_important"
+        },
+        {
+          "word": "po",
+          "status": "not_important"
+        },
+        {
+          "word": "tě,",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "hubičko!",
+          "status": "wrong"
+        },
+        {
+          "word": "Mý",
+          "status": "not_important"
+        },
+        {
+          "word": "zlaty",
+          "status": "wrong"
+        },
+        {
+          "word": "Spáňovsky",
+          "status": "correct"
+        },
+        {
+          "word": "hory,",
+          "status": "correct"
+        },
+        {
+          "word": "což",
+          "status": "not_important"
+        },
+        {
+          "word": "mě",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "hlavička",
+          "status": "correct"
+        },
+        {
+          "word": "bolí:",
+          "status": "correct"
+        },
+        {
+          "word": "bolí,",
+          "status": "correct"
+        },
+        {
+          "word": "bolí,",
+          "status": "correct"
+        },
+        {
+          "word": "pobolívá,",
+          "status": "correct"
+        },
+        {
+          "word": "že",
+          "status": "not_important"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "chlapec",
+          "status": "correct"
+        },
+        {
+          "word": "vodpovídá.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 7,
+      "title": "Dycky lidi povídají",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Dycky",
+          "status": "correct"
+        },
+        {
+          "word": "lidi",
+          "status": "correct"
+        },
+        {
+          "word": "povídají,",
+          "status": "correct"
+        },
+        {
+          "word": "že",
+          "status": "not_important"
+        },
+        {
+          "word": "my",
+          "status": "not_important"
+        },
+        {
+          "word": "nic",
+          "status": "correct"
+        },
+        {
+          "word": "nemámy:",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "my",
+          "status": "not_important"
+        },
+        {
+          "word": "mámy",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "ponebí",
+          "status": "wrong"
+        },
+        {
+          "word": "půl",
+          "status": "correct"
+        },
+        {
+          "word": "votypky",
+          "status": "wrong"
+        },
+        {
+          "word": "slámy!",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 8,
+      "title": "Ženo má, ženo má",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "Ženo",
+          "status": "correct"
+        },
+        {
+          "word": "má,",
+          "status": "correct"
+        },
+        {
+          "word": "ženo",
+          "status": "correct"
+        },
+        {
+          "word": "má,",
+          "status": "correct"
+        },
+        {
+          "word": "ženo",
+          "status": "correct"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "maličká!",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "tebe",
+          "status": "not_important"
+        },
+        {
+          "word": "radši",
+          "status": "correct"
+        },
+        {
+          "word": "mám,",
+          "status": "correct"
+        },
+        {
+          "word": "než",
+          "status": "not_important"
+        },
+        {
+          "word": "husar",
+          "status": "correct"
+        },
+        {
+          "word": "koníčka.",
+          "status": "correct"
+        },
+        {
+          "word": "Husar",
+          "status": "correct"
+        },
+        {
+          "word": "má",
+          "status": "correct"
+        },
+        {
+          "word": "koníčka",
+          "status": "correct"
+        },
+        {
+          "word": "za",
+          "status": "not_important"
+        },
+        {
+          "word": "dvě",
+          "status": "not_important"
+        },
+        {
+          "word": "stě",
+          "status": "not_important"
+        },
+        {
+          "word": "tolarů:",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "tebe,",
+          "status": "not_important"
+        },
+        {
+          "word": "ženo",
+          "status": "correct"
+        },
+        {
+          "word": "má,",
+          "status": "correct"
+        },
+        {
+          "word": "zadarmo",
+          "status": "correct"
+        },
+        {
+          "word": "dostanu.",
+          "status": "correct"
+        },
+        {
+          "word": "Husar",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "correct"
+        },
+        {
+          "word": "koníčka",
+          "status": "correct"
+        },
+        {
+          "word": "pro",
+          "status": "not_important"
+        },
+        {
+          "word": "to",
+          "status": "not_important"
+        },
+        {
+          "word": "své",
+          "status": "not_important"
+        },
+        {
+          "word": "jezdění:",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "tě,",
+          "status": "not_important"
+        },
+        {
+          "word": "ženo",
+          "status": "correct"
+        },
+        {
+          "word": "má,",
+          "status": "correct"
+        },
+        {
+          "word": "pro",
+          "status": "not_important"
+        },
+        {
+          "word": "své",
+          "status": "not_important"
+        },
+        {
+          "word": "potěšení.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 9,
+      "title": "Však nám tak nebude, až se oženíme",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Však",
+          "status": "not_important"
+        },
+        {
+          "word": "nám",
+          "status": "not_important"
+        },
+        {
+          "word": "tak",
+          "status": "correct"
+        },
+        {
+          "word": "nebude,",
+          "status": "not_important"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "oženíme,",
+          "status": "correct"
+        },
+        {
+          "word": "však",
+          "status": "not_important"
+        },
+        {
+          "word": "nám",
+          "status": "not_important"
+        },
+        {
+          "word": "tak",
+          "status": "correct"
+        },
+        {
+          "word": "nebude,",
+          "status": "not_important"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "vdáme.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Dáme",
+          "status": "correct"
+        },
+        {
+          "word": "si",
+          "status": "not_important"
+        },
+        {
+          "word": "dělati",
+          "status": "correct"
+        },
+        {
+          "word": "vošatku",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "smetí,",
+          "status": "correct"
+        },
+        {
+          "word": "dáme",
+          "status": "correct"
+        },
+        {
+          "word": "si",
+          "status": "not_important"
+        },
+        {
+          "word": "dělati",
+          "status": "correct"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "ženu",
+          "status": "correct"
+        },
+        {
+          "word": "hůl.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Žena",
+          "status": "correct"
+        },
+        {
+          "word": "hůl",
+          "status": "correct"
+        },
+        {
+          "word": "vobrátí,",
+          "status": "correct"
+        },
+        {
+          "word": "mužovi",
+          "status": "correct"
+        },
+        {
+          "word": "namlátí,",
+          "status": "correct"
+        },
+        {
+          "word": "žena",
+          "status": "correct"
+        },
+        {
+          "word": "hůl",
+          "status": "correct"
+        },
+        {
+          "word": "vobrátí,",
+          "status": "correct"
+        },
+        {
+          "word": "mužovi",
+          "status": "correct"
+        },
+        {
+          "word": "dá",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 10,
+      "title": "Já mám holku pokornou",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Já",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "holku",
+          "status": "correct"
+        },
+        {
+          "word": "pokornou,",
+          "status": "correct"
+        },
+        {
+          "word": "ona",
+          "status": "not_important"
+        },
+        {
+          "word": "líhá",
+          "status": "correct"
+        },
+        {
+          "word": "pod",
+          "status": "not_important"
+        },
+        {
+          "word": "kůlnou,",
+          "status": "correct"
+        },
+        {
+          "word": "koupil",
+          "status": "correct"
+        },
+        {
+          "word": "sem",
+          "status": "not_important"
+        },
+        {
+          "word": "jí",
+          "status": "not_important"
+        },
+        {
+          "word": "prsten,",
+          "status": "correct"
+        },
+        {
+          "word": "po",
+          "status": "wrong"
+        },
+        {
+          "word": "prsteně",
+          "status": "wrong"
+        },
+        {
+          "word": "postel,",
+          "status": "correct"
+        },
+        {
+          "word": "postýlku",
+          "status": "correct"
+        },
+        {
+          "word": "malovanou,",
+          "status": "correct"
+        },
+        {
+          "word": "aby",
+          "status": "not_important"
+        },
+        {
+          "word": "líhala",
+          "status": "correct"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "mnou.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Já",
+          "status": "not_important"
+        },
+        {
+          "word": "bych",
+          "status": "not_important"
+        },
+        {
+          "word": "s",
+          "status": "not_important"
+        },
+        {
+          "word": "tebou",
+          "status": "not_important"
+        },
+        {
+          "word": "líhala,",
+          "status": "correct"
+        },
+        {
+          "word": "jen",
+          "status": "not_important"
+        },
+        {
+          "word": "kdybych",
+          "status": "correct"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "nebála,",
+          "status": "correct"
+        },
+        {
+          "word": "abys",
+          "status": "not_important"
+        },
+        {
+          "word": "mě",
+          "status": "not_important"
+        },
+        {
+          "word": "nepodved´,",
+          "status": "correct"
+        },
+        {
+          "word": "něco",
+          "status": "correct"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "nevyved´,",
+          "status": "correct"
+        },
+        {
+          "word": "jako",
+          "status": "not_important"
+        },
+        {
+          "word": "minulou",
+          "status": "correct"
+        },
+        {
+          "word": "zimu",
+          "status": "correct"
+        },
+        {
+          "word": "roztrhals",
+          "status": "correct"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "peřinu",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 11,
+      "title": "Ach cestičko",
+      "overallRating": 5,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ach",
+          "status": "not_important"
+        },
+        {
+          "word": "cestičko,",
+          "status": "correct"
+        },
+        {
+          "word": "cesto",
+          "status": "correct"
+        },
+        {
+          "word": "ušlapaná,",
+          "status": "correct"
+        },
+        {
+          "word": "ach",
+          "status": "not_important"
+        },
+        {
+          "word": "cestičko",
+          "status": "correct"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "mý",
+          "status": "not_important"
+        },
+        {
+          "word": "milý,",
+          "status": "correct"
+        },
+        {
+          "word": "dyž",
+          "status": "not_important"
+        },
+        {
+          "word": "sem",
+          "status": "not_important"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "vám",
+          "status": "not_important"
+        },
+        {
+          "word": "chodíval,",
+          "status": "correct"
+        },
+        {
+          "word": "vaši",
+          "status": "not_important"
+        },
+        {
+          "word": "dceru",
+          "status": "correct"
+        },
+        {
+          "word": "chtíval,",
+          "status": "correct"
+        },
+        {
+          "word": "chodili",
+          "status": "correct"
+        },
+        {
+          "word": "k",
+          "status": "not_important"
+        },
+        {
+          "word": "vám",
+          "status": "not_important"
+        },
+        {
+          "word": "jiný.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Škoda",
+          "status": "correct"
+        },
+        {
+          "word": "cesty,",
+          "status": "correct"
+        },
+        {
+          "word": "co",
+          "status": "not_important"
+        },
+        {
+          "word": "sem",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "nachodil,",
+          "status": "correct"
+        },
+        {
+          "word": "škoda",
+          "status": "correct"
+        },
+        {
+          "word": "kroku",
+          "status": "correct"
+        },
+        {
+          "word": "jednoho,",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatá",
+          "status": "wrong"
+        },
+        {
+          "word": "Nanynko,",
+          "status": "correct"
+        },
+        {
+          "word": "drahá",
+          "status": "correct"
+        },
+        {
+          "word": "holubinko,",
+          "status": "correct"
+        },
+        {
+          "word": "škoda",
+          "status": "correct"
+        },
+        {
+          "word": "věku",
+          "status": "correct"
+        },
+        {
+          "word": "mladého.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Dyby",
+          "status": "correct"
+        },
+        {
+          "word": "bylo",
+          "status": "not_important"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "tom",
+          "status": "not_important"
+        },
+        {
+          "word": "krásném",
+          "status": "correct"
+        },
+        {
+          "word": "nebi",
+          "status": "correct"
+        },
+        {
+          "word": "tolik",
+          "status": "not_important"
+        },
+        {
+          "word": "krásných",
+          "status": "correct"
+        },
+        {
+          "word": "hvězdiček,",
+          "status": "correct"
+        },
+        {
+          "word": "co",
+          "status": "not_important"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "moje",
+          "status": "not_important"
+        },
+        {
+          "word": "milá,",
+          "status": "correct"
+        },
+        {
+          "word": "holka",
+          "status": "correct"
+        },
+        {
+          "word": "roztomilá,",
+          "status": "correct"
+        },
+        {
+          "word": "dala",
+          "status": "correct"
+        },
+        {
+          "word": "hubiček.",
+          "status": "correct"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "Dyby",
+          "status": "correct"
+        },
+        {
+          "word": "bylo",
+          "status": "not_important"
+        },
+        {
+          "word": "na",
+          "status": "not_important"
+        },
+        {
+          "word": "celičkém",
+          "status": "correct"
+        },
+        {
+          "word": "světě",
+          "status": "correct"
+        },
+        {
+          "word": "tolik",
+          "status": "not_important"
+        },
+        {
+          "word": "krásných",
+          "status": "correct"
+        },
+        {
+          "word": "klášterů,",
+          "status": "correct"
+        },
+        {
+          "word": "co",
+          "status": "not_important"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "moje",
+          "status": "not_important"
+        },
+        {
+          "word": "milá,",
+          "status": "correct"
+        },
+        {
+          "word": "holka",
+          "status": "correct"
+        },
+        {
+          "word": "roztomilá,",
+          "status": "correct"
+        },
+        {
+          "word": "dala",
+          "status": "correct"
+        },
+        {
+          "word": "noclehů.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 12,
+      "title": "Na zelenej louce",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Na",
+          "status": "not_important"
+        },
+        {
+          "word": "zelenej",
+          "status": "correct"
+        },
+        {
+          "word": "louce",
+          "status": "correct"
+        },
+        {
+          "word": "travička",
+          "status": "correct"
+        },
+        {
+          "word": "zelená,",
+          "status": "correct"
+        },
+        {
+          "word": "pověz",
+          "status": "correct"
+        },
+        {
+          "word": "mi,",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "milá,",
+          "status": "correct"
+        },
+        {
+          "word": "pověz",
+          "status": "correct"
+        },
+        {
+          "word": "mi,",
+          "status": "not_important"
+        },
+        {
+          "word": "má",
+          "status": "not_important"
+        },
+        {
+          "word": "milá,",
+          "status": "correct"
+        },
+        {
+          "word": "s",
+          "status": "not_important"
+        },
+        {
+          "word": "kýms",
+          "status": "not_important"
+        },
+        {
+          "word": "včera",
+          "status": "correct"
+        },
+        {
+          "word": "seděla?",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Seděla",
+          "status": "correct"
+        },
+        {
+          "word": "sem",
+          "status": "not_important"
+        },
+        {
+          "word": "s",
+          "status": "not_important"
+        },
+        {
+          "word": "hochem,",
+          "status": "correct"
+        },
+        {
+          "word": "co",
+          "status": "not_important"
+        },
+        {
+          "word": "bych",
+          "status": "not_important"
+        },
+        {
+          "word": "zapírala,",
+          "status": "correct"
+        },
+        {
+          "word": "měsíček",
+          "status": "correct"
+        },
+        {
+          "word": "nesvítil,",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "ho",
+          "status": "not_important"
+        },
+        {
+          "word": "nepoznala.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Měsíček",
+          "status": "correct"
+        },
+        {
+          "word": "nesvítil,",
+          "status": "correct"
+        },
+        {
+          "word": "svítily",
+          "status": "correct"
+        },
+        {
+          "word": "vězdičky,",
+          "status": "correct"
+        },
+        {
+          "word": "von",
+          "status": "not_important"
+        },
+        {
+          "word": "měl",
+          "status": "correct"
+        },
+        {
+          "word": "modrý",
+          "status": "correct"
+        },
+        {
+          "word": "voči",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "bledý",
+          "status": "correct"
+        },
+        {
+          "word": "tvářičky.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 13,
+      "title": "Náš táta mě pořád nutí (menuet)",
+      "overallRating": 4,
+      "hallucination": "yes",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Náš",
+          "status": "not_important"
+        },
+        {
+          "word": "táta",
+          "status": "correct"
+        },
+        {
+          "word": "mě",
+          "status": "not_important"
+        },
+        {
+          "word": "pořád",
+          "status": "correct"
+        },
+        {
+          "word": "nutí:",
+          "status": "correct"
+        },
+        {
+          "word": "Franto,",
+          "status": "correct"
+        },
+        {
+          "word": "žeň",
+          "status": "wrong"
+        },
+        {
+          "word": "se!",
+          "status": "not_important"
+        },
+        {
+          "word": "A",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "nemám",
+          "status": "correct"
+        },
+        {
+          "word": "žádné",
+          "status": "not_important"
+        },
+        {
+          "word": "chuti,",
+          "status": "correct"
+        },
+        {
+          "word": "mně",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "nechce.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Tátovi",
+          "status": "correct"
+        },
+        {
+          "word": "to",
+          "status": "not_important"
+        },
+        {
+          "word": "bylo",
+          "status": "not_important"
+        },
+        {
+          "word": "lehce,",
+          "status": "correct"
+        },
+        {
+          "word": "vzal",
+          "status": "correct"
+        },
+        {
+          "word": "si",
+          "status": "not_important"
+        },
+        {
+          "word": "mámu,",
+          "status": "correct"
+        },
+        {
+          "word": "a",
+          "status": "not_important"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "si",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "vzíti",
+          "status": "correct"
+        },
+        {
+          "word": "jinou,",
+          "status": "correct"
+        },
+        {
+          "word": "cizí",
+          "status": "correct"
+        },
+        {
+          "word": "pannu.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 14,
+      "title": "Já mám holubičku, můj zlatej Jeníčku, já mám holubičku, mám",
+      "overallRating": 5,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "Já",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "holubičku,",
+          "status": "correct"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatej",
+          "status": "correct"
+        },
+        {
+          "word": "Jeníčku!",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "mám",
+          "status": "correct"
+        },
+        {
+          "word": "holubičku,",
+          "status": "correct"
+        },
+        {
+          "word": "mám:",
+          "status": "correct"
+        },
+        {
+          "word": "přijď",
+          "status": "correct"
+        },
+        {
+          "word": "ke",
+          "status": "not_important"
+        },
+        {
+          "word": "mně,",
+          "status": "not_important"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "milý,",
+          "status": "correct"
+        },
+        {
+          "word": "až",
+          "status": "not_important"
+        },
+        {
+          "word": "se",
+          "status": "not_important"
+        },
+        {
+          "word": "den",
+          "status": "correct"
+        },
+        {
+          "word": "nachýlí,",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "ti",
+          "status": "not_important"
+        },
+        {
+          "word": "holubičku,",
+          "status": "correct"
+        },
+        {
+          "word": "můj",
+          "status": "not_important"
+        },
+        {
+          "word": "zlatej",
+          "status": "correct"
+        },
+        {
+          "word": "Jeníčku!",
+          "status": "correct"
+        },
+        {
+          "word": "já",
+          "status": "not_important"
+        },
+        {
+          "word": "ti",
+          "status": "not_important"
+        },
+        {
+          "word": "holubičku",
+          "status": "correct"
+        },
+        {
+          "word": "dám.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 15,
+      "title": "Panímámo zlatá, otvírejte vrata",
+      "overallRating": 4,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Panímámo",
+          "status": "wrong"
+        },
+        {
+          "word": "zlatá,",
+          "status": "correct"
+        },
+        {
+          "word": "otvírejte",
+          "status": "correct"
+        },
+        {
+          "word": "vrata,",
+          "status": "correct"
+        },
+        {
+          "word": "vedeme",
+          "status": "correct"
+        },
+        {
+          "word": "vám",
+          "status": "not_important"
+        },
+        {
+          "word": "nevěstičku",
+          "status": "correct"
+        },
+        {
+          "word": "ze",
+          "status": "not_important"
+        },
+        {
+          "word": "samého",
+          "status": "not_important"
+        },
+        {
+          "word": "zlata.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Panímámo",
+          "status": "wrong"
+        },
+        {
+          "word": "zlatá,",
+          "status": "correct"
+        },
+        {
+          "word": "otevřete",
+          "status": "correct"
+        },
+        {
+          "word": "síňku,",
+          "status": "correct"
+        },
+        {
+          "word": "vedeme",
+          "status": "correct"
+        },
+        {
+          "word": "vám",
+          "status": "not_important"
+        },
+        {
+          "word": "nevěstičku",
+          "status": "correct"
+        },
+        {
+          "word": "dobrou",
+          "status": "correct"
+        },
+        {
+          "word": "hospodyňku",
+          "status": "correct"
+        }
+      ]
+    }
+  ]
+}

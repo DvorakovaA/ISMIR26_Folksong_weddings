@@ -1,0 +1,4974 @@
+{
+  "language": "Ukrainian",
+  "exportedAt": "2026-04-03T05:29:33.070Z",
+  "evaluations": [
+    {
+      "textId": 1,
+      "title": "Оі сосно, сосно, де ж ти росла ",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "The translation conveys the overall narrative and structure, but partially loses the folkloric style and ritual functions",
+      "words": [
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "просять",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "весілля:",
+          "status": "correct"
+        },
+        {
+          "word": "Світи",
+          "status": "correct"
+        },
+        {
+          "word": "зірко",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "неба,",
+          "status": "correct"
+        },
+        {
+          "word": "Бо",
+          "status": "not_important"
+        },
+        {
+          "word": "нам",
+          "status": "correct"
+        },
+        {
+          "word": "цього",
+          "status": "not_important"
+        },
+        {
+          "word": "треба,",
+          "status": "correct"
+        },
+        {
+          "word": "Бо",
+          "status": "not_important"
+        },
+        {
+          "word": "завтра",
+          "status": "correct"
+        },
+        {
+          "word": "неділя.",
+          "status": "correct"
+        },
+        {
+          "word": "Просимо",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "вісілля.",
+          "status": "correct"
+        },
+        {
+          "word": "На",
+          "status": "not_important"
+        },
+        {
+          "word": "городі",
+          "status": "correct"
+        },
+        {
+          "word": "мнята,",
+          "status": "correct"
+        },
+        {
+          "word": "За",
+          "status": "not_important"
+        },
+        {
+          "word": "городом",
+          "status": "correct"
+        },
+        {
+          "word": "мнята,",
+          "status": "correct"
+        },
+        {
+          "word": "Ходили",
+          "status": "correct"
+        },
+        {
+          "word": "питали,",
+          "status": "correct"
+        },
+        {
+          "word": "Де",
+          "status": "not_important"
+        },
+        {
+          "word": "дядькова",
+          "status": "correct"
+        },
+        {
+          "word": "хата,",
+          "status": "correct"
+        },
+        {
+          "word": "На",
+          "status": "not_important"
+        },
+        {
+          "word": "городі",
+          "status": "correct"
+        },
+        {
+          "word": "зілля,",
+          "status": "correct"
+        },
+        {
+          "word": "За",
+          "status": "not_important"
+        },
+        {
+          "word": "городом",
+          "status": "correct"
+        },
+        {
+          "word": "зілля,",
+          "status": "correct"
+        },
+        {
+          "word": "Ходили",
+          "status": "correct"
+        },
+        {
+          "word": "просили",
+          "status": "correct"
+        },
+        {
+          "word": "Дядька",
+          "status": "correct"
+        },
+        {
+          "word": "(чи",
+          "status": "not_important"
+        },
+        {
+          "word": "тітку)на",
+          "status": "not_important"
+        },
+        {
+          "word": "висілля.",
+          "status": "correct"
+        },
+        {
+          "word": "Тоді",
+          "status": "not_important"
+        },
+        {
+          "word": "увечері",
+          "status": "correct"
+        },
+        {
+          "word": "убирають",
+          "status": "correct"
+        },
+        {
+          "word": "гільце",
+          "status": "correct"
+        },
+        {
+          "word": "увечері",
+          "status": "correct"
+        },
+        {
+          "word": "в",
+          "status": "not_important"
+        },
+        {
+          "word": "суботу.",
+          "status": "not_important"
+        },
+        {
+          "word": "Сосна.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "сосно,",
+          "status": "correct"
+        },
+        {
+          "word": "сосно,",
+          "status": "not_important"
+        },
+        {
+          "word": "де",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "ти",
+          "status": "correct"
+        },
+        {
+          "word": "росла?",
+          "status": "correct"
+        },
+        {
+          "word": "В",
+          "status": "correct"
+        },
+        {
+          "word": "Марусі",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "столі",
+          "status": "not_important"
+        },
+        {
+          "word": "зацвіла.",
+          "status": "correct"
+        },
+        {
+          "word": "Между",
+          "status": "not_important"
+        },
+        {
+          "word": "лугами,",
+          "status": "correct"
+        },
+        {
+          "word": "лугами",
+          "status": "not_important"
+        },
+        {
+          "word": "приплила,",
+          "status": "correct"
+        },
+        {
+          "word": "В",
+          "status": "correct"
+        },
+        {
+          "word": "Марусі",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "столі",
+          "status": "not_important"
+        },
+        {
+          "word": "зацвіла!",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "Оі даі, мати, масла ",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "Loss of folkloric formulaicity (e.g., “Give me some butter for the scythe / Give me some butter or lard”).",
+      "words": [
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "дай,",
+          "status": "correct"
+        },
+        {
+          "word": "мати,",
+          "status": "correct"
+        },
+        {
+          "word": "масла,",
+          "status": "correct"
+        },
+        {
+          "word": "(2)",
+          "status": "not_important"
+        },
+        {
+          "word": "Бо",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "тобі",
+          "status": "not_important"
+        },
+        {
+          "word": "корови",
+          "status": "correct"
+        },
+        {
+          "word": "пасла,",
+          "status": "correct"
+        },
+        {
+          "word": "Гонила",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "росу,",
+          "status": "correct"
+        },
+        {
+          "word": "Дай",
+          "status": "correct"
+        },
+        {
+          "word": "масла",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "косу.",
+          "status": "correct"
+        },
+        {
+          "word": "Гонила,",
+          "status": "correct"
+        },
+        {
+          "word": "напасала,",
+          "status": "correct"
+        },
+        {
+          "word": "Дай",
+          "status": "correct"
+        },
+        {
+          "word": "масла",
+          "status": "correct"
+        },
+        {
+          "word": "або",
+          "status": "not_important"
+        },
+        {
+          "word": "сала.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 3,
+      "title": "Оі учора ізвечора ",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "The translation partially conveys the meaning, but contains several inaccuracies and loses important folkloric features: formulaic repetition, rhythm, and dialectal elements are weakened, and some lexical choices (“growl”).",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "учора",
+          "status": "correct"
+        },
+        {
+          "word": "ізвечора",
+          "status": "wrong"
+        },
+        {
+          "word": "Вечерком",
+          "status": "wrong"
+        },
+        {
+          "word": "Полетіла",
+          "status": "correct"
+        },
+        {
+          "word": "наша",
+          "status": "not_important"
+        },
+        {
+          "word": "гуска",
+          "status": "correct"
+        },
+        {
+          "word": "З",
+          "status": "correct"
+        },
+        {
+          "word": "нашим",
+          "status": "not_important"
+        },
+        {
+          "word": "гусаком.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "not_important"
+        },
+        {
+          "word": "її",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "бийте,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "лайте,",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "not_important"
+        },
+        {
+          "word": "її",
+          "status": "not_important"
+        },
+        {
+          "word": "до",
+          "status": "correct"
+        },
+        {
+          "word": "матінки",
+          "status": "wrong"
+        },
+        {
+          "word": "Пускайте.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "неї",
+          "status": "not_important"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "гурчить,",
+          "status": "wrong"
+        },
+        {
+          "word": "Що",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "вміє",
+          "status": "correct"
+        },
+        {
+          "word": "робити,",
+          "status": "correct"
+        },
+        {
+          "word": "То",
+          "status": "not_important"
+        },
+        {
+          "word": "навчіть.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 4,
+      "title": "Оі господаріу міі ",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "\"господарь\" is a ritual word; the better will be \"my good host\".",
+      "words": [
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "господарю",
+          "status": "wrong"
+        },
+        {
+          "word": "мій!",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "ти",
+          "status": "not_important"
+        },
+        {
+          "word": "забираєшся?",
+          "status": "correct"
+        },
+        {
+          "word": "Відки",
+          "status": "correct"
+        },
+        {
+          "word": "виглядати",
+          "status": "correct"
+        },
+        {
+          "word": "тебе",
+          "status": "not_important"
+        },
+        {
+          "word": "будеш?",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "хто",
+          "status": "not_important"
+        },
+        {
+          "word": "нами",
+          "status": "not_important"
+        },
+        {
+          "word": "радити",
+          "status": "correct"
+        },
+        {
+          "word": "буде?",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "нашо",
+          "status": "not_important"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "тобі",
+          "status": "not_important"
+        },
+        {
+          "word": "тої",
+          "status": "correct"
+        },
+        {
+          "word": "хати",
+          "status": "correct"
+        },
+        {
+          "word": "такої",
+          "status": "not_important"
+        },
+        {
+          "word": "смутної?",
+          "status": "correct"
+        },
+        {
+          "word": "Коли",
+          "status": "not_important"
+        },
+        {
+          "word": "ти",
+          "status": "not_important"
+        },
+        {
+          "word": "мав",
+          "status": "correct"
+        },
+        {
+          "word": "де",
+          "status": "correct"
+        },
+        {
+          "word": "жити.",
+          "status": "correct"
+        },
+        {
+          "word": "Встань",
+          "status": "correct"
+        },
+        {
+          "word": "подивися,",
+          "status": "correct"
+        },
+        {
+          "word": "На",
+          "status": "not_important"
+        },
+        {
+          "word": "кого",
+          "status": "not_important"
+        },
+        {
+          "word": "діти",
+          "status": "correct"
+        },
+        {
+          "word": "лишаєш,",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "хто",
+          "status": "correct"
+        },
+        {
+          "word": "їх",
+          "status": "not_important"
+        },
+        {
+          "word": "голубити",
+          "status": "correct"
+        },
+        {
+          "word": "буде?",
+          "status": "correct"
+        },
+        {
+          "word": "Ах",
+          "status": "not_important"
+        },
+        {
+          "word": "господарю",
+          "status": "wrong"
+        },
+        {
+          "word": "мій,",
+          "status": "not_important"
+        },
+        {
+          "word": "господарю",
+          "status": "wrong"
+        },
+        {
+          "word": "мій!",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 5,
+      "title": " Хоч течи, пивонко, хоч не течи ",
+      "overallRating": null,
+      "hallucination": null,
+      "unusualLanguage": null,
+      "comment": "Diminutive forms have been replaced with neutral ones, ritual terms (коровай) have been rendered as more common expressions.",
+      "words": [
+        {
+          "word": "Хоч",
+          "status": "not_important"
+        },
+        {
+          "word": "течи,",
+          "status": "correct"
+        },
+        {
+          "word": "пивонько,",
+          "status": "wrong"
+        },
+        {
+          "word": "хоч",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "течи,",
+          "status": "correct"
+        },
+        {
+          "word": "Вже",
+          "status": "not_important"
+        },
+        {
+          "word": "наш",
+          "status": "correct"
+        },
+        {
+          "word": "коровай",
+          "status": "wrong"
+        },
+        {
+          "word": "у",
+          "status": "correct"
+        },
+        {
+          "word": "пічі,",
+          "status": "correct"
+        },
+        {
+          "word": "Йа",
+          "status": "not_important"
+        },
+        {
+          "word": "ми",
+          "status": "not_important"
+        },
+        {
+          "word": "доти",
+          "status": "not_important"
+        },
+        {
+          "word": "додому",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "підемо,",
+          "status": "correct"
+        },
+        {
+          "word": "Поки",
+          "status": "not_important"
+        },
+        {
+          "word": "з",
+          "status": "correct"
+        },
+        {
+          "word": "печі",
+          "status": "correct"
+        },
+        {
+          "word": "короваю",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "виймемо.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 6,
+      "title": "Добрї вечір, мамуненку ",
+      "overallRating": null,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "The overall meaning is conveyed, but the folkloric style is partially lost.",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Добрий",
+          "status": "correct"
+        },
+        {
+          "word": "вечір,",
+          "status": "correct"
+        },
+        {
+          "word": "мамуненьку,",
+          "status": "wrong"
+        },
+        {
+          "word": "Ду",
+          "status": "not_important"
+        },
+        {
+          "word": "вашої",
+          "status": "not_important"
+        },
+        {
+          "word": "хати,",
+          "status": "correct"
+        },
+        {
+          "word": "Хочу",
+          "status": "correct"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "вас,",
+          "status": "not_important"
+        },
+        {
+          "word": "мамуненьку,",
+          "status": "wrong"
+        },
+        {
+          "word": "Дещо",
+          "status": "not_important"
+        },
+        {
+          "word": "розпитати.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Дещо",
+          "status": "not_important"
+        },
+        {
+          "word": "розпитати",
+          "status": "correct"
+        },
+        {
+          "word": "Ще",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "поговорити,",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "дай,",
+          "status": "correct"
+        },
+        {
+          "word": "Боже,",
+          "status": "correct"
+        },
+        {
+          "word": "мамо,",
+          "status": "correct"
+        },
+        {
+          "word": "Щоб",
+          "status": "not_important"
+        },
+        {
+          "word": "нам",
+          "status": "not_important"
+        },
+        {
+          "word": "добре",
+          "status": "correct"
+        },
+        {
+          "word": "жити.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Посадили",
+          "status": "correct"
+        },
+        {
+          "word": "мене",
+          "status": "correct"
+        },
+        {
+          "word": "За",
+          "status": "not_important"
+        },
+        {
+          "word": "тисовим",
+          "status": "wrong"
+        },
+        {
+          "word": "столом,",
+          "status": "correct"
+        },
+        {
+          "word": "Йдут",
+          "status": "correct"
+        },
+        {
+          "word": "мама,",
+          "status": "correct"
+        },
+        {
+          "word": "вітают",
+          "status": "correct"
+        },
+        {
+          "word": "Своїм",
+          "status": "not_important"
+        },
+        {
+          "word": "добрим",
+          "status": "correct"
+        },
+        {
+          "word": "словом.",
+          "status": "correct"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "Йдут",
+          "status": "correct"
+        },
+        {
+          "word": "мама,",
+          "status": "wrong"
+        },
+        {
+          "word": "вітают",
+          "status": "correct"
+        },
+        {
+          "word": "І",
+          "status": "not_important"
+        },
+        {
+          "word": "вся",
+          "status": "correct"
+        },
+        {
+          "word": "їх",
+          "status": "not_important"
+        },
+        {
+          "word": "родина,",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "Там-то",
+          "status": "not_important"
+        },
+        {
+          "word": "люба-мила",
+          "status": "correct"
+        },
+        {
+          "word": "Чужая",
+          "status": "correct"
+        },
+        {
+          "word": "дитина.",
+          "status": "correct"
+        },
+        {
+          "word": "5.",
+          "status": "not_important"
+        },
+        {
+          "word": "Там-то",
+          "status": "not_important"
+        },
+        {
+          "word": "люба-мила,",
+          "status": "correct"
+        },
+        {
+          "word": "Там-то",
+          "status": "not_important"
+        },
+        {
+          "word": "вона",
+          "status": "correct"
+        },
+        {
+          "word": "пишна,",
+          "status": "correct"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "мак",
+          "status": "correct"
+        },
+        {
+          "word": "процвітає,",
+          "status": "correct"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "в",
+          "status": "correct"
+        },
+        {
+          "word": "садочку",
+          "status": "correct"
+        },
+        {
+          "word": "вишня.",
+          "status": "correct"
+        },
+        {
+          "word": "6.",
+          "status": "not_important"
+        },
+        {
+          "word": "Там-то",
+          "status": "not_important"
+        },
+        {
+          "word": "вона",
+          "status": "correct"
+        },
+        {
+          "word": "пишна,",
+          "status": "correct"
+        },
+        {
+          "word": "Там-то",
+          "status": "not_important"
+        },
+        {
+          "word": "вона",
+          "status": "correct"
+        },
+        {
+          "word": "гожа,",
+          "status": "correct"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "мак",
+          "status": "correct"
+        },
+        {
+          "word": "процвітає,",
+          "status": "correct"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "в",
+          "status": "correct"
+        },
+        {
+          "word": "садочку",
+          "status": "correct"
+        },
+        {
+          "word": "рожа.",
+          "status": "correct"
+        },
+        {
+          "word": "7.",
+          "status": "not_important"
+        },
+        {
+          "word": "Попід",
+          "status": "wrong"
+        },
+        {
+          "word": "мою",
+          "status": "not_important"
+        },
+        {
+          "word": "хату",
+          "status": "not_important"
+        },
+        {
+          "word": "Протікала",
+          "status": "correct"
+        },
+        {
+          "word": "річка,",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "моя",
+          "status": "correct"
+        },
+        {
+          "word": "мама,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "ваша",
+          "status": "not_important"
+        },
+        {
+          "word": "невістка.",
+          "status": "correct"
+        },
+        {
+          "word": "8.",
+          "status": "not_important"
+        },
+        {
+          "word": "Під",
+          "status": "correct"
+        },
+        {
+          "word": "мею",
+          "status": "not_important"
+        },
+        {
+          "word": "хатою",
+          "status": "correct"
+        },
+        {
+          "word": "Викопана",
+          "status": "correct"
+        },
+        {
+          "word": "яма,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "віднині",
+          "status": "not_important"
+        },
+        {
+          "word": "знаю,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "correct"
+        },
+        {
+          "word": "мені",
+          "status": "correct"
+        },
+        {
+          "word": "мама.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 7,
+      "title": "Сваха сваху просит ",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Сваха",
+          "status": "correct"
+        },
+        {
+          "word": "сваху",
+          "status": "correct"
+        },
+        {
+          "word": "просить,",
+          "status": "correct"
+        },
+        {
+          "word": "Мед-горілку",
+          "status": "wrong"
+        },
+        {
+          "word": "носить:",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "ти,",
+          "status": "not_important"
+        },
+        {
+          "word": "свахо",
+          "status": "correct"
+        },
+        {
+          "word": "моя,",
+          "status": "correct"
+        },
+        {
+          "word": "Ти",
+          "status": "not_important"
+        },
+        {
+          "word": "голубко",
+          "status": "correct"
+        },
+        {
+          "word": "моя,",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "прошу",
+          "status": "correct"
+        },
+        {
+          "word": "я",
+          "status": "not_important"
+        },
+        {
+          "word": "тебе",
+          "status": "not_important"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "куратину,",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "гусятину,",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "тії",
+          "status": "not_important"
+        },
+        {
+          "word": "лебеді,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "not_important"
+        },
+        {
+          "word": "пливають",
+          "status": "correct"
+        },
+        {
+          "word": "по",
+          "status": "correct"
+        },
+        {
+          "word": "воді,",
+          "status": "correct"
+        },
+        {
+          "word": "Да",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "тиї",
+          "status": "correct"
+        },
+        {
+          "word": "куропати,",
+          "status": "correct"
+        },
+        {
+          "word": "Шо",
+          "status": "not_important"
+        },
+        {
+          "word": "бігають",
+          "status": "correct"
+        },
+        {
+          "word": "кругом",
+          "status": "not_important"
+        },
+        {
+          "word": "хати.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 8,
+      "title": "Ходит батичко рідненкї ",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "Some minor hallucinations are present, including semantic shifts (e.g., “asking the servants”) and added elements (e.g., “everyone”), which are not explicit in the original text.",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ходить",
+          "status": "not_important"
+        },
+        {
+          "word": "батичко",
+          "status": "wrong"
+        },
+        {
+          "word": "рідненький,",
+          "status": "wrong"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "голубчичок",
+          "status": "correct"
+        },
+        {
+          "word": "сивенький,",
+          "status": "correct"
+        },
+        {
+          "word": "По",
+          "status": "correct"
+        },
+        {
+          "word": "хаті",
+          "status": "correct"
+        },
+        {
+          "word": "ходе,",
+          "status": "correct"
+        },
+        {
+          "word": "чарочку",
+          "status": "wrong"
+        },
+        {
+          "word": "носить,",
+          "status": "correct"
+        },
+        {
+          "word": "Щоб",
+          "status": "not_important"
+        },
+        {
+          "word": "сіли",
+          "status": "correct"
+        },
+        {
+          "word": "вечерать.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ходить",
+          "status": "correct"
+        },
+        {
+          "word": "матінка",
+          "status": "wrong"
+        },
+        {
+          "word": "рідненька,",
+          "status": "wrong"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "голубонька",
+          "status": "correct"
+        },
+        {
+          "word": "сивенька,",
+          "status": "correct"
+        },
+        {
+          "word": "По",
+          "status": "not_important"
+        },
+        {
+          "word": "хаті",
+          "status": "correct"
+        },
+        {
+          "word": "ходять,",
+          "status": "correct"
+        },
+        {
+          "word": "челяді",
+          "status": "correct"
+        },
+        {
+          "word": "просять,",
+          "status": "correct"
+        },
+        {
+          "word": "Щоб",
+          "status": "not_important"
+        },
+        {
+          "word": "сіли",
+          "status": "correct"
+        },
+        {
+          "word": "вечерать.",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "є",
+          "status": "correct"
+        },
+        {
+          "word": "шо",
+          "status": "correct"
+        },
+        {
+          "word": "їсти,",
+          "status": "correct"
+        },
+        {
+          "word": "ой",
+          "status": "not_important"
+        },
+        {
+          "word": "є",
+          "status": "correct"
+        },
+        {
+          "word": "шо",
+          "status": "correct"
+        },
+        {
+          "word": "пити,",
+          "status": "correct"
+        },
+        {
+          "word": "Є",
+          "status": "correct"
+        },
+        {
+          "word": "кому",
+          "status": "correct"
+        },
+        {
+          "word": "припросить.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 9,
+      "title": "А попід лісок ",
+      "overallRating": null,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "The meaning is preserved, but there are stylistic inaccuracies.",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "попід",
+          "status": "wrong"
+        },
+        {
+          "word": "лісок",
+          "status": "not_important"
+        },
+        {
+          "word": "Би(і)тая",
+          "status": "wrong"
+        },
+        {
+          "word": "доріженька,",
+          "status": "wrong"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Тудою",
+          "status": "correct"
+        },
+        {
+          "word": "ішов",
+          "status": "correct"
+        },
+        {
+          "word": "Пан",
+          "status": "wrong"
+        },
+        {
+          "word": "Льошка",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "боярами.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Йому",
+          "status": "not_important"
+        },
+        {
+          "word": "калина",
+          "status": "correct"
+        },
+        {
+          "word": "Дорогу",
+          "status": "correct"
+        },
+        {
+          "word": "застелила,",
+          "status": "wrong"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "Вийняв",
+          "status": "correct"
+        },
+        {
+          "word": "шабельку,",
+          "status": "correct"
+        },
+        {
+          "word": "Став",
+          "status": "not_important"
+        },
+        {
+          "word": "калину",
+          "status": "correct"
+        },
+        {
+          "word": "рубати.",
+          "status": "correct"
+        },
+        {
+          "word": "5.",
+          "status": "not_important"
+        },
+        {
+          "word": "Стала",
+          "status": "correct"
+        },
+        {
+          "word": "до",
+          "status": "not_important"
+        },
+        {
+          "word": "його",
+          "status": "not_important"
+        },
+        {
+          "word": "Калина",
+          "status": "correct"
+        },
+        {
+          "word": "промовляти,",
+          "status": "correct"
+        },
+        {
+          "word": "Стала",
+          "status": "correct"
+        },
+        {
+          "word": "калина",
+          "status": "not_important"
+        },
+        {
+          "word": "До",
+          "status": "correct"
+        },
+        {
+          "word": "нього",
+          "status": "correct"
+        },
+        {
+          "word": "промовляти:",
+          "status": "correct"
+        },
+        {
+          "word": "6.",
+          "status": "not_important"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "рубай",
+          "status": "correct"
+        },
+        {
+          "word": "мене,",
+          "status": "correct"
+        },
+        {
+          "word": "Ни",
+          "status": "correct"
+        },
+        {
+          "word": "для",
+          "status": "correct"
+        },
+        {
+          "word": "теби",
+          "status": "correct"
+        },
+        {
+          "word": "садяна,",
+          "status": "correct"
+        },
+        {
+          "word": "7.",
+          "status": "not_important"
+        },
+        {
+          "word": "Тількі",
+          "status": "not_important"
+        },
+        {
+          "word": "для",
+          "status": "correct"
+        },
+        {
+          "word": "тебе",
+          "status": "correct"
+        },
+        {
+          "word": "Молода",
+          "status": "correct"
+        },
+        {
+          "word": "спорадяна.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 10,
+      "title": "Була зима, була зима ",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Була",
+          "status": "correct"
+        },
+        {
+          "word": "зима,",
+          "status": "correct"
+        },
+        {
+          "word": "була",
+          "status": "correct"
+        },
+        {
+          "word": "зима,",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "not_important"
+        },
+        {
+          "word": "літа",
+          "status": "correct"
+        },
+        {
+          "word": "жду,",
+          "status": "correct"
+        },
+        {
+          "word": "Насіяла",
+          "status": "correct"
+        },
+        {
+          "word": "чорнобривців",
+          "status": "correct"
+        },
+        {
+          "word": "В",
+          "status": "not_important"
+        },
+        {
+          "word": "веснянім",
+          "status": "correct"
+        },
+        {
+          "word": "саду.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "вже",
+          "status": "not_important"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "мої",
+          "status": "correct"
+        },
+        {
+          "word": "чорнобривці",
+          "status": "correct"
+        },
+        {
+          "word": "Розцвітають,",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "вже",
+          "status": "not_important"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "мою",
+          "status": "correct"
+        },
+        {
+          "word": "русу",
+          "status": "wrong"
+        },
+        {
+          "word": "косу",
+          "status": "wrong"
+        },
+        {
+          "word": "Розплітають.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "вже",
+          "status": "not_important"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "мої",
+          "status": "correct"
+        },
+        {
+          "word": "чорнобривці",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "перецвіли,",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "вже",
+          "status": "not_important"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "мою",
+          "status": "not_important"
+        },
+        {
+          "word": "русу",
+          "status": "wrong"
+        },
+        {
+          "word": "косу",
+          "status": "wrong"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "розплітали.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 11,
+      "title": "Иа согодні нічо не робила ",
+      "overallRating": null,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "сьогодні",
+          "status": "correct"
+        },
+        {
+          "word": "нічо",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "робила,",
+          "status": "correct"
+        },
+        {
+          "word": "Цілий",
+          "status": "not_important"
+        },
+        {
+          "word": "день",
+          "status": "not_important"
+        },
+        {
+          "word": "в",
+          "status": "correct"
+        },
+        {
+          "word": "віконце",
+          "status": "correct"
+        },
+        {
+          "word": "ґляділа:",
+          "status": "correct"
+        },
+        {
+          "word": "Чи",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йдуть",
+          "status": "correct"
+        },
+        {
+          "word": "просити",
+          "status": "correct"
+        },
+        {
+          "word": "Короваю",
+          "status": "wrong"
+        },
+        {
+          "word": "місити?",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 12,
+      "title": "Оі ішли ми та и на короваіец ",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "ішли",
+          "status": "correct"
+        },
+        {
+          "word": "ми",
+          "status": "not_important"
+        },
+        {
+          "word": "та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "короваєць",
+          "status": "wrong"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "несли",
+          "status": "correct"
+        },
+        {
+          "word": "ми",
+          "status": "not_important"
+        },
+        {
+          "word": "коробочку",
+          "status": "wrong"
+        },
+        {
+          "word": "яєць,",
+          "status": "correct"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "здибали",
+          "status": "correct"
+        },
+        {
+          "word": "хлопці",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "побили",
+          "status": "correct"
+        },
+        {
+          "word": "яйця",
+          "status": "correct"
+        },
+        {
+          "word": "в",
+          "status": "correct"
+        },
+        {
+          "word": "коробці.",
+          "status": "correct"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "здибали",
+          "status": "correct"
+        },
+        {
+          "word": "чоловікі",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "побили",
+          "status": "correct"
+        },
+        {
+          "word": "яйця",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "wrong"
+        },
+        {
+          "word": "вікі,",
+          "status": "wrong"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "зробили",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "мені",
+          "status": "correct"
+        },
+        {
+          "word": "біду",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "чим",
+          "status": "not_important"
+        },
+        {
+          "word": "же",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "коровай",
+          "status": "wrong"
+        },
+        {
+          "word": "піду?",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 13,
+      "title": "Старша дружка ",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Старша",
+          "status": "correct"
+        },
+        {
+          "word": "дружка,",
+          "status": "correct"
+        },
+        {
+          "word": "Як",
+          "status": "not_important"
+        },
+        {
+          "word": "подушка,",
+          "status": "correct"
+        },
+        {
+          "word": "По",
+          "status": "correct"
+        },
+        {
+          "word": "столі",
+          "status": "correct"
+        },
+        {
+          "word": "скаче,",
+          "status": "correct"
+        },
+        {
+          "word": "За",
+          "status": "not_important"
+        },
+        {
+          "word": "нею",
+          "status": "not_important"
+        },
+        {
+          "word": "дитя",
+          "status": "correct"
+        },
+        {
+          "word": "плаче.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 14,
+      "title": "Оі де ж таіа вісілнаіа мати ",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "де",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "тая",
+          "status": "correct"
+        },
+        {
+          "word": "вісільная",
+          "status": "correct"
+        },
+        {
+          "word": "мати,",
+          "status": "correct"
+        },
+        {
+          "word": "Обіцяла",
+          "status": "correct"
+        },
+        {
+          "word": "по",
+          "status": "not_important"
+        },
+        {
+          "word": "три",
+          "status": "wrong"
+        },
+        {
+          "word": "чаркі",
+          "status": "wrong"
+        },
+        {
+          "word": "дати.",
+          "status": "wrong"
+        },
+        {
+          "word": "Першую",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "вішинькамі,",
+          "status": "wrong"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "другую",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "ягідкамі,",
+          "status": "wrong"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "третюю",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "калиною,",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "за",
+          "status": "correct"
+        },
+        {
+          "word": "свею",
+          "status": "correct"
+        },
+        {
+          "word": "дитиною.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 15,
+      "title": "Коліад, коліад, коліадниціа ",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "It’s a carol, a winter song, not a wedding song ",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Коляд,",
+          "status": "wrong"
+        },
+        {
+          "word": "коляд,",
+          "status": "wrong"
+        },
+        {
+          "word": "колядниця,",
+          "status": "wrong"
+        },
+        {
+          "word": "Добра",
+          "status": "wrong"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "медом",
+          "status": "not_important"
+        },
+        {
+          "word": "паляниця,",
+          "status": "wrong"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "без",
+          "status": "correct"
+        },
+        {
+          "word": "меду",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "така,",
+          "status": "correct"
+        },
+        {
+          "word": "Дайте,",
+          "status": "correct"
+        },
+        {
+          "word": "дядьку,",
+          "status": "wrong"
+        },
+        {
+          "word": "п’ятака,",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви,",
+          "status": "not_important"
+        },
+        {
+          "word": "тьотю,",
+          "status": "correct"
+        },
+        {
+          "word": "гроші,",
+          "status": "correct"
+        },
+        {
+          "word": "Щоб",
+          "status": "not_important"
+        },
+        {
+          "word": "були",
+          "status": "correct"
+        },
+        {
+          "word": "хороші.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 16,
+      "title": "Оі учора ізвечора ",
+      "overallRating": null,
+      "hallucination": null,
+      "unusualLanguage": null,
+      "comment": " (see No. 3)",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "учора",
+          "status": "not_important"
+        },
+        {
+          "word": "ізвечора",
+          "status": "not_important"
+        },
+        {
+          "word": "Вечерком",
+          "status": "not_important"
+        },
+        {
+          "word": "Полетіла",
+          "status": "not_important"
+        },
+        {
+          "word": "наша",
+          "status": "not_important"
+        },
+        {
+          "word": "гуска",
+          "status": "not_important"
+        },
+        {
+          "word": "З",
+          "status": "not_important"
+        },
+        {
+          "word": "нашим",
+          "status": "not_important"
+        },
+        {
+          "word": "гусаком.",
+          "status": "not_important"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "not_important"
+        },
+        {
+          "word": "її",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "not_important"
+        },
+        {
+          "word": "бийте,",
+          "status": "not_important"
+        },
+        {
+          "word": "Не",
+          "status": "not_important"
+        },
+        {
+          "word": "лайте,",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "not_important"
+        },
+        {
+          "word": "її",
+          "status": "not_important"
+        },
+        {
+          "word": "до",
+          "status": "not_important"
+        },
+        {
+          "word": "матінки",
+          "status": "not_important"
+        },
+        {
+          "word": "Пускайте.",
+          "status": "not_important"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "ви",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "неї",
+          "status": "not_important"
+        },
+        {
+          "word": "Не",
+          "status": "not_important"
+        },
+        {
+          "word": "гурчить,",
+          "status": "not_important"
+        },
+        {
+          "word": "Що",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "not_important"
+        },
+        {
+          "word": "вміє",
+          "status": "not_important"
+        },
+        {
+          "word": "робити,",
+          "status": "not_important"
+        },
+        {
+          "word": "То",
+          "status": "not_important"
+        },
+        {
+          "word": "навчіть.",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 18,
+      "title": "Ой за гаєм зелененьким",
+      "overallRating": 4,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "за",
+          "status": "correct"
+        },
+        {
+          "word": "гайом",
+          "status": "correct"
+        },
+        {
+          "word": "зелененьким",
+          "status": "not_important"
+        },
+        {
+          "word": "Брала",
+          "status": "correct"
+        },
+        {
+          "word": "вдова",
+          "status": "correct"
+        },
+        {
+          "word": "льон",
+          "status": "correct"
+        },
+        {
+          "word": "дрібненький.",
+          "status": "not_important"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Брала,",
+          "status": "correct"
+        },
+        {
+          "word": "брала,",
+          "status": "not_important"
+        },
+        {
+          "word": "вибирала,",
+          "status": "correct"
+        },
+        {
+          "word": "Жалібненько",
+          "status": "not_important"
+        },
+        {
+          "word": "заспівала.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "Позволь,",
+          "status": "correct"
+        },
+        {
+          "word": "мати,",
+          "status": "correct"
+        },
+        {
+          "word": "женитися,",
+          "status": "correct"
+        },
+        {
+          "word": "Позволь,",
+          "status": "not_important"
+        },
+        {
+          "word": "мати,",
+          "status": "not_important"
+        },
+        {
+          "word": "вдову",
+          "status": "correct"
+        },
+        {
+          "word": "взяти.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 19,
+      "title": "Скочу иа иа в городец ",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "Скочу",
+          "status": "correct"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "йа",
+          "status": "not_important"
+        },
+        {
+          "word": "в",
+          "status": "correct"
+        },
+        {
+          "word": "городець",
+          "status": "wrong"
+        },
+        {
+          "word": "Через",
+          "status": "correct"
+        },
+        {
+          "word": "низький",
+          "status": "not_important"
+        },
+        {
+          "word": "частоколець",
+          "status": "correct"
+        },
+        {
+          "word": "Бервіночку",
+          "status": "correct"
+        },
+        {
+          "word": "нарвати,",
+          "status": "correct"
+        },
+        {
+          "word": "Віночок",
+          "status": "correct"
+        },
+        {
+          "word": "починати.",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "оглянься,",
+          "status": "correct"
+        },
+        {
+          "word": "Ганусю,",
+          "status": "correct"
+        },
+        {
+          "word": "Назад",
+          "status": "not_important"
+        },
+        {
+          "word": "себе,",
+          "status": "not_important"
+        },
+        {
+          "word": "Чи",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "стоїт",
+          "status": "correct"
+        },
+        {
+          "word": "твій",
+          "status": "not_important"
+        },
+        {
+          "word": "батечко",
+          "status": "wrong"
+        },
+        {
+          "word": "Коло",
+          "status": "correct"
+        },
+        {
+          "word": "тебе?",
+          "status": "correct"
+        },
+        {
+          "word": "–",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "ни",
+          "status": "correct"
+        },
+        {
+          "word": "стоїт",
+          "status": "correct"
+        },
+        {
+          "word": "(2)",
+          "status": "not_important"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "буде,",
+          "status": "correct"
+        },
+        {
+          "word": "Тільки",
+          "status": "not_important"
+        },
+        {
+          "word": "момусерденькови",
+          "status": "wrong"
+        },
+        {
+          "word": "Жаль",
+          "status": "correct"
+        },
+        {
+          "word": "буде.",
+          "status": "not_important"
+        }
+      ]
+    },
+    {
+      "textId": 20,
+      "title": "Обсипаіеціа жовтеіе листіа",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "It’s a modern song, from the 20th century",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Обсипається",
+          "status": "correct"
+        },
+        {
+          "word": "жовтеє",
+          "status": "not_important"
+        },
+        {
+          "word": "листя,",
+          "status": "correct"
+        },
+        {
+          "word": "Обсипається",
+          "status": "correct"
+        },
+        {
+          "word": "цвєт",
+          "status": "correct"
+        },
+        {
+          "word": "голубой,",
+          "status": "not_important"
+        },
+        {
+          "word": "Де",
+          "status": "not_important"
+        },
+        {
+          "word": "скриваються",
+          "status": "correct"
+        },
+        {
+          "word": "кариє",
+          "status": "not_important"
+        },
+        {
+          "word": "глазки,",
+          "status": "correct"
+        },
+        {
+          "word": "Уезжает",
+          "status": "correct"
+        },
+        {
+          "word": "мой",
+          "status": "not_important"
+        },
+        {
+          "word": "милой",
+          "status": "correct"
+        },
+        {
+          "word": "с",
+          "status": "not_important"
+        },
+        {
+          "word": "другой.",
+          "status": "not_important"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Уєзжає,",
+          "status": "correct"
+        },
+        {
+          "word": "мене",
+          "status": "not_important"
+        },
+        {
+          "word": "покидає,",
+          "status": "correct"
+        },
+        {
+          "word": "Он",
+          "status": "not_important"
+        },
+        {
+          "word": "навєрно",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "любіт",
+          "status": "correct"
+        },
+        {
+          "word": "мєня,",
+          "status": "correct"
+        },
+        {
+          "word": "У",
+          "status": "correct"
+        },
+        {
+          "word": "него",
+          "status": "correct"
+        },
+        {
+          "word": "есть,",
+          "status": "correct"
+        },
+        {
+          "word": "наверно,",
+          "status": "not_important"
+        },
+        {
+          "word": "другая,",
+          "status": "correct"
+        },
+        {
+          "word": "Боже,",
+          "status": "not_important"
+        },
+        {
+          "word": "Боже,",
+          "status": "not_important"
+        },
+        {
+          "word": "нещасна",
+          "status": "not_important"
+        },
+        {
+          "word": "судьба.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Лучше",
+          "status": "correct"
+        },
+        {
+          "word": "було",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "correct"
+        },
+        {
+          "word": "тебе",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "знала,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "not_important"
+        },
+        {
+          "word": "знайома",
+          "status": "not_important"
+        },
+        {
+          "word": "з",
+          "status": "not_important"
+        },
+        {
+          "word": "тобою",
+          "status": "not_important"
+        },
+        {
+          "word": "була,",
+          "status": "not_important"
+        },
+        {
+          "word": "Лучше",
+          "status": "not_important"
+        },
+        {
+          "word": "було",
+          "status": "not_important"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "тебе",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "кохала,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "знайома",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "correct"
+        },
+        {
+          "word": "тобою",
+          "status": "correct"
+        },
+        {
+          "word": "була.",
+          "status": "not_important"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "Лучше",
+          "status": "correct"
+        },
+        {
+          "word": "було",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "correct"
+        },
+        {
+          "word": "тебе",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "знала,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "знайома",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "correct"
+        },
+        {
+          "word": "тобою",
+          "status": "correct"
+        },
+        {
+          "word": "була,",
+          "status": "not_important"
+        },
+        {
+          "word": "Лучше",
+          "status": "wrong"
+        },
+        {
+          "word": "б",
+          "status": "wrong"
+        },
+        {
+          "word": "пуля",
+          "status": "wrong"
+        },
+        {
+          "word": "тебе",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "wrong"
+        },
+        {
+          "word": "минула,",
+          "status": "wrong"
+        },
+        {
+          "word": "Чим",
+          "status": "not_important"
+        },
+        {
+          "word": "тепер",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "осталась",
+          "status": "correct"
+        },
+        {
+          "word": "сама.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 21,
+      "title": "Оі ти, гора, гора",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "ти,",
+          "status": "correct"
+        },
+        {
+          "word": "гора,",
+          "status": "correct"
+        },
+        {
+          "word": "гора,",
+          "status": "not_important"
+        },
+        {
+          "word": "Гора",
+          "status": "correct"
+        },
+        {
+          "word": "вісокая,",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "correct"
+        },
+        {
+          "word": "гора,",
+          "status": "correct"
+        },
+        {
+          "word": "Чотири",
+          "status": "correct"
+        },
+        {
+          "word": "сокола.",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "correct"
+        },
+        {
+          "word": "гора,",
+          "status": "correct"
+        },
+        {
+          "word": "Чотири",
+          "status": "correct"
+        },
+        {
+          "word": "сокола.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Чотири",
+          "status": "correct"
+        },
+        {
+          "word": "сокола,",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "под",
+          "status": "correct"
+        },
+        {
+          "word": "бєрьозаю",
+          "status": "correct"
+        },
+        {
+          "word": "Стояла",
+          "status": "correct"
+        },
+        {
+          "word": "дє(і)вонька",
+          "status": "wrong"
+        },
+        {
+          "word": "(й)",
+          "status": "not_important"
+        },
+        {
+          "word": "У",
+          "status": "correct"
+        },
+        {
+          "word": "платті",
+          "status": "correct"
+        },
+        {
+          "word": "розовом.",
+          "status": "correct"
+        },
+        {
+          "word": "Стояла",
+          "status": "correct"
+        },
+        {
+          "word": "дє(і)вонька",
+          "status": "wrong"
+        },
+        {
+          "word": "(й)",
+          "status": "not_important"
+        },
+        {
+          "word": "У",
+          "status": "correct"
+        },
+        {
+          "word": "платті",
+          "status": "correct"
+        },
+        {
+          "word": "розовом.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "плаття",
+          "status": "correct"
+        },
+        {
+          "word": "розове,",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "ще",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "цвіточками,",
+          "status": "correct"
+        },
+        {
+          "word": "Котяться",
+          "status": "correct"
+        },
+        {
+          "word": "сльозонькі",
+          "status": "wrong"
+        },
+        {
+          "word": "Т(д)а",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "ручайочками.",
+          "status": "wrong"
+        },
+        {
+          "word": "Котяться",
+          "status": "correct"
+        },
+        {
+          "word": "сльозонькі",
+          "status": "wrong"
+        },
+        {
+          "word": "Т(д)а",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "correct"
+        },
+        {
+          "word": "ручайочками.",
+          "status": "wrong"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "стою,",
+          "status": "correct"
+        },
+        {
+          "word": "стою,",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "подо",
+          "status": "correct"
+        },
+        {
+          "word": "мной",
+          "status": "correct"
+        },
+        {
+          "word": "вода,",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "мі(и)лий",
+          "status": "correct"
+        },
+        {
+          "word": "виїхав,",
+          "status": "correct"
+        },
+        {
+          "word": "Т(д)а",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "сказав",
+          "status": "correct"
+        },
+        {
+          "word": "куда.",
+          "status": "correct"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "мі(и)лий",
+          "status": "correct"
+        },
+        {
+          "word": "виїхав,",
+          "status": "correct"
+        },
+        {
+          "word": "Т(д)а",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "сказав",
+          "status": "correct"
+        },
+        {
+          "word": "куда.",
+          "status": "correct"
+        },
+        {
+          "word": "5.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "осталася",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "обіжонная,",
+          "status": "correct"
+        },
+        {
+          "word": "От",
+          "status": "correct"
+        },
+        {
+          "word": "отца",
+          "status": "correct"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "матє(е)рі",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "удальонная.",
+          "status": "correct"
+        },
+        {
+          "word": "От",
+          "status": "correct"
+        },
+        {
+          "word": "отца",
+          "status": "correct"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "матє(е)рі",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "удальонная.",
+          "status": "correct"
+        },
+        {
+          "word": "6.",
+          "status": "not_important"
+        },
+        {
+          "word": "От",
+          "status": "correct"
+        },
+        {
+          "word": "отца-матєрі",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "отдальонная,",
+          "status": "correct"
+        },
+        {
+          "word": "Чужими",
+          "status": "correct"
+        },
+        {
+          "word": "людями(і)",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "обсужонная.",
+          "status": "correct"
+        },
+        {
+          "word": "Чужими",
+          "status": "correct"
+        },
+        {
+          "word": "людями(і)",
+          "status": "correct"
+        },
+        {
+          "word": "Та",
+          "status": "not_important"
+        },
+        {
+          "word": "й",
+          "status": "not_important"
+        },
+        {
+          "word": "обсужонная.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 22,
+      "title": "Оі скочу, перескочу ",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "barely",
+      "comment": "",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "скочу,",
+          "status": "correct"
+        },
+        {
+          "word": "перескочу",
+          "status": "wrong"
+        },
+        {
+          "word": "Під",
+          "status": "not_important"
+        },
+        {
+          "word": "вербицю",
+          "status": "wrong"
+        },
+        {
+          "word": "по",
+          "status": "correct"
+        },
+        {
+          "word": "водицю.",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "даю,",
+          "status": "correct"
+        },
+        {
+          "word": "передаю",
+          "status": "wrong"
+        },
+        {
+          "word": "Вороного",
+          "status": "wrong"
+        },
+        {
+          "word": "коня",
+          "status": "correct"
+        },
+        {
+          "word": "сідлати.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "вчився,",
+          "status": "correct"
+        },
+        {
+          "word": "та",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "вмію",
+          "status": "correct"
+        },
+        {
+          "word": "Вороного",
+          "status": "wrong"
+        },
+        {
+          "word": "коня",
+          "status": "correct"
+        },
+        {
+          "word": "сідлати.",
+          "status": "correct"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "Ой",
+          "status": "not_important"
+        },
+        {
+          "word": "вчився,",
+          "status": "correct"
+        },
+        {
+          "word": "та",
+          "status": "not_important"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "вмію",
+          "status": "correct"
+        },
+        {
+          "word": "З",
+          "status": "correct"
+        },
+        {
+          "word": "дівчиною",
+          "status": "correct"
+        },
+        {
+          "word": "стояти.",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 23,
+      "title": "Короваінички з міста ",
+      "overallRating": 3,
+      "hallucination": "yes",
+      "unusualLanguage": "none",
+      "comment": "Semantic hallucination in the last line",
+      "words": [
+        {
+          "word": "Коровайнички",
+          "status": "wrong"
+        },
+        {
+          "word": "з",
+          "status": "correct"
+        },
+        {
+          "word": "міста,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "крадіть",
+          "status": "correct"
+        },
+        {
+          "word": "в",
+          "status": "not_important"
+        },
+        {
+          "word": "кишені",
+          "status": "correct"
+        },
+        {
+          "word": "тіста,",
+          "status": "correct"
+        },
+        {
+          "word": "Бо",
+          "status": "not_important"
+        },
+        {
+          "word": "як",
+          "status": "correct"
+        },
+        {
+          "word": "буде",
+          "status": "correct"
+        },
+        {
+          "word": "в",
+          "status": "correct"
+        },
+        {
+          "word": "кишені",
+          "status": "correct"
+        },
+        {
+          "word": "тісто,",
+          "status": "correct"
+        },
+        {
+          "word": "То",
+          "status": "not_important"
+        },
+        {
+          "word": "вам",
+          "status": "not_important"
+        },
+        {
+          "word": "буде",
+          "status": "correct"
+        },
+        {
+          "word": "доганочка.",
+          "status": "wrong"
+        }
+      ]
+    },
+    {
+      "textId": 24,
+      "title": "Печу, печу хлібчик",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "This is a children's song, missing diminutive forms",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Печу,",
+          "status": "correct"
+        },
+        {
+          "word": "печу",
+          "status": "correct"
+        },
+        {
+          "word": "хлібчик",
+          "status": "wrong"
+        },
+        {
+          "word": "Діткам",
+          "status": "wrong"
+        },
+        {
+          "word": "на",
+          "status": "not_important"
+        },
+        {
+          "word": "обідчик,",
+          "status": "wrong"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Меншому",
+          "status": "correct"
+        },
+        {
+          "word": "менший,",
+          "status": "correct"
+        },
+        {
+          "word": "Більшому",
+          "status": "correct"
+        },
+        {
+          "word": "більший.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "А",
+          "status": "not_important"
+        },
+        {
+          "word": "паничам",
+          "status": "correct"
+        },
+        {
+          "word": "калачі,",
+          "status": "wrong"
+        },
+        {
+          "word": "Щоб",
+          "status": "correct"
+        },
+        {
+          "word": "сиділи",
+          "status": "correct"
+        },
+        {
+          "word": "на",
+          "status": "correct"
+        },
+        {
+          "word": "печі.",
+          "status": "correct"
+        },
+        {
+          "word": "Шусь",
+          "status": "wrong"
+        },
+        {
+          "word": "у",
+          "status": "correct"
+        },
+        {
+          "word": "піч!",
+          "status": "correct"
+        }
+      ]
+    },
+    {
+      "textId": 25,
+      "title": "Куди б иа не їхала ",
+      "overallRating": 3,
+      "hallucination": "no",
+      "unusualLanguage": "none",
+      "comment": "This is a modern wedding song from the 20th century. The model handles basic semantics well but loses formulaic structure and fails to reproduce ritual language.",
+      "words": [
+        {
+          "word": "1.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "свому",
+          "status": "not_important"
+        },
+        {
+          "word": "татові",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "not_important"
+        },
+        {
+          "word": "тато,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "correct"
+        },
+        {
+          "word": "построїв",
+          "status": "correct"
+        },
+        {
+          "word": "мені",
+          "status": "not_important"
+        },
+        {
+          "word": "хату,",
+          "status": "correct"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш.*",
+          "status": "correct"
+        },
+        {
+          "word": "2.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "своїй",
+          "status": "not_important"
+        },
+        {
+          "word": "мамі",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "not_important"
+        },
+        {
+          "word": "мамо,",
+          "status": "correct"
+        },
+        {
+          "word": "Шо",
+          "status": "correct"
+        },
+        {
+          "word": "будила",
+          "status": "correct"
+        },
+        {
+          "word": "мене",
+          "status": "not_important"
+        },
+        {
+          "word": "рано,",
+          "status": "correct"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш.",
+          "status": "correct"
+        },
+        {
+          "word": "3.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "свому",
+          "status": "not_important"
+        },
+        {
+          "word": "брату",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "not_important"
+        },
+        {
+          "word": "брате,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "correct"
+        },
+        {
+          "word": "приводив",
+          "status": "correct"
+        },
+        {
+          "word": "хлопців",
+          "status": "correct"
+        },
+        {
+          "word": "в",
+          "status": "not_important"
+        },
+        {
+          "word": "хату,",
+          "status": "correct"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш.",
+          "status": "correct"
+        },
+        {
+          "word": "4.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "своїй",
+          "status": "not_important"
+        },
+        {
+          "word": "сестрі",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "not_important"
+        },
+        {
+          "word": "сестро,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "correct"
+        },
+        {
+          "word": "навчила",
+          "status": "correct"
+        },
+        {
+          "word": "косу",
+          "status": "correct"
+        },
+        {
+          "word": "плести,",
+          "status": "correct"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "будеш.",
+          "status": "correct"
+        },
+        {
+          "word": "5.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "своїм",
+          "status": "not_important"
+        },
+        {
+          "word": "порогам",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "вам,",
+          "status": "not_important"
+        },
+        {
+          "word": "пороги,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "correct"
+        },
+        {
+          "word": "збивали",
+          "status": "correct"
+        },
+        {
+          "word": "хлопцям",
+          "status": "correct"
+        },
+        {
+          "word": "ноги,",
+          "status": "not_important"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "будуть,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "будуть.",
+          "status": "correct"
+        },
+        {
+          "word": "6.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "своїй",
+          "status": "not_important"
+        },
+        {
+          "word": "вишні",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "тобі,",
+          "status": "not_important"
+        },
+        {
+          "word": "вишня,",
+          "status": "correct"
+        },
+        {
+          "word": "Що",
+          "status": "correct"
+        },
+        {
+          "word": "стояла",
+          "status": "correct"
+        },
+        {
+          "word": "з",
+          "status": "correct"
+        },
+        {
+          "word": "хлопцем",
+          "status": "correct"
+        },
+        {
+          "word": "пишним,",
+          "status": "correct"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "буду,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "буду.",
+          "status": "correct"
+        },
+        {
+          "word": "7.",
+          "status": "not_important"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "їхала,",
+          "status": "correct"
+        },
+        {
+          "word": "Куди",
+          "status": "correct"
+        },
+        {
+          "word": "б",
+          "status": "not_important"
+        },
+        {
+          "word": "я",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "йшла,",
+          "status": "correct"
+        },
+        {
+          "word": "Я",
+          "status": "correct"
+        },
+        {
+          "word": "ж",
+          "status": "not_important"
+        },
+        {
+          "word": "своїм",
+          "status": "not_important"
+        },
+        {
+          "word": "воротам",
+          "status": "correct"
+        },
+        {
+          "word": "Дякувала:",
+          "status": "correct"
+        },
+        {
+          "word": "Дякую",
+          "status": "correct"
+        },
+        {
+          "word": "вам,",
+          "status": "not_important"
+        },
+        {
+          "word": "ворота,",
+          "status": "correct"
+        },
+        {
+          "word": "Шо",
+          "status": "correct"
+        },
+        {
+          "word": "стояла",
+          "status": "correct"
+        },
+        {
+          "word": "хлопців",
+          "status": "correct"
+        },
+        {
+          "word": "рота,",
+          "status": "not_important"
+        },
+        {
+          "word": "Більш",
+          "status": "correct"
+        },
+        {
+          "word": "не",
+          "status": "correct"
+        },
+        {
+          "word": "будуть,",
+          "status": "correct"
+        },
+        {
+          "word": "Не",
+          "status": "correct"
+        },
+        {
+          "word": "будуть.",
+          "status": "correct"
+        }
+      ]
+    }
+  ]
+}
