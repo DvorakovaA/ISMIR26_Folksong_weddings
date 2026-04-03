@@ -46,12 +46,15 @@ import os
 
 import numpy as np
 
-__version__ = "0.0.1"
-__author__ = "Jan Hajic jr."
+from sklearn.metrics import cohen_kappa_score
+
+__version__ = "0.0.2"
+__author__ = {"0.0.1" : "Jan Hajic jr.", 
+              "0.0.2" : "Anna Dvorakova"}
 
 
 JSONS_MAP = {
-    'cs': 'folksong_mt_czech_OV.json',
+    'cs': 'folksong_mt_czech_SU.json',
     'et': 'folksong_mt_estonian_AA.json',
     'ko': 'folksong_mt_korean_DH.json',
     'nl': 'folksong_mt_dutch_PvK.json',
@@ -67,12 +70,17 @@ DUPLICATE_SONGS_MAP = {
 }
 # Used ids refer to existing ids in the data, that go from 1!
 
-def compute_mean_correctness(evaluations):
+def compute_mean_correctness(evaluations, language):
     n_correct = 0
     n_incorrect = 0
     n_not_important = 0
     n_total = 0
-    for e in evaluations:
+
+    for i, e in enumerate(evaluations):
+        # Exclude duplicate songs, if any.
+        if i + 1 in DUPLICATE_SONGS_MAP.get(language, [])[1:]:
+            logging.info('Skipping duplicate song with textId {} for language {}.'.format(e['textId'], language))
+            continue
         for w in e['words']:
             if w['status'] == 'correct':
                 n_correct += 1
@@ -87,18 +95,33 @@ def compute_mean_correctness(evaluations):
     return mean_correctness, mean_importance, n_total
 
 
-def evaluate_language(evaluations):
-    mean_overall_rating = np.mean([e['overallRating'] for e in evaluations])
-    mean_correctness, mean_importance, n_total_words = compute_mean_correctness(evaluations)
-    return mean_overall_rating, mean_correctness, mean_importance, n_total_words
+def compute_self_agreement(evaluations, language):
+    # Compute self-agreement of the annotator on duplicate songs, if any.
+    duplicate_song_ids = DUPLICATE_SONGS_MAP.get(language, [])
+    if not duplicate_song_ids:
+        return 0.0
+    # Always two duplicate songs, so we can compute agreement between them.
+    eval1, eval2 = [e for e in evaluations if e['textId'] in duplicate_song_ids]
+    labels1 = [w['status'] for w in eval1['words']]
+    labels2 = [w['status'] for w in eval2['words']]
+    self_agreement = cohen_kappa_score(labels1, labels2)
+    return self_agreement
 
 
-def report_language_evaluation(language, mean_overall_rating, mean_correctness, mean_importance, n_total_words):
+def evaluate_language(evaluations, language):
+    mean_overall_rating = np.mean([e['overallRating'] for e in evaluations if e['overallRating'] is not None])
+    mean_correctness, mean_importance, n_total_words = compute_mean_correctness(evaluations, language)
+    self_agreement = compute_self_agreement(evaluations, language)
+    return mean_overall_rating, mean_correctness, mean_importance, n_total_words, self_agreement
+
+
+def report_language_evaluation(language, mean_overall_rating, mean_correctness, mean_importance, n_total_words, self_agreement=0.0):
     print('Language: {}'.format(language))
     print('  Mean overall rating: {:.2f}'.format(mean_overall_rating))
     print('  Mean correctness: {:.2f}'.format(mean_correctness))
     print('  Mean importance: {:.2f}'.format(mean_importance))
     print('  Total words evaluated: {}'.format(n_total_words))
+    print('  Self-agreement of annotator: {:.2f}'.format(self_agreement))
 
 
 def build_argument_parser():
@@ -145,11 +168,11 @@ def main(args):
 
     # Evaluate per language and report.
     for l, evaluations in evaluations_per_language.items():
-        mean_overall_rating, mean_correctness, mean_importance, n_total_words = evaluate_language(evaluations)
-        report_language_evaluation(l, mean_overall_rating, mean_correctness, mean_importance, n_total_words)
+        mean_overall_rating, mean_correctness, mean_importance, n_total_words, self_agreement = evaluate_language(evaluations, l)
+        report_language_evaluation(l, mean_overall_rating, mean_correctness, mean_importance, n_total_words, self_agreement)
 
     _end_time = time.process_time()
-    logging.info('scrape_cantus_db_sources.py done in {0:.3f} s'.format(_end_time - _start_time))
+    logging.info('evaluate_machine_translation.py done in {0:.3f} s'.format(_end_time - _start_time))
 
 
 if __name__ == '__main__':
