@@ -1,0 +1,30 @@
+Language: cs
+  Mean overall rating: 4.13
+  Mean correctness: 0.93
+  Mean importance: 0.56
+  Total words evaluated: 764
+  Self-agreement of annotator: 1.00
+Language: et
+  Mean overall rating: 2.94
+  Mean correctness: 0.76
+  Mean importance: 0.79
+  Total words evaluated: 903
+  Self-agreement of annotator: 0.45
+Language: ko
+  Mean overall rating: 3.00
+  Mean correctness: 0.79
+  Mean importance: 0.95
+  Total words evaluated: 584
+  Self-agreement of annotator: 1.00
+Language: nl
+  Mean overall rating: 4.18
+  Mean correctness: 0.93
+  Mean importance: 0.48
+  Total words evaluated: 1396
+  Self-agreement of annotator: 1.00
+Language: uk
+  Mean overall rating: 3.32
+  Mean correctness: 0.90
+  Mean importance: 0.64
+  Total words evaluated: 1144
+  Self-agreement of annotator: 0.00
