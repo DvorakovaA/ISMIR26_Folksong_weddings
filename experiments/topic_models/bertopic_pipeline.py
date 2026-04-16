@@ -8,7 +8,7 @@ Dependencies:
     pip install bertopic datasets pandas numpy tqdm
 
 Expected call:
-    python bertopic_model.py ../../translation/translated/
+    python bertopic_pipeline.py ../../translation/translated/
 """
 
 import os
