@@ -1,30 +1,60 @@
+Machine Translation Evaluation Results
+
 Language: cs
-  Mean overall rating: 4.13
-  Mean correctness: 0.93
-  Mean importance: 0.56
+  Mean overall rating: 3.67
+  Mean correctness: 0.97
+  Mean importance: 0.84
   Total words evaluated: 764
   Self-agreement of annotator: 1.00
+  Hallucinations: 3 out of 14 songs
+  Unusual language distribution:
+    barely: 8
+    none: 3
+    significantly: 3
+
 Language: et
   Mean overall rating: 2.94
   Mean correctness: 0.76
   Mean importance: 0.79
   Total words evaluated: 903
   Self-agreement of annotator: 0.45
+  Hallucinations: 11 out of 15 songs
+  Unusual language distribution:
+    significantly: 12
+    barely: 3
+
 Language: ko
   Mean overall rating: 3.00
   Mean correctness: 0.79
   Mean importance: 0.95
   Total words evaluated: 584
   Self-agreement of annotator: 1.00
+  Hallucinations: 6 out of 14 songs
+  Unusual language distribution:
+    barely: 9
+    none: 2
+    significantly: 3
+
 Language: nl
   Mean overall rating: 4.18
   Mean correctness: 0.93
   Mean importance: 0.48
   Total words evaluated: 1396
   Self-agreement of annotator: 1.00
+  Hallucinations: 0 out of 16 songs
+  Unusual language distribution:
+    barely: 2
+    significantly: 14
+
 Language: uk
   Mean overall rating: 3.32
   Mean correctness: 0.90
   Mean importance: 0.64
   Total words evaluated: 1144
   Self-agreement of annotator: 0.00
+  Hallucinations: 4 out of 23 songs
+  Unusual language distribution:
+    barely: 16
+    none: 6
+    None: 1
+
