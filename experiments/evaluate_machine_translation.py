@@ -227,7 +227,7 @@ def main(args):
         mean_overall_rating, mean_correctness, mean_importance, n_total_words, self_agreement, hallucinations, unusual_language = evaluate_language(evaluations, l, plots_dir=args.plot_dir)
         report_language_evaluation(l, mean_overall_rating, mean_correctness, mean_importance, n_total_words, hallucinations, unusual_language, self_agreement, results_file)
 
-    # Plot all languages together.
+    # Plot all languages together - overall score vs correctness
     plt.figure()
     shapes = {'cs': 'o', 'et': 's', 'ko': '^', 'nl': 'X', 'uk': 'D'}
     plt.style.use('tableau-colorblind10')
@@ -251,8 +251,9 @@ def main(args):
                 rats.append(r + offsets.get(l, 0))
             else:
                 rats.append(r)
-        #ratings = [r + offsets.get(l, 0) for r in ratings if r is not None]
+
         plt.scatter(rats, correctness, label=l, alpha=0.7, marker=shapes[l])
+
     plt.xlabel('Overall Rating')
     plt.ylabel('Correctness')
     plt.title('Correctness vs Overall Rating for All Languages')
@@ -262,6 +263,48 @@ def main(args):
     os.makedirs(args.plot_dir, exist_ok=True)
     plt.savefig(os.path.join(args.plot_dir, 'correctness_vs_rating_all_languages.png'))
     plt.close()
+
+
+    # Plot all languages together - unusual language
+    # Scatter plot with point for each song, where:
+    # X-axis: language, 
+    # Y-axis: correctness, shape/color: unusual language level
+    plt.figure()
+    shapes = {'none': 'X', 'barely': 'o', 'significantly': 'D'}
+    plt.style.use('tableau-colorblind10')
+    offsets = {'none': -0.05, 'barely': 0, 'significantly': 0.05}
+    # Collect points by unusual-language level so legend explains marker shapes.
+    points_by_level = {level: {'x': [], 'y': []} for level in shapes}
+    for l, evaluations in evaluations_per_language.items():
+        for i, e in enumerate(evaluations):
+            # Exclude duplicate songs, if any.
+            if i + 1 in DUPLICATE_SONGS_MAP.get(l, [])[1:]:
+                continue
+
+            unusual_level = e.get('unusualLanguage', 'barely')
+            if unusual_level not in points_by_level:
+                continue
+
+            n_correct = sum(1 for w in e['words'] if w['status'] == 'correct')
+            n_wrong = sum(1 for w in e['words'] if w['status'] == 'wrong')
+            mean_correctness = n_correct / (n_correct + n_wrong) if (n_correct + n_wrong) > 0 else 0
+
+            points_by_level[unusual_level]['x'].append(args.languages.index(l) + offsets.get(unusual_level, 0))
+            points_by_level[unusual_level]['y'].append(mean_correctness)
+
+    for level, coords in points_by_level.items():
+        if coords['x']:
+            plt.scatter(coords['x'], coords['y'], label=level, alpha=0.7, marker=shapes[level])
+            
+    plt.xlabel('Language')
+    plt.ylabel('Correctness')
+    plt.title('Unusual Language Levels for All Languages')
+    plt.legend(title='Unusual language level', loc='lower right')
+    plt.grid(axis='y')
+    plt.xticks(range(len(args.languages)), args.languages)
+    plt.savefig(os.path.join(args.plot_dir, 'correctness_vs_unusualLanguage_all_languages.png'))
+    plt.close()
+
 
     _end_time = time.process_time()
     logging.info('evaluate_machine_translation.py done in {0:.3f} s'.format(_end_time - _start_time))
