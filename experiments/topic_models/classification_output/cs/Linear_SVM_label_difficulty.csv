@@ -1,0 +1,11 @@
+model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
+Linear_SVM,DĚTSKÉ,18,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,KOLEDY,9,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,MILOSTNÉ,74,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,"Písně o stavích, živnostech a jiných stránkách života občanského",77,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,SVATEBNÍ,41,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,Písně společenské,25,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,ŽERTOVNÉ A TANEČNÍ,82,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,VOJENSKÉ,18,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
+Linear_SVM,Písně a říkadla výroční,62,1.0,0.0323,0.0625,0.9677,Písně věku mládeneckého a panenského,0.9677
+Linear_SVM,Písně věku mládeneckého a panenského,159,0.2824,1.0,0.4404,0.0,—,0.0

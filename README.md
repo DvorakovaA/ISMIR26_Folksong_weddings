@@ -1,24 +1,43 @@
 # ISMIR26_Folksong_weddings
 Repository for supplementary material regarding ISMIR 2026 publication with (preliminary) name Towards A Cross-Cultural Comparison of Folk Music Lyrics: A Case of Weddings.
 
-## Data by language
+## Data processing
+Collecting those with lyrics
+Translating  
+Dropping refused translation  
+-> results in `translation/translated`  
+  
+Subset of songs (mainly wedding ones) were selected into the human MT evaluation (see `translation\eval_translation`).  
+  
+For experiments with classification by language (to classify typology labels) only songs of 10 most frequent labels (that are not `other` or `unknown` etc) were used (which can be found in `experiments\topic_models\selected_ids`).  
 
-### Dutch
+For experiments with classification of wedding songs by language of origin 
+we took all the wedding subset (5 languages) and then also only sets of Czech, Dutch and Ukrainian as 
+those with better translation results in the human evaluation.
 
-### Korean
-
-### Estonian
-
-### Czech
-
-### Ukrainian
 
 ## Machine translation
 ### Translation
+openai/gpt-4.1-mini  
 
 ### Evaluation
+Results of human evaluation of the MT can be found in `translation\eval_translation\results`.
 
-## Document-level embeddings
+
+### Topic modeling
+BERTopic  
+
+Files with topic distribution obtained from pretrained `MaartenGr/BERTopic_Wikipedia`
+model are in `experiments\topic_models\bertopic_output`.  
+
+Classification experiments using topic probabilities to predict typology labels.  
+
+Results of classification experiments can be found in `experiments\topic_models\classification_output`.  
+
+For all experiments (5 by language and two versions of the wedding subset) we have two kinds of results:
+- on the selected set as it is (unbalanced classes)
+- with subsampling (we sort classes by frequency and look for the largest gap to find a cutoff, all bigger are subsampled to the size of the class closest smaller to the gap)
+
 
 ## Wedding subset
 

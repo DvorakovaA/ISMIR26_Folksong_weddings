@@ -1,0 +1,97 @@
+Model: Linear_SVM
+
+Fold 1:
+                                                                  precision    recall  f1-score   support
+
+                                                          DĚTSKÉ       0.00      0.00      0.00        18
+                                                          KOLEDY       0.00      0.00      0.00        10
+                                                        MILOSTNÉ       0.00      0.00      0.00        74
+                                         Písně a říkadla výroční       0.43      0.10      0.16        62
+Písně o stavích, živnostech a jiných stránkách života občanského       0.67      0.03      0.05        77
+                                               Písně společenské       0.00      0.00      0.00        26
+                            Písně věku mládeneckého a panenského       0.30      0.95      0.45       159
+                                                        SVATEBNÍ       0.00      0.00      0.00        40
+                                                        VOJENSKÉ       0.00      0.00      0.00        17
+                                              ŽERTOVNÉ A TANEČNÍ       0.23      0.08      0.12        83
+
+                                                        accuracy                           0.29       566
+                                                       macro avg       0.16      0.12      0.08       566
+                                                    weighted avg       0.25      0.29      0.17       566
+
+
+Fold 2:
+                                                                  precision    recall  f1-score   support
+
+                                                          DĚTSKÉ       0.00      0.00      0.00        18
+                                                          KOLEDY       0.00      0.00      0.00        10
+                                                        MILOSTNÉ       0.00      0.00      0.00        74
+                                         Písně a říkadla výroční       0.70      0.11      0.19        62
+Písně o stavích, živnostech a jiných stránkách života občanského       0.00      0.00      0.00        77
+                                               Písně společenské       0.00      0.00      0.00        26
+                            Písně věku mládeneckého a panenského       0.28      0.96      0.44       158
+                                                        SVATEBNÍ       0.00      0.00      0.00        41
+                                                        VOJENSKÉ       0.00      0.00      0.00        17
+                                              ŽERTOVNÉ A TANEČNÍ       0.33      0.06      0.10        83
+
+                                                        accuracy                           0.29       566
+                                                       macro avg       0.13      0.11      0.07       566
+                                                    weighted avg       0.20      0.29      0.16       566
+
+
+Fold 3:
+                                                                  precision    recall  f1-score   support
+
+                                                          DĚTSKÉ       0.00      0.00      0.00        17
+                                                          KOLEDY       0.00      0.00      0.00        10
+                                                        MILOSTNÉ       0.00      0.00      0.00        74
+                                         Písně a říkadla výroční       0.52      0.19      0.28        62
+Písně o stavích, živnostech a jiných stránkách života občanského       0.50      0.03      0.05        77
+                                               Písně společenské       0.00      0.00      0.00        26
+                            Písně věku mládeneckého a panenského       0.29      0.89      0.44       159
+                                                        SVATEBNÍ       0.00      0.00      0.00        41
+                                                        VOJENSKÉ       0.00      0.00      0.00        17
+                                              ŽERTOVNÉ A TANEČNÍ       0.32      0.16      0.21        83
+
+                                                        accuracy                           0.30       566
+                                                       macro avg       0.16      0.13      0.10       566
+                                                    weighted avg       0.25      0.30      0.19       566
+
+
+Fold 4:
+                                                                  precision    recall  f1-score   support
+
+                                                          DĚTSKÉ       0.00      0.00      0.00        17
+                                                          KOLEDY       0.00      0.00      0.00        10
+                                                        MILOSTNÉ       0.25      0.01      0.03        74
+                                         Písně a říkadla výroční       0.64      0.11      0.19        62
+Písně o stavích, živnostech a jiných stránkách života občanského       0.00      0.00      0.00        77
+                                               Písně společenské       0.00      0.00      0.00        26
+                            Písně věku mládeneckého a panenského       0.29      0.97      0.45       159
+                                                        SVATEBNÍ       0.00      0.00      0.00        41
+                                                        VOJENSKÉ       0.00      0.00      0.00        17
+                                              ŽERTOVNÉ A TANEČNÍ       0.22      0.06      0.09        83
+
+                                                        accuracy                           0.30       566
+                                                       macro avg       0.14      0.12      0.08       566
+                                                    weighted avg       0.22      0.30      0.17       566
+
+
+Fold 5:
+                                                                  precision    recall  f1-score   support
+
+                                                          DĚTSKÉ       0.00      0.00      0.00        18
+                                                          KOLEDY       0.00      0.00      0.00         9
+                                                        MILOSTNÉ       0.14      0.01      0.02        74
+                                         Písně a říkadla výroční       0.69      0.18      0.28        62
+Písně o stavích, živnostech a jiných stránkách života občanského       0.33      0.01      0.03        77
+                                               Písně společenské       0.00      0.00      0.00        25
+                            Písně věku mládeneckého a panenského       0.29      0.97      0.45       159
+                                                        SVATEBNÍ       0.00      0.00      0.00        41
+                                                        VOJENSKÉ       0.00      0.00      0.00        18
+                                              ŽERTOVNÉ A TANEČNÍ       0.33      0.05      0.09        82
+
+                                                        accuracy                           0.30       565
+                                                       macro avg       0.18      0.12      0.09       565
+                                                    weighted avg       0.27      0.30      0.18       565
+
+

@@ -1,0 +1,11 @@
+model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
+RBF_SVM,SVATEBNÍ,41,0.0968,0.0732,0.0833,0.9268,MILOSTNÉ,0.3171
+RBF_SVM,ŽERTOVNÉ A TANEČNÍ,82,0.2381,0.1829,0.2069,0.8171,MILOSTNÉ,0.3049
+RBF_SVM,VOJENSKÉ,18,0.1667,0.2778,0.2083,0.7222,MILOSTNÉ,0.2222
+RBF_SVM,KOLEDY,9,0.2222,0.2222,0.2222,0.7778,MILOSTNÉ,0.2222
+RBF_SVM,Písně věku mládeneckého a panenského,159,0.4,0.1635,0.2321,0.8365,MILOSTNÉ,0.3208
+RBF_SVM,"Písně o stavích, živnostech a jiných stránkách života občanského",77,0.2772,0.3636,0.3146,0.6364,MILOSTNÉ,0.1818
+RBF_SVM,Písně společenské,25,0.2903,0.36,0.3214,0.64,ŽERTOVNÉ A TANEČNÍ,0.24
+RBF_SVM,MILOSTNÉ,74,0.247,0.5541,0.3417,0.4459,Písně věku mládeneckého a panenského,0.2027
+RBF_SVM,DĚTSKÉ,18,0.2963,0.4444,0.3556,0.5556,ŽERTOVNÉ A TANEČNÍ,0.2222
+RBF_SVM,Písně a říkadla výroční,62,0.5238,0.3548,0.4231,0.6452,"Písně o stavích, živnostech a jiných stránkách života občanského",0.2097

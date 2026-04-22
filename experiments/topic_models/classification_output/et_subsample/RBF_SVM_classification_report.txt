@@ -1,0 +1,97 @@
+Model: RBF_SVM
+
+Fold 1:
+                                     precision    recall  f1-score   support
+
+                    kalendarilaulud       0.77      0.59      0.67        61
+                        lastelaulud       0.58      0.50      0.54        36
+                    laulud_abielust       0.44      0.59      0.50        46
+      laulud_kodust_ja_lapsepolvest       0.40      0.40      0.40        42
+           laulud_meelelahutamiseks       0.56      0.49      0.52       107
+             laulud_noorrahva_elust       0.50      0.51      0.50       143
+laulud_uhiskondlikest_vahekordadest       0.56      0.55      0.56        80
+                       looduslaulud       0.60      0.49      0.54        75
+                         murelaulud       0.81      0.63      0.71        41
+                          toolaulud       0.33      0.49      0.40        80
+
+                           accuracy                           0.52       711
+                          macro avg       0.55      0.52      0.53       711
+                       weighted avg       0.54      0.52      0.53       711
+
+
+Fold 2:
+                                     precision    recall  f1-score   support
+
+                    kalendarilaulud       0.67      0.59      0.63        61
+                        lastelaulud       0.79      0.61      0.69        36
+                    laulud_abielust       0.30      0.37      0.33        46
+      laulud_kodust_ja_lapsepolvest       0.54      0.36      0.43        42
+           laulud_meelelahutamiseks       0.55      0.53      0.54       106
+             laulud_noorrahva_elust       0.50      0.51      0.51       143
+laulud_uhiskondlikest_vahekordadest       0.54      0.41      0.47        80
+                       looduslaulud       0.56      0.47      0.51        76
+                         murelaulud       0.63      0.63      0.63        41
+                          toolaulud       0.31      0.50      0.38        80
+
+                           accuracy                           0.50       711
+                          macro avg       0.54      0.50      0.51       711
+                       weighted avg       0.52      0.50      0.50       711
+
+
+Fold 3:
+                                     precision    recall  f1-score   support
+
+                    kalendarilaulud       0.85      0.57      0.69        61
+                        lastelaulud       0.78      0.58      0.67        36
+                    laulud_abielust       0.38      0.59      0.46        46
+      laulud_kodust_ja_lapsepolvest       0.60      0.43      0.50        42
+           laulud_meelelahutamiseks       0.61      0.42      0.50       106
+             laulud_noorrahva_elust       0.46      0.50      0.48       143
+laulud_uhiskondlikest_vahekordadest       0.58      0.61      0.60        80
+                       looduslaulud       0.59      0.54      0.56        76
+                         murelaulud       0.66      0.66      0.66        41
+                          toolaulud       0.34      0.49      0.40        80
+
+                           accuracy                           0.53       711
+                          macro avg       0.58      0.54      0.55       711
+                       weighted avg       0.56      0.53      0.53       711
+
+
+Fold 4:
+                                     precision    recall  f1-score   support
+
+                    kalendarilaulud       0.80      0.65      0.72        60
+                        lastelaulud       0.78      0.57      0.66        37
+                    laulud_abielust       0.37      0.48      0.42        46
+      laulud_kodust_ja_lapsepolvest       0.52      0.34      0.41        41
+           laulud_meelelahutamiseks       0.50      0.43      0.46       107
+             laulud_noorrahva_elust       0.49      0.54      0.51       143
+laulud_uhiskondlikest_vahekordadest       0.63      0.53      0.57        80
+                       looduslaulud       0.60      0.59      0.60        76
+                         murelaulud       0.68      0.61      0.64        41
+                          toolaulud       0.34      0.52      0.41        79
+
+                           accuracy                           0.52       710
+                          macro avg       0.57      0.53      0.54       710
+                       weighted avg       0.55      0.52      0.53       710
+
+
+Fold 5:
+                                     precision    recall  f1-score   support
+
+                    kalendarilaulud       0.85      0.57      0.68        60
+                        lastelaulud       0.63      0.67      0.65        36
+                    laulud_abielust       0.41      0.55      0.47        47
+      laulud_kodust_ja_lapsepolvest       0.54      0.46      0.50        41
+           laulud_meelelahutamiseks       0.57      0.45      0.50       107
+             laulud_noorrahva_elust       0.52      0.61      0.56       143
+laulud_uhiskondlikest_vahekordadest       0.60      0.42      0.50        80
+                       looduslaulud       0.58      0.49      0.53        75
+                         murelaulud       0.71      0.60      0.65        42
+                          toolaulud       0.33      0.52      0.40        79
+
+                           accuracy                           0.53       710
+                          macro avg       0.57      0.53      0.54       710
+                       weighted avg       0.56      0.53      0.53       710
+
+

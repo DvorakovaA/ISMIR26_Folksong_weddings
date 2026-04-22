@@ -1,0 +1,11 @@
+model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
+RBF_SVM,toolaulud,79,0.3387,0.5316,0.4138,0.4684,laulud_noorrahva_elust,0.1519
+RBF_SVM,laulud_abielust,47,0.4032,0.5319,0.4587,0.4681,laulud_noorrahva_elust,0.1702
+RBF_SVM,laulud_uhiskondlikest_vahekordadest,80,0.5893,0.4125,0.4853,0.5875,toolaulud,0.175
+RBF_SVM,laulud_meelelahutamiseks,107,0.5529,0.4393,0.4896,0.5607,laulud_noorrahva_elust,0.243
+RBF_SVM,laulud_kodust_ja_lapsepolvest,41,0.5429,0.4634,0.5,0.5366,laulud_noorrahva_elust,0.2195
+RBF_SVM,looduslaulud,75,0.5714,0.48,0.5217,0.52,toolaulud,0.2
+RBF_SVM,laulud_noorrahva_elust,143,0.5029,0.6084,0.5506,0.3916,toolaulud,0.1119
+RBF_SVM,murelaulud,42,0.6944,0.5952,0.641,0.4048,toolaulud,0.1429
+RBF_SVM,lastelaulud,36,0.6667,0.6667,0.6667,0.3333,looduslaulud,0.1111
+RBF_SVM,kalendarilaulud,60,0.875,0.5833,0.7,0.4167,laulud_noorrahva_elust,0.1167
