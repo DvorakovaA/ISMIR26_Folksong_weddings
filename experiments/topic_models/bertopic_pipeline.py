@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 BERTopic Inference
 Loads pretrained MaartenGr/BERTopic_Wikipedia from huggingface,

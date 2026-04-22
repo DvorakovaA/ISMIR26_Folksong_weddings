@@ -1,6 +1,7 @@
 Machine Translation Evaluation Results
 
 Language: cs
+  File evaluated: folksong_mt_czech_OV.json
   Mean overall rating: 3.67
   Mean correctness: 0.97
   Mean importance: 0.84
@@ -13,6 +14,7 @@ Language: cs
     significantly: 3
 
 Language: et
+  File evaluated: folksong_mt_estonian_AA.json
   Mean overall rating: 2.94
   Mean correctness: 0.76
   Mean importance: 0.79
@@ -24,6 +26,7 @@ Language: et
     barely: 3
 
 Language: ko
+  File evaluated: folksong_mt_korean_DH.json
   Mean overall rating: 3.00
   Mean correctness: 0.79
   Mean importance: 0.95
@@ -36,6 +39,7 @@ Language: ko
     significantly: 3
 
 Language: nl
+  File evaluated: folksong_mt_dutch_PvK.json
   Mean overall rating: 4.18
   Mean correctness: 0.93
   Mean importance: 0.48
@@ -47,11 +51,12 @@ Language: nl
     significantly: 14
 
 Language: uk
+  File evaluated: folksong_mt_ukrainian_IL.json
   Mean overall rating: 3.32
   Mean correctness: 0.90
   Mean importance: 0.64
   Total words evaluated: 1144
-  Self-agreement of annotator: 0.00
+  Self-agreement of annotator: None
   Hallucinations: 4 out of 23 songs
   Unusual language distribution:
     barely: 16

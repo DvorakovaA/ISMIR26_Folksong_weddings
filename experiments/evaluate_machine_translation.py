@@ -109,7 +109,7 @@ def compute_self_agreement(evaluations, language):
     # Compute self-agreement of the annotator on duplicate songs, if any.
     duplicate_song_ids = DUPLICATE_SONGS_MAP.get(language, [])
     if not duplicate_song_ids:
-        return 0.0
+        return None
     # Always two duplicate songs, so we can compute agreement between them.
     eval1, eval2 = [e for e in evaluations if e['textId'] in duplicate_song_ids]
     labels1 = [w['status'] for w in eval1['words']]
@@ -161,6 +161,7 @@ def report_language_evaluation(language, mean_overall_rating, mean_correctness, 
                                self_agreement=0.0, file='results/evaluation_results.txt'):
     with open(file, 'a') as f:
         print('Language: {}'.format(language), file=f)
+        print('  File evaluated: {}'.format(JSONS_MAP[language]), file=f)
         print('  Mean overall rating: {:.2f}'.format(mean_overall_rating), file=f)
         print('  Mean correctness: {:.2f}'.format(mean_correctness), file=f)
         print('  Mean importance: {:.2f}'.format(mean_importance), file=f)

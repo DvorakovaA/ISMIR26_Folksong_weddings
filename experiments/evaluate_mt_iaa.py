@@ -115,6 +115,7 @@ def main(args):
         # Compute Cohen's kappa for overallRating and hallucination
         kappa_rating = cohen_kappa_score(ratings1, ratings2)
         kappa_hallucination = cohen_kappa_score(hallucinations1, hallucinations2)
+         
         # Compute Cohen's kappa for word-level labels
         kappa_words = []
         kappa_words_important = []
