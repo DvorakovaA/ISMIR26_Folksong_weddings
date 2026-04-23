@@ -1,0 +1,62 @@
+Model: RBF_SVM
+
+Fold 1:
+              precision    recall  f1-score   support
+
+          cs       0.64      0.53      0.58        43
+          nl       0.64      0.97      0.77        29
+          uk       0.75      0.63      0.69        52
+
+    accuracy                           0.68       124
+   macro avg       0.68      0.71      0.68       124
+weighted avg       0.68      0.68      0.67       124
+
+
+Fold 2:
+              precision    recall  f1-score   support
+
+          cs       0.57      0.62      0.59        42
+          nl       0.64      0.90      0.75        30
+          uk       0.78      0.54      0.64        52
+
+    accuracy                           0.65       124
+   macro avg       0.66      0.69      0.66       124
+weighted avg       0.67      0.65      0.65       124
+
+
+Fold 3:
+              precision    recall  f1-score   support
+
+          cs       0.62      0.57      0.59        42
+          nl       0.57      0.93      0.71        30
+          uk       0.83      0.57      0.67        51
+
+    accuracy                           0.66       123
+   macro avg       0.67      0.69      0.66       123
+weighted avg       0.69      0.66      0.65       123
+
+
+Fold 4:
+              precision    recall  f1-score   support
+
+          cs       0.71      0.48      0.57        42
+          nl       0.66      0.83      0.74        30
+          uk       0.74      0.82      0.78        51
+
+    accuracy                           0.71       123
+   macro avg       0.70      0.71      0.69       123
+weighted avg       0.71      0.71      0.70       123
+
+
+Fold 5:
+              precision    recall  f1-score   support
+
+          cs       0.70      0.62      0.66        42
+          nl       0.62      0.97      0.75        30
+          uk       0.79      0.61      0.69        51
+
+    accuracy                           0.70       123
+   macro avg       0.70      0.73      0.70       123
+weighted avg       0.72      0.70      0.69       123
+
+
