@@ -1,11 +1,11 @@
 model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
-Linear_SVM,DĚTSKÉ,18,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,KOLEDY,9,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,MILOSTNÉ,74,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,"Písně o stavích, živnostech a jiných stránkách života občanského",77,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,SVATEBNÍ,41,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,Písně společenské,25,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,ŽERTOVNÉ A TANEČNÍ,82,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,VOJENSKÉ,18,0.0,0.0,0.0,1.0,Písně věku mládeneckého a panenského,1.0
-Linear_SVM,Písně a říkadla výroční,62,1.0,0.0323,0.0625,0.9677,Písně věku mládeneckého a panenského,0.9677
-Linear_SVM,Písně věku mládeneckého a panenského,159,0.2824,1.0,0.4404,0.0,—,0.0
+Linear_SVM,business_and_civil,77,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,carols,10,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,children,18,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,entertainment_and_dance,83,0.0,0.0,0.0,1.0,young_people,0.988
+Linear_SVM,military,16,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,love,73,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,social_life,25,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,wedding,42,0.0,0.0,0.0,1.0,young_people,1.0
+Linear_SVM,calendar,62,1.0,0.0323,0.0625,0.9677,young_people,0.9677
+Linear_SVM,young_people,159,0.2829,1.0,0.4411,0.0,—,0.0

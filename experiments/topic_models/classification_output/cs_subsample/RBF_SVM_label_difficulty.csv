@@ -1,11 +1,11 @@
 model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
-RBF_SVM,SVATEBNÍ,41,0.1515,0.122,0.1351,0.878,MILOSTNÉ,0.3171
-RBF_SVM,Písně věku mládeneckého a panenského,159,0.463,0.1572,0.2347,0.8428,MILOSTNÉ,0.3333
-RBF_SVM,KOLEDY,9,0.25,0.2222,0.2353,0.7778,MILOSTNÉ,0.2222
-RBF_SVM,"Písně o stavích, živnostech a jiných stránkách života občanského",77,0.2273,0.2597,0.2424,0.7403,MILOSTNÉ,0.1948
-RBF_SVM,ŽERTOVNÉ A TANEČNÍ,82,0.2794,0.2317,0.2533,0.7683,MILOSTNÉ,0.3049
-RBF_SVM,VOJENSKÉ,18,0.1944,0.3889,0.2593,0.6111,MILOSTNÉ,0.2222
-RBF_SVM,Písně společenské,25,0.2903,0.36,0.3214,0.64,MILOSTNÉ,0.2
-RBF_SVM,MILOSTNÉ,74,0.2485,0.5676,0.3457,0.4324,Písně věku mládeneckého a panenského,0.1486
-RBF_SVM,DĚTSKÉ,18,0.32,0.4444,0.3721,0.5556,SVATEBNÍ,0.1667
-RBF_SVM,Písně a říkadla výroční,62,0.4717,0.4032,0.4348,0.5968,MILOSTNÉ,0.1613
+RBF_SVM,wedding,42,0.0789,0.0714,0.075,0.9286,love,0.2857
+RBF_SVM,carols,10,0.1667,0.1,0.125,0.9,love,0.4
+RBF_SVM,entertainment_and_dance,83,0.24,0.1446,0.1805,0.8554,love,0.241
+RBF_SVM,young_people,159,0.3818,0.1321,0.1963,0.8679,love,0.3459
+RBF_SVM,children,18,0.2,0.2222,0.2105,0.7778,business_and_civil,0.2222
+RBF_SVM,business_and_civil,77,0.2281,0.3377,0.2723,0.6623,calendar,0.1688
+RBF_SVM,military,16,0.2105,0.5,0.2963,0.5,love,0.25
+RBF_SVM,love,73,0.2375,0.5205,0.3262,0.4795,business_and_civil,0.1507
+RBF_SVM,social_life,25,0.3103,0.36,0.3333,0.64,business_and_civil,0.2
+RBF_SVM,calendar,62,0.4,0.3548,0.3761,0.6452,business_and_civil,0.1935
