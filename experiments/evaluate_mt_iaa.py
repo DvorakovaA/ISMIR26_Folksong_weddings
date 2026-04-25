@@ -151,7 +151,13 @@ def main(args):
         # Save the results to a file
         with open(os.path.join(args.output_dir, f'iaa_{l}_{pair[0][-7:-5]}_{pair[1][-7:-5]}.txt'), 'w', encoding='utf-8') as f:
             f.write(f"Cohen's kappa for overallRating: {kappa_rating:.4f}\n")
+            f.write(f"Ratings 1: {ratings1}\n")
+            f.write(f"Ratings 2: {ratings2}\n")
+            f.write(f"Difference in ratings: {[r1 - r2 for r1, r2 in zip(ratings1, ratings2)]}\n")
+            f.write(f"Mean difference in ratings: {np.mean([r1 - r2 for r1, r2 in zip(ratings1, ratings2)])}\n\n")
             f.write(f"Cohen's kappa for hallucination: {kappa_hallucination:.4f}\n")
+            f.write(f"Hallucination 1: {hallucinations1}\n")
+            f.write(f"Hallucination 2: {hallucinations2}\n\n")
             f.write(f"Mean Cohen's kappa for word-level labels: {mean_kappa_words:.4f}\n")
             f.write(f"Kappa for word-level labels per song: {kappa_words}\n")
             f.write(f"Mean accuracy for important word-level labels: {np.mean(important_acc):.4f}\n")

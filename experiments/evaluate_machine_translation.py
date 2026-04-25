@@ -227,9 +227,9 @@ def main(args):
     for l, evaluations in evaluations_per_language.items():
         mean_overall_rating, mean_correctness, mean_importance, n_total_words, self_agreement, hallucinations, unusual_language = evaluate_language(evaluations, l, plots_dir=args.plot_dir)
         report_language_evaluation(l, mean_overall_rating, mean_correctness, mean_importance, n_total_words, hallucinations, unusual_language, self_agreement, results_file)
-
+    
     # Plot all languages together - overall score vs correctness
-    plt.figure()
+    plt.figure(figsize=(6, 5))
     shapes = {'cs': 'o', 'et': 's', 'ko': '^', 'nl': 'X', 'uk': 'D'}
     plt.style.use('tableau-colorblind10')
     offsets = {'cs': -0.03, 'et': 0, 'ko': 0.06, 'nl': 0.06, 'uk': 0.03}
@@ -255,10 +255,12 @@ def main(args):
 
         plt.scatter(rats, correctness, label=l, alpha=0.7, marker=shapes[l])
 
-    plt.xlabel('Overall Rating')
-    plt.ylabel('Correctness')
-    plt.title('Correctness vs Overall Rating for All Languages')
-    plt.legend()
+    plt.xlabel('Overall Rating', fontsize=12)
+    plt.ylabel('Correctness', fontsize=12)
+    plt.xticks(fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.title('Correctness vs Overall Rating', fontsize=15)
+    plt.legend(fontsize=11)
     plt.grid(axis='y')
     plt.xticks([1, 2, 3, 4, 5])
     os.makedirs(args.plot_dir, exist_ok=True)
@@ -270,7 +272,7 @@ def main(args):
     # Scatter plot with point for each song, where:
     # X-axis: language, 
     # Y-axis: correctness, shape/color: unusual language level
-    plt.figure()
+    plt.figure(figsize=(6, 5))
     shapes = {'none': 'X', 'barely': 'o', 'significantly': 'D'}
     plt.style.use('tableau-colorblind10')
     offsets = {'none': -0.05, 'barely': 0, 'significantly': 0.05}
@@ -297,18 +299,19 @@ def main(args):
         if coords['x']:
             plt.scatter(coords['x'], coords['y'], label=level, alpha=0.7, marker=shapes[level])
             
-    plt.xlabel('Language')
-    plt.ylabel('Correctness')
-    plt.title('Unusual Language Levels for All Languages')
-    plt.legend(title='Unusual language level', loc='lower right')
+    plt.xlabel('Language', fontsize=12)
+    plt.ylabel('Correctness', fontsize=12)
+    plt.title('Correctness vs Unusual Language Levels', fontsize=15)
+    plt.legend(title='Unusual language level', loc='lower right', fontsize=11)
     plt.grid(axis='y')
-    plt.xticks(range(len(args.languages)), args.languages)
+    plt.xticks(range(len(args.languages)), args.languages, fontsize=12)
+    plt.yticks(fontsize=12)
     plt.savefig(os.path.join(args.plot_dir, 'correctness_vs_unusualLanguage_all_languages.png'))
     plt.close()
-
-
+    
     _end_time = time.process_time()
     logging.info('evaluate_machine_translation.py done in {0:.3f} s'.format(_end_time - _start_time))
+
 
 
 if __name__ == '__main__':
