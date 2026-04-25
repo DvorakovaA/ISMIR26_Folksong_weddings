@@ -2,13 +2,52 @@
 
 ## Sources
 CS: [https://pisnovna.cz/sbirky/o-sbirce?q=E](https://pisnovna.cz/sbirky/o-sbirce?q=E)  
-UK: [https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/](https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/)
-ET: [https://www.folklore.ee/regilaul/andmebaas/?ln=en](https://www.folklore.ee/regilaul/andmebaas/?ln=en)
-NL: [https://www.liederenbank.nl/index.php?lan=en](https://www.liederenbank.nl/index.php?lan=en)
+UK: [https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/](https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/)  
+ET: [https://www.folklore.ee/regilaul/andmebaas/?ln=en](https://www.folklore.ee/regilaul/andmebaas/?ln=en)  
+NL: [https://www.liederenbank.nl/index.php?lan=en](https://www.liederenbank.nl/index.php?lan=en)  
 KO: [https://github.com/danbinaerinHan/finding-tori/](https://github.com/danbinaerinHan/finding-tori/)
+  
+
+Following procedures were applied to obtain texts:
+### CS
+Erben (Prostonárodní české písně a říkadla) + Homolka Praha + Homolka Podřipko + Thořová Havlíčkobrodsko   
+(Texts in form of .txt files were obtained from EI CAS.)
 
 
-### Distribution of typological labels in selected sets
+### NL
+Scraped (with permission) using keywords search of following search **keywords**:  
+ bruiloftslied, begrafenislied, verjaardagslied, ambachtslied, zeemanslied, soldatenlied, wiegelied, schommellied, driekoningenlied, sinterklaaslied, kinderlied, anti-huwelijkslied  
+  
+Selected songs from 18th, 19th and 20th century collections.
+
+
+### ET
+**Filtration applied: ** 
+Region: Järvamaa  
+Upper groups:  
+Looduslaulud, Kalendrilaulud, 
+Laulud meelelahutamiseks, 
+Töölaulud, 
+Murelaulud, 
+Laulud ühiskondlikest vahekordadest, 
+Laulud sõjast ja nekrutist, 
+Laulud kodust ja lapsepolvest, 
+Laulud noorrahva elust, 
+Pulmalaulud, 
+Laulud abielust, 
+Lastelaulud,
+Loitsud
+  
+-> XML export for each group  
+  
+After that, songs which were found in exports for more than one upper group were discarded.
+
+### UK and KO
+Whole distributed set from respective GitHubs
+
+
+## Distribution of typological labels in sets selected for classification experiments
+As for the classification experiment we picked only songs with ten most frequent labels.
 
 **NL:**  
 |label | count |
@@ -27,16 +66,16 @@ KO: [https://github.com/danbinaerinHan/finding-tori/](https://github.com/danbina
 **CS:**
 |label | count |
 |-------|----------:|
-|Písně věku mládeneckého a panenského  | 794 |
-|ŽERTOVNÉ A TANEČNÍ  | 414 |
-|Písně o stavích, živnostech a jiných stránkách života občanského  |  385 |
-|MILOSTNÉ  |  370 |
-|Písně a říkadla výroční  | 310 |
-|SVATEBNÍ | 204 |
-| Písně společenské  | 129 |
-| DĚTSKÉ | 88 |
-| VOJENSKÉ     | 86 |
-| KOLEDY | 49 |
+| young_people  | 794 |
+| entertainment_and_dance  | 414 |
+| business_and_civil  |  385 |
+| love |  370 |
+| calendar  | 310 |
+| wedding | 204 |
+| social_life | 129 |
+| children | 88 |
+| military     | 86 |
+| carols | 49 |
 
 
 **KO:**
@@ -71,13 +110,13 @@ KO: [https://github.com/danbinaerinHan/finding-tori/](https://github.com/danbina
 **ET:**
 |label | count |
 |-------|----------:|
-|laulud_noorrahva_elust               |  715|
-|laulud_meelelahutamiseks             |  533|
-|laulud_uhiskondlikest_vahekordadest  |  400|
-|toolaulud                            |  398|
-|looduslaulud                         |  378|
-|kalendarilaulud                      |  303|
-|laulud_abielust                      |  231|
-|laulud_kodust_ja_lapsepolvest        |  208|
-|murelaulud                           |  206|
-|lastelaulud                          |  181|
+|youth_life              |  715|
+|entertainment            |  533|
+| social_relationships |  400|
+| work                            |  398|
+| nature                         |  378|
+| calendar                     |  303|
+| marriage                     |  231|
+| home_and_childhood       |  208|
+| worry                          |  206|
+| children                      |  181|
