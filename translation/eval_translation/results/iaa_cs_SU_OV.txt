@@ -1,5 +1,13 @@
 Cohen's kappa for overallRating: 0.1486
+Ratings 1: [4, 4, 5, 5, 2, 3, 3, 5, 4, 4, 5, 5, 4, 4]
+Ratings 2: [4, 3, 4, 5, 2, 3, 5, 5, 3, 3, 3, 4, 3, 3]
+Difference in ratings: [0, 1, 1, 0, 0, 0, -2, 0, 1, 1, 2, 1, 1, 1]
+Mean difference in ratings: 0.5
+
 Cohen's kappa for hallucination: 0.4286
+Hallucination 1: ['no', 'yes', 'no', 'no', 'yes', 'yes', 'yes', 'no', 'no', 'no', 'yes', 'no', 'yes', 'yes']
+Hallucination 2: ['no', 'yes', 'no', 'no', 'yes', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'yes', 'no']
+
 Mean Cohen's kappa for word-level labels: 0.2681
 Kappa for word-level labels per song: [0.11614730878186974, 0.31836786902020975, 0.7116968698517299, 0.3290488431876607, 0.27419354838709675, 0.21923076923076912, -0.11111111111111116, 0.24615384615384606, 0.316711590296496, 0.24899598393574296, 0.019790888722927447, 0.2746987951807228, 0.2182741116751269, 0.5714285714285714]
 Mean accuracy for important word-level labels: 0.9428
