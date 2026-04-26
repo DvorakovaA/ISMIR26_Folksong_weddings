@@ -6,10 +6,16 @@ Reads the parquet from BerTopic pipeline,
 runs stratified 5-fold cross-validation with held-out test set (20 %),
 evaluates with F-score, and produces confusion matrices + per-label
 difficulty analysis.
+In each fold, PCA is fitted on the training split to avoid data leakage, 
+and the same transformation is applied to the validation split.
+Offers two subsampling strategies to mitigate class imbalance:
+1) "gap": identifies the largest gap in class frequencies
+    and subsamples all classes above the gap to the size of the class just below it.
+2) "fifth": subsamples the top 4 most frequent classes to the size of the 5th most frequent class.
 
 Expected input parquet columns:
     id, assigned_topic, topic_label, label, topic_0 ... topic_K
-
+    (possibly lang column)
 
 Dependencies:
     pip install pandas numpy scikit-learn pyarrow matplotlib seaborn tqdm
@@ -143,7 +149,7 @@ def subsample_class(X: np.ndarray, y: np.ndarray, target_class: int,
 
 def run_cross_valid(pipeline: Pipeline, X: np.ndarray, y: np.ndarray, 
                    class_names : list[str], n_splits: int = 5, random_seed: int = 42,
-                   subsample : bool = False, pca_variance : float = 0.95):
+                   subsample : bool = False, subs_strategy : str = "gap", pca_variance : float = 0.95):
     """
     Stratified k-fold cross validation.
     Returns per-fold results.
@@ -155,13 +161,19 @@ def run_cross_valid(pipeline: Pipeline, X: np.ndarray, y: np.ndarray,
     all_y_pred = []
 
     if subsample:
-        # Determine which classes to subsample based on overall class distribution.
-        # Sort classes by frequency and look for the largest gap to find a cutoff.
         counts = pd.Series(y).value_counts().sort_values(ascending=False)
-        diffs = counts.values[:-1] - counts.values[1:]
-        gap_idx = diffs.argmax()
-        subsample_class_ids = [i for i in counts.index[:gap_idx + 1]]
-        subsample_max = counts.iloc[gap_idx + 1]
+        if subs_strategy == "gap":
+            # Determine which classes to subsample based on overall class distribution.
+            # Sort classes by frequency and look for the largest gap to find a cutoff.
+            diffs = counts.values[:-1] - counts.values[1:]
+            gap_idx = diffs.argmax()
+            subsample_class_ids = [i for i in counts.index[:gap_idx + 1]]
+            subsample_max = counts.iloc[gap_idx + 1]
+        elif subs_strategy == "fifth":
+            # Subsample four biggest classes to the size of the fifth
+            subsample_class_ids = [i for i in counts.index[:5]]
+            subsample_max = counts.iloc[4]
+        
         log.info(f"Subsampling enabled. Will subsample classes {', '.join(class_names[i] for i in subsample_class_ids)} to max {subsample_max} samples in each fold's training split.")
 
     for fold, (tr, val) in enumerate(skf.split(X, y), 1):
@@ -395,6 +407,9 @@ def parse_args() -> argparse.Namespace:
                    help="PCA variance to retain (default: 0.95).")
     p.add_argument("--subsample", default=False, action="store_true",
                    help="Whether to subsample classes within each fold's training split.")
+    p.add_argument("--s_strategy", default="gap", choices=["gap", "fifth"],
+                   help="Subsampling strategy: 'gap' finds largest gap in class frequencies to determine cutoff; " \
+                   "'fifth' subsamples top 4 classes to size of 5th (default: 'gap').")
     p.add_argument("--rbf-C",      type=float, default=1.0)
     p.add_argument("--rbf-gamma",  default="scale")
     p.add_argument("--linear-C",   type=float, default=0.1)
@@ -431,7 +446,7 @@ def main() -> None:
         
         cv_results = run_cross_valid(pipeline, X, y, n_splits=args.n_folds, 
                                      class_names=class_names, random_seed=args.seed,
-                                     subsample=args.subsample)
+                                     subsample=args.subsample, subs_strategy=args.s_strategy, pca_variance=args.pca_variance)
 
         log.info(f"CV  macro-F1 = {cv_results['mean_f1_macro']:.4f} ~ {cv_results['std_f1_macro']:.4f}")
 
