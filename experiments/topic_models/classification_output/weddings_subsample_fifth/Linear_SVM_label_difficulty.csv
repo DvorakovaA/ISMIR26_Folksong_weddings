@@ -1,0 +1,6 @@
+model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
+Linear_SVM,et,20,0.3889,0.35,0.3684,0.65,cs,0.5
+Linear_SVM,cs,42,0.3788,0.5952,0.463,0.4048,nl,0.1667
+Linear_SVM,uk,51,0.5745,0.5294,0.551,0.4706,cs,0.2353
+Linear_SVM,nl,30,0.5946,0.7333,0.6567,0.2667,cs,0.1667
+Linear_SVM,ko,96,0.831,0.6146,0.7066,0.3854,cs,0.1458
