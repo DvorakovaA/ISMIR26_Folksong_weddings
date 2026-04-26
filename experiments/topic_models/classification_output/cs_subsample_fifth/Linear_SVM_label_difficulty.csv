@@ -1,0 +1,11 @@
+model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
+Linear_SVM,children,18,0.0,0.0,0.0,1.0,business_and_civil,0.3889
+Linear_SVM,carols,10,0.0,0.0,0.0,1.0,young_people,0.4
+Linear_SVM,military,16,0.0,0.0,0.0,1.0,entertainment_and_dance,0.5
+Linear_SVM,social_life,25,0.0,0.0,0.0,1.0,business_and_civil,0.48
+Linear_SVM,wedding,42,0.0,0.0,0.0,1.0,love,0.3333
+Linear_SVM,business_and_civil,77,0.0707,0.0909,0.0795,0.9091,entertainment_and_dance,0.3247
+Linear_SVM,entertainment_and_dance,83,0.2308,0.3614,0.2817,0.6386,young_people,0.241
+Linear_SVM,love,73,0.2393,0.3836,0.2947,0.6164,young_people,0.274
+Linear_SVM,calendar,62,0.4359,0.2742,0.3366,0.7258,business_and_civil,0.2419
+Linear_SVM,young_people,159,0.4022,0.4528,0.426,0.5472,love,0.2327
