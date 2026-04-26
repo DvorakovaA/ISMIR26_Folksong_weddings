@@ -175,9 +175,10 @@ def run_cross_valid(pipeline: Pipeline, X: np.ndarray, y: np.ndarray,
 
         # PCA: fit on training split only to avoid data leakage, then transform both train and val
         fold_pca = PCA(n_components=pca_variance, svd_solver="full", whiten=True, random_state=random_seed)
+        original_components = X_tr.shape[1]
         X_tr  = fold_pca.fit_transform(X_tr)
         X_val = fold_pca.transform(X[val])
-        log.info(f"  Fold {fold} PCA: {X_tr.shape[1]} -> {fold_pca.n_components_} components ")
+        log.info(f"  Fold {fold} PCA: {original_components} -> {fold_pca.n_components_} components ")
 
         pipeline.fit(X_tr, y_tr)
 
@@ -464,7 +465,7 @@ def main() -> None:
                               output_path=str(out / f"{model_name}_cv_aggregate_confusion_matrix_normalised.png"),
                               normalise=True
         )
-
+        
         # Per-label difficulty
         for i,  report_dict in enumerate(cv_results["report_dicts"]):
             difficulty = analyse_label_difficulty(
@@ -477,7 +478,7 @@ def main() -> None:
                 output_path=str(out / f"{model_name}_label_difficulty.png"),
             )
             all_difficulty.append(difficulty)
-
+        
         summary_rows.append({
             "model": model_name,
             "cv_macro_f1_mean": round(cv_results["mean_f1_macro"], 4),
@@ -495,7 +496,7 @@ def main() -> None:
     summary_df = pd.DataFrame(summary_rows)
     summary_df.to_csv(out / "complete_summary.csv", index=False)
     log.info(f"Summary:\n{summary_df.to_string(index=False)}")
- 
+    
     # Combined difficulty comparison
     if len(all_difficulty) == 2:
         combined = pd.merge(

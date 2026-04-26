@@ -7,8 +7,8 @@ ET: [https://www.folklore.ee/regilaul/andmebaas/?ln=en](https://www.folklore.ee/
 NL: [https://www.liederenbank.nl/index.php?lan=en](https://www.liederenbank.nl/index.php?lan=en)  
 KO: [https://github.com/danbinaerinHan/finding-tori/](https://github.com/danbinaerinHan/finding-tori/)
   
-
-Following procedures were applied to obtain texts:
+----------
+## Notes on individual corpora
 ### CS
 Erben (Prostonárodní české písně a říkadla) + Homolka Praha + Homolka Podřipko + Thořová Havlíčkobrodsko   
 (Texts in form of .txt files were obtained from EI CAS.)
@@ -18,11 +18,12 @@ Erben (Prostonárodní české písně a říkadla) + Homolka Praha + Homolka Po
 Scraped (with permission) using keywords search of following search **keywords**:  
  bruiloftslied, begrafenislied, verjaardagslied, ambachtslied, zeemanslied, soldatenlied, wiegelied, schommellied, driekoningenlied, sinterklaaslied, kinderlied, anti-huwelijkslied  
   
-Selected songs from 18th, 19th and 20th century collections.
+Selected songs from 18th, 19th and 20th century collections.   
+Search keywords (translated to English) were used as labels.
 
 
 ### ET
-**Filtration applied: ** 
+**Filtration applied:**   
 Region: Järvamaa  
 Upper groups:  
 Looduslaulud, Kalendrilaulud, 
@@ -40,7 +41,7 @@ Loitsud
   
 -> XML export for each group  
   
-After that, songs which were found in exports for more than one upper group were discarded.
+After that, songs which were found in exports for more than one upper group were discarded, otherwise the upper group was used as label (later translated).  
 
 ### UK and KO
 Whole distributed set from respective GitHubs
@@ -49,7 +50,7 @@ Whole distributed set from respective GitHubs
 ## Distribution of typological labels in sets selected for classification experiments
 As for the classification experiment we picked only songs with ten most frequent labels.
 
-**NL:**  
+### NL: 
 |label | count |
 |-------|----------:|
 |children         | 1491  |
@@ -63,7 +64,7 @@ As for the classification experiment we picked only songs with ten most frequent
 |lullaby         |   38  |
 |christmas      |    24  |
 
-**CS:**
+### CS:
 |label | count |
 |-------|----------:|
 | young_people  | 794 |
@@ -78,7 +79,7 @@ As for the classification experiment we picked only songs with ten most frequent
 | carols | 49 |
 
 
-**KO:**
+### KO:
 |label | count |
 |-------|----------:|
 |Work_agricultural     |    3663 |
@@ -92,7 +93,7 @@ As for the classification experiment we picked only songs with ten most frequent
 |etc_minstrel          |     245 |
 |Entertainment_children |    227 |
 
-**UK:**
+## UK:
 |label | count |
 |-------|----------:|
 |Non-ritual_Ballad            | 300 |
@@ -107,7 +108,7 @@ As for the classification experiment we picked only songs with ten most frequent
 |Non-ritual_Romance        |     27 |
 
 
-**ET:**
+### ET:
 |label | count |
 |-------|----------:|
 |youth_life              |  715|
@@ -120,3 +121,59 @@ As for the classification experiment we picked only songs with ten most frequent
 | home_and_childhood       |  208|
 | worry                          |  206|
 | children                      |  181|
+
+
+---------------------------
+---------------------------
+For CS and ET we used this label translation:
+```
+LABEL_TRANSLATION = {
+    "cs": {'SVATEBNÍ' : 'wedding',
+           'MILOSTNÉ' : 'love',
+           'Písně o stavích, živnostech a jiných stránkách života občanského' : 'bussiness_and_civil',
+           'Písně věku mládeneckého a panenského' : 'young_people',
+           'ŽERTOVNÉ A TANEČNÍ' : 'entertainment_and_dance',
+           'DĚTSKÉ' : 'children',
+           'KOLEDY' :'carols',
+           'VOJENSKÉ' : 'military',
+           'Písně společenské' : 'social_life',
+           'Písně a říkadla výroční' : 'calendar'
+    },
+    "et": {'kalendarilaulud' : 'calendar',
+            'lastelaulud' : 'children',
+            'laulud_abielust' : 'marriage',
+            'laulud_kodust_ja_lapsepolvest' : 'home_and_childhood',
+            'laulud_meelelahutamiseks' : 'entertainment',
+            'laulud_noorrahva_elust' : 'youth_life',
+            'laulud_uhiskondlikest_vahekordadest' : 'songs about social relationships',
+            'looduslaulud' : 'nature',
+            'murelaulud' : 'worry',
+            'toolaulud' : 'work'
+    }
+}
+```
+---------------------------
+---------------------------
+For CS this label changes (leading to unification of some classes) were applied:  
+
+```
+SECTION_MAPPING = {
+    'PIJÁCKÉ PÍSNĚ': 'PIJÁCKÉ',
+    "MILOSTNÉ PÍSNĚ": "MILOSTNÉ",
+    "ŽERTOVNÉ PÍSNĚ": "ŽERTOVNÉ A TANEČNÍ",
+    "TANEČNÍ PÍSNĚ": "ŽERTOVNÉ A TANEČNÍ",
+    "ŽERTOVNÉ A TANEČNÍ PÍSNĚ": "ŽERTOVNÉ A TANEČNÍ",
+    "TANEČNÍ A ŽERTOVNÉ PÍSNĚ": "ŽERTOVNÉ A TANEČNÍ",
+    "PÍSNĚ VOJENSKÁ A O VOJNĚ" : "VOJENSKÉ",
+    "PÍSNĚ VOJENSKÉ A O VOJNĚ": "VOJENSKÉ",
+    "PÍSNĚ O VOJNĚ": "VOJENSKÉ",
+    "VELIKONOČNÍ KOLEDY": "KOLEDY",
+    "VÁNOČNÍ KOLEDY": "KOLEDY",
+    "Dětské hry" : "DĚTSKÉ",
+    "Věk dětský" : "DĚTSKÉ",
+    "Dětská počítadla" : "DĚTSKÉ",
+    "Písně a říkadla svatební" : "SVATEBNÍ",
+    "DĚTSKÉ PÍSNĚ A POPĚVKY" : "DĚTSKÉ",
+    "Písně pohřební" : "POHŘEBNÍ",
+}
+```

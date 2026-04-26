@@ -54,6 +54,7 @@ import numpy as np
 
 from sklearn.metrics import cohen_kappa_score
 import matplotlib.pyplot as plt
+from scipy.stats import spearmanr
 
 from collections import Counter
 
@@ -308,6 +309,48 @@ def main(args):
     plt.yticks(fontsize=12)
     plt.savefig(os.path.join(args.plot_dir, 'correctness_vs_unusualLanguage_all_languages.png'))
     plt.close()
+    
+    # Measure Spearman correlation
+    all_correctness = []
+    all_unusual_numeric = []
+    all_ratings = []
+    level_mapping = {'none': 0, 'barely': 1, 'significantly': 2}
+    for l, evaluations in evaluations_per_language.items():
+        correctness = []
+        unusual_levels = []
+        ratings = []
+        for i, e in enumerate(evaluations):
+            # Exclude duplicate songs, if any.
+            if i + 1 in DUPLICATE_SONGS_MAP.get(l, [])[1:]:
+                continue
+
+            n_correct = sum(1 for w in e['words'] if w['status'] == 'correct')
+            n_wrong = sum(1 for w in e['words'] if w['status'] == 'wrong')
+            mean_correctness = n_correct / (n_correct + n_wrong) if (n_correct + n_wrong) > 0 else 0
+            
+            unusual_level = e.get('unusualLanguage', 'none')
+            
+            if e['overallRating'] is not None:
+                ratings.append(e['overallRating'])
+                correctness.append(mean_correctness)
+                unusual_levels.append(unusual_level)
+                all_correctness.append(mean_correctness)
+                all_unusual_numeric.append(level_mapping.get(unusual_level, 1))
+                all_ratings.append(e['overallRating'])
+
+        # Convert unusual language levels to numeric values for correlation.
+        unusual_numeric = [level_mapping.get(level, 1) for level in unusual_levels]
+
+        corr_unusual, _ = spearmanr(correctness, unusual_numeric)
+        corr_rating, _ = spearmanr(correctness, ratings)
+        logging.info('Spearman correlation correctness vs unusual language for {}: {:.3f}'.format(l, corr_unusual))
+        logging.info('Spearman correlation correctness vs overall rating for {}: {:.3f}'.format(l, corr_rating))
+    
+    corr_unusual_all, _ = spearmanr(all_correctness, all_unusual_numeric)
+    corr_rating_all, _ = spearmanr(all_correctness, all_ratings)
+    logging.info('Spearman correlation correctness vs unusual language across all languages: {:.3f}'.format(corr_unusual_all))
+    logging.info('Spearman correlation correctness vs overall rating across all languages: {:.3f}'.format(corr_rating_all))
+    
     
     _end_time = time.process_time()
     logging.info('evaluate_machine_translation.py done in {0:.3f} s'.format(_end_time - _start_time))
