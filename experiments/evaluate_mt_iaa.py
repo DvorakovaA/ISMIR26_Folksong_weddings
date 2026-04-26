@@ -47,12 +47,12 @@ import numpy as np
 from sklearn.metrics import cohen_kappa_score
 
 iaa_pairs = {
-    'cs' : ('folksong_mt_czech_SU.json', 'folksong_mt_czech_OV.json'),
-    'uk' : ('folksong_mt_ukrainian_DB.json', 'folksong_mt_ukrainian_IL.json'),
+    'cs' : ('folksong_mt_czech_XXXX-9.json', 'folksong_mt_czech_XXXX-10.json'),
+    'uk' : ('folksong_mt_ukrainian_XXXX-8.json', 'folksong_mt_ukrainian_XXXX-11.json'),
 }
 
 __version__ = "0.0.1"
-__author__ = {"0.0.1" : "Anna Dvorakova"}
+__author__ = {"0.0.1" : "XXXX-1 XXXX-2"}
 
 DUPLICATE_SONGS_MAP = {
     'cs': [4, 14],

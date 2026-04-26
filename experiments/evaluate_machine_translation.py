@@ -60,16 +60,16 @@ from collections import Counter
 
 
 __version__ = "0.0.2"
-__author__ = {"0.0.1" : "Jan Hajic jr.", 
-              "0.0.2" : "Anna Dvorakova"}
+__author__ = {"0.0.1" : "XXXX-3 XXXX-4 XXXX-5", 
+              "0.0.2" : "XXXX-1 XXXX-2"}
 
 
 JSONS_MAP = {
-    'cs': 'folksong_mt_czech_OV.json',
-    'et': 'folksong_mt_estonian_AA.json',
-    'ko': 'folksong_mt_korean_DH.json',
-    'nl': 'folksong_mt_dutch_PvK.json',
-    'uk': 'folksong_mt_ukrainian_IL.json'
+    'cs': 'folksong_mt_czech_XXXX-10.json',
+    'et': 'folksong_mt_estonian_XXXX-6.json',
+    'ko': 'folksong_mt_korean_XXXX-12.json',
+    'nl': 'folksong_mt_dutch_XXXX-7.json',
+    'uk': 'folksong_mt_ukrainian_XXXX-11.json'
 }
 
 DUPLICATE_SONGS_MAP = {
