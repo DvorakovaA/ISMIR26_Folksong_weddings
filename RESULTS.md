@@ -55,7 +55,9 @@ Linear_SVM,0.2347,411.4
 ```
 
 -------------------------------------
-#### CS using original labels without merging on same data selected by merging
+#### CS using original labels without merging on same data selected by default picked merging
+Showing one fold...
+
 ![](experiments/topic_models/classification_output/cs_orig_labels/RBF_SVM_cv_fold_confusion_matrix_counts_fold_0.png)
 
 

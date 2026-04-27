@@ -1,0 +1,54 @@
+Model: RBF_SVM
+
+Fold 1:
+                                                                  precision    recall  f1-score   support
+
+                                          DĚTSKÉ PÍSNĚ A POPĚVKY       0.06      0.11      0.08         9
+                                                Dětská počítadla       0.00      0.00      0.00        16
+                                                      Dětské hry       0.00      0.00      0.00         3
+                                                          KOLEDY       0.24      0.32      0.27        19
+                                                  MILOSTNÉ PÍSNĚ       0.22      0.67      0.33       185
+                                                   PÍSNĚ O VOJNĚ       0.00      0.00      0.00         1
+                                        PÍSNĚ VOJENSKÉ A O VOJNĚ       0.13      0.53      0.21        40
+                                        Písně a říkadla svatební       0.11      0.05      0.07       102
+                                         Písně a říkadla výroční       0.32      0.12      0.17       155
+Písně o stavích, živnostech a jiných stránkách života občanského       0.20      0.04      0.06       192
+                                               Písně společenské       0.30      0.18      0.23        65
+                            Písně věku mládeneckého a panenského       0.46      0.12      0.19       397
+                                                        SVATEBNÍ       0.00      0.00      0.00         3
+                                              VELIKONOČNÍ KOLEDY       0.00      0.00      0.00         3
+                                                  VÁNOČNÍ KOLEDY       0.00      0.00      0.00         2
+                                                      Věk dětský       0.38      0.31      0.34        16
+                                              ŽERTOVNÉ A TANEČNÍ       0.19      0.32      0.24       207
+
+                                                        accuracy                           0.22      1415
+                                                       macro avg       0.15      0.16      0.13      1415
+                                                    weighted avg       0.28      0.22      0.19      1415
+
+
+Fold 2:
+                                                                  precision    recall  f1-score   support
+
+                                          DĚTSKÉ PÍSNĚ A POPĚVKY       0.20      0.11      0.14         9
+                                                Dětská počítadla       0.11      0.06      0.08        16
+                                                      Dětské hry       0.00      0.00      0.00         3
+                                                          KOLEDY       0.11      0.20      0.14        20
+                                                  MILOSTNÉ PÍSNĚ       0.22      0.69      0.33       185
+                                                   PÍSNĚ O VOJNĚ       0.00      0.00      0.00         1
+                                        PÍSNĚ VOJENSKÉ A O VOJNĚ       0.17      0.33      0.22        39
+                                        Písně a říkadla svatební       0.17      0.09      0.12       102
+                                         Písně a říkadla výroční       0.36      0.14      0.20       155
+Písně o stavích, živnostech a jiných stránkách života občanského       0.21      0.37      0.27       193
+                                               Písně společenské       0.29      0.19      0.23        64
+                            Písně věku mládeneckého a panenského       0.40      0.10      0.15       397
+                                                        SVATEBNÍ       0.00      0.00      0.00         2
+                                              VELIKONOČNÍ KOLEDY       0.00      0.00      0.00         3
+                                                  VÁNOČNÍ KOLEDY       0.00      0.00      0.00         2
+                                                      Věk dětský       0.21      0.19      0.20        16
+                                              ŽERTOVNÉ A TANEČNÍ       0.26      0.12      0.16       207
+
+                                                        accuracy                           0.23      1414
+                                                       macro avg       0.16      0.15      0.13      1414
+                                                    weighted avg       0.28      0.23      0.20      1414
+
+
