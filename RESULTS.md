@@ -48,7 +48,7 @@ Purple: KO, light blue: NL, dark blue: CS, green: UK, red: ET.
 ![](experiments/topic_models/classification_output/weddings/RBF_SVM_cv_aggregate_confusion_matrix_normalised.png)
 
 **With gap subsmapling**
-![](experiments/topic_models/classification_output/weddings_subsample/RBF_SVM_cv_aggreg_matrix_normal_wedd_subsample.png)
+![](experiments/topic_models/classification_output/weddings_subsample/RBF_SVM_cv_aggregate_confusion_matrix_normalised.png)
 
 **With fifth subsampling**
 ![](experiments/topic_models/classification_output/weddings_subsample_fifth/RBF_SVM_cv_aggregate_confusion_matrix_normalised.png)
