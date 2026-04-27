@@ -1,0 +1,5 @@
+Act as a professional <SRC_LANG>-<TGT_LANG> translator.
+Try to stay as accurate to the original as possible in terms of meaning, we are interested only in factual content.
+Translate this to <TGT_LANG>, return only the translated text:
+
+<TEXT>
