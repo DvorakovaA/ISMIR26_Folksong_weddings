@@ -154,7 +154,7 @@ def main(args):
             f.write(f"Ratings 1: {ratings1}\n")
             f.write(f"Ratings 2: {ratings2}\n")
             f.write(f"Difference in ratings: {[r1 - r2 for r1, r2 in zip(ratings1, ratings2)]}\n")
-            f.write(f"Mean difference in ratings: {np.mean([r1 - r2 for r1, r2 in zip(ratings1, ratings2)])}\n\n")
+            f.write(f"Mean difference in ratings: {np.mean([np.abs(r1 - r2) for r1, r2 in zip(ratings1, ratings2)])}\n\n")
             f.write(f"Cohen's kappa for hallucination: {kappa_hallucination:.4f}\n")
             f.write(f"Hallucination 1: {hallucinations1}\n")
             f.write(f"Hallucination 2: {hallucinations2}\n\n")
@@ -166,9 +166,9 @@ def main(args):
 
 def build_argument_parser():
     parser = argparse.ArgumentParser(description='Evaluate IAA of machine translation evaluation results.')
-    parser.add_argument('-i', '--input_dir', type=str, default='data/evaluation_results/',
+    parser.add_argument('-i', '--input_dir', type=str, default='data/evaluation/annotations/',
                         help='Directory containing the evaluation results JSON files.')
-    parser.add_argument('-o', '--output_dir', type=str, default='data/iaa_results/',
+    parser.add_argument('-o', '--output_dir', type=str, default='data/evaluation/iaa_results/',
                         help='Directory where the IAA results will be saved.')
     parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose logging.')
     return parser

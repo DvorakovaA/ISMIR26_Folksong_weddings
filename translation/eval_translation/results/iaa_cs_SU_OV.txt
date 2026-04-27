@@ -2,7 +2,7 @@ Cohen's kappa for overallRating: 0.1486
 Ratings 1: [4, 4, 5, 5, 2, 3, 3, 5, 4, 4, 5, 5, 4, 4]
 Ratings 2: [4, 3, 4, 5, 2, 3, 5, 5, 3, 3, 3, 4, 3, 3]
 Difference in ratings: [0, 1, 1, 0, 0, 0, -2, 0, 1, 1, 2, 1, 1, 1]
-Mean difference in ratings: 0.5
+Mean difference in ratings: 0.7857142857142857
 
 Cohen's kappa for hallucination: 0.4286
 Hallucination 1: ['no', 'yes', 'no', 'no', 'yes', 'yes', 'yes', 'no', 'no', 'no', 'yes', 'no', 'yes', 'yes']
