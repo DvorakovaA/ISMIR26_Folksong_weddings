@@ -145,7 +145,7 @@ LABEL_TRANSLATION = {
             'laulud_kodust_ja_lapsepolvest' : 'home_and_childhood',
             'laulud_meelelahutamiseks' : 'entertainment',
             'laulud_noorrahva_elust' : 'youth_life',
-            'laulud_uhiskondlikest_vahekordadest' : 'songs about social relationships',
+            'laulud_uhiskondlikest_vahekordadest' : 'social_relationships',
             'looduslaulud' : 'nature',
             'murelaulud' : 'worry',
             'toolaulud' : 'work'
@@ -175,5 +175,19 @@ SECTION_MAPPING = {
     "Písně a říkadla svatební" : "SVATEBNÍ",
     "DĚTSKÉ PÍSNĚ A POPĚVKY" : "DĚTSKÉ",
     "Písně pohřební" : "POHŘEBNÍ",
+}
+```
+And after this unification we translated selected ten most common labels into English:
+```
+"cs": {'SVATEBNÍ' : 'wedding',
+        'MILOSTNÉ' : 'love',
+        'Písně o stavích, živnostech a jiných stránkách života občanského' : 'bussiness_and_civil',
+        'Písně věku mládeneckého a panenského' : 'young_people',
+        'ŽERTOVNÉ A TANEČNÍ' : 'entertainment_and_dance',
+        'DĚTSKÉ' : 'children',
+        'KOLEDY' :'carols',
+        'VOJENSKÉ' : 'military',
+        'Písně společenské' : 'social_life',
+        'Písně a říkadla výroční' : 'calendar'
 }
 ```
