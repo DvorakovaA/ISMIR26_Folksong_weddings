@@ -1,0 +1,64 @@
+Input: .\bertopic_output\probabilities_wedding.parquet
+Documents: 1,197   Topics: 2376
+
+GLOBAL SOFT TOPIC STATISTICS
+
+Top 15 topics by mean probability mass across corpus:
+     topic   mean_prob
+2_married_divorced_couple_remarried     0.01838
+487_oblast_soviet_yuri_grandmother     0.01250
+1013_law_jurisprudence_judicial_statutes     0.01235
+1932_law_laws_theological_morality     0.01234
+350_holiday_celebrates_holidays_celebrated     0.01213
+1409_missionaries_charity_nuns_orphanages     0.01213
+192_polygamous_polygamy_polyamory_polygamists     0.01059
+790_degree_bachelor_diploma_qualification     0.00940
+2133_niece_grandmother_1918_aunt     0.00770
+1581_mix_albums_little_remix     0.00757
+1513_redheads_redhead_reddish_ginger     0.00732
+1915_fate_fates_doctor_doctorate     0.00690
+812_baker_divorced_remarried_stepfather     0.00668
+938_ford_presidency_presidential_presidents     0.00590
+810_butter_gluten_flour_glutenin     0.00577
+
+
+Topics needed to cover 50% of prob mass per doc: mean=22.3  median=5  max=2377
+Topics needed to cover 80% of prob mass per doc: mean=31.0  median=12  max=2377
+Topics needed to cover 95% of prob mass per doc: mean=40.4  median=20  max=2377
+
+
+PER-LANG SOFT TOPIC PROFILES
+
+Label: cs  (n=211)
+  Mean entropy: 2.2257 ± 0.8166
+  Top 5 topics (soft):
+    1. topic_2_married_divorced_couple_remarried  mean_prob=0.01920
+    2. topic_1581_mix_albums_little_remix  mean_prob=0.01672
+    3. topic_107_anthrax_slayer_thrash_bands  mean_prob=0.01626
+    4. topic_487_oblast_soviet_yuri_grandmother  mean_prob=0.01513
+    5. topic_441_woman_wonder_goddess_feminist  mean_prob=0.01409
+
+Label: et  (n=100)
+  Mean entropy: 3.0207 ± 0.8144
+  Top 5 topics (soft):
+    1. topic_2163_sausage_sausages_bun_chili  mean_prob=0.02519
+    2. topic_1756_horse_horses_cavalry_rode  mean_prob=0.01848
+    3. topic_1013_law_jurisprudence_judicial_statutes  mean_prob=0.01790
+    4. topic_1502_rooms_room_palace_furnishings  mean_prob=0.01733
+    5. topic_1932_law_laws_theological_morality  mean_prob=0.01450
+
+Label: ko  (n=480)
+  Mean entropy: 3.0122 ± 0.7865
+  Top 5 topics (soft):
+    1. topic_2_married_divorced_couple_remarried  mean_prob=0.02595
+    2. topic_1932_law_laws_theological_morality  mean_prob=0.02519
+    3. topic_1013_law_jurisprudence_judicial_statutes  mean_prob=0.02467
+    4. topic_487_oblast_soviet_yuri_grandmother  mean_prob=0.01680
+    5. topic_2133_niece_grandmother_1918_aunt  mean_prob=0.01512
+
+Label: nl  (n=149)
+  Mean entropy: 3.1085 ± 0.6779
+  Top 5 topics (soft):
+    1. topic_192_polygamous_polygamy_polyamory_polygamists  mean_prob=0.04253
+    2. topic_2312_painting_paintings_painter_paint  mean_prob=0.02913
+    3. topic_1446_happiness_wellbeing_unhappiness_happier  mean_prob=0.02427
