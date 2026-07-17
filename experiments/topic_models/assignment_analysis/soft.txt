@@ -3,7 +3,7 @@ Documents: 1,197   Topics: 2376
 
 GLOBAL SOFT TOPIC STATISTICS
 
-Top 15 topics by mean probability mass across corpus:
+Top 20 topics by mean probability mass across corpus:
      topic   mean_prob
 2_married_divorced_couple_remarried     0.01838
 487_oblast_soviet_yuri_grandmother     0.01250
@@ -20,12 +20,18 @@ Top 15 topics by mean probability mass across corpus:
 812_baker_divorced_remarried_stepfather     0.00668
 938_ford_presidency_presidential_presidents     0.00590
 810_butter_gluten_flour_glutenin     0.00577
+893_paternal_stepfather_nazi_illegitimate     0.00559
+107_anthrax_slayer_thrash_bands     0.00558
+1862_quixotic_literature_chivalric_novel     0.00558
+1690_doll_child_dolls_voiced     0.00542
+2048_biblical_patriarch_prophethood_genesis     0.00523
 
+Per-document entropy (nats):
+  mean=2.7139  std=0.8897  min=-0.0000  max=4.7760
 
 Topics needed to cover 50% of prob mass per doc: mean=22.3  median=5  max=2377
 Topics needed to cover 80% of prob mass per doc: mean=31.0  median=12  max=2377
 Topics needed to cover 95% of prob mass per doc: mean=40.4  median=20  max=2377
-
 
 PER-LANG SOFT TOPIC PROFILES
 
@@ -62,3 +68,71 @@ Label: nl  (n=149)
     1. topic_192_polygamous_polygamy_polyamory_polygamists  mean_prob=0.04253
     2. topic_2312_painting_paintings_painter_paint  mean_prob=0.02913
     3. topic_1446_happiness_wellbeing_unhappiness_happier  mean_prob=0.02427
+    4. topic_558_albums_songs_toured_1973  mean_prob=0.02047
+    5. topic_1690_doll_child_dolls_voiced  mean_prob=0.01825
+
+Label: uk  (n=257)
+  Mean entropy: 2.2093 ± 0.8462
+  Top 5 topics (soft):
+    1. topic_810_butter_gluten_flour_glutenin  mean_prob=0.02250
+    2. topic_1409_missionaries_charity_nuns_orphanages  mean_prob=0.01836
+    3. topic_515_ribbons_ribbon_gallantry_medals  mean_prob=0.01811
+    4. topic_350_holiday_celebrates_holidays_celebrated  mean_prob=0.01538
+    5. topic_1901_sat_exams_exam_admissions  mean_prob=0.01290
+
+Between-label cosine similarity of mean topic profiles:
+                cs        et        ko        nl        uk
+      cs     1.000     0.504     0.472     0.416     0.548
+      et     0.504     1.000     0.534     0.228     0.440
+      ko     0.472     0.534     1.000     0.264     0.456
+      nl     0.416     0.228     0.264     1.000     0.310
+      uk     0.548     0.440     0.456     0.310     1.000
+
+Most similar label pairs (by topic profile):
+  cs <-> uk:  0.5482
+  et <-> ko:  0.5337
+  cs <-> et:  0.5043
+  cs <-> ko:  0.4718
+  ko <-> uk:  0.4556
+  et <-> uk:  0.4401
+  cs <-> nl:  0.4155
+  nl <-> uk:  0.3097
+  ko <-> nl:  0.2641
+  et <-> nl:  0.2281
+
+TOPIC DOMINANCE ANALYSIS
+
+Max topic probability per doc:    mean=0.2087  std=0.1599
+2nd topic probability per doc:    mean=0.1251  std=0.0696
+Dominance gap (max - 2nd):        mean=0.0836  std=0.1416
+
+20 most thematically ambiguous documents (smallest dominance gap):
+                  id                 label                       top_topic                   second_topic      gap
+            Erb_1942                    cs  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+            Erb_2112                    cs  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+          uljin-0613                    ko  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+          boeun-0412                    ko  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+        yecheon-0423                    ko  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+         haenam-0511                    ko  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+      gwangjusi-0147                    ko  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+young_wedding_both_406                    nl  0_goalscorer_scored_goals_goal | 2373_squads_squad_roster_players   0.0000
+          gunwi-0239                    ko  762_dragons_dragon_amulets_carvings | 937_braking_transmissions_brakes_automatic   0.0001
+      hampyeong-0612                    ko  522_fertility_overpopulation_childbearing_adoptions | 626_1783_minister_peerage_ministers   0.0001
+          jindo-0543                    ko   1211_sequels_ash_trilogy_evil | 1227_abolitionist_abolitionists_slavery_1850s   0.0001
+            Erb_2052                    cs  2282_rosemary_lobotomy_nuns_lobotomized | 1862_quixotic_literature_chivalric_novel   0.0002
+         hadong-0409                    ko  2_married_divorced_couple_remarried | 1533_hunger_uprisings_rebellion_capitol   0.0003
+        hamyang-0140                    ko  900_oyster_oysters_shellfish_crabs | 437_institutes_institute_universities_polytechnic   0.0003
+       eys0806530216                    et  213_showrunner_episode_showrunners_episodes | 2189_merger_aerospace_subsidiaries_acquisitions   0.0003
+       e000138100007                    et  2222_retailer_store_sales_shop | 1868_guardians_galaxy_marvel_2022   0.0003
+       yeongwol-0306                    ko  1013_law_jurisprudence_judicial_statutes | 937_braking_transmissions_brakes_automatic   0.0003
+        seongju-0303                    ko  1932_law_laws_theological_morality | 1012_violinist_violin_violins_albums   0.0004
+young_wedding_both_434                    nl     504_dubbed_dub_dubbing_dubs | 348_mandarin_dialects_languages_lingua   0.0004
+            Pod_1517                    uk  522_fertility_overpopulation_childbearing_adoptions | 626_1783_minister_peerage_ministers   0.0004
+
+Mean dominance gap per lang:
+  et                              mean=0.0474  std=0.0676
+  ko                              mean=0.0515  std=0.0792
+  nl                              mean=0.0528  std=0.0768
+  cs                              mean=0.1169  std=0.1768
+  uk                              mean=0.1483  std=0.2077
+
