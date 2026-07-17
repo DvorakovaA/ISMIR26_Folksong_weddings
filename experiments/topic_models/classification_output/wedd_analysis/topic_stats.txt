@@ -1,0 +1,153 @@
+Overall statistics:
+  Number of songs: 1197
+  Topics assigned: 373
+
+20 most prominent hard topics (sorted):
+  Topic 1013_law_jurisprudence_judicial_statutes: 54 songs
+  Topic 1513_redheads_redhead_reddish_ginger: 29 songs
+  Topic 2322_moon_drummer_drums_drummers: 29 songs
+  Topic 2_married_divorced_couple_remarried: 28 songs
+  Topic 1446_happiness_wellbeing_unhappiness_happier: 27 songs
+  Topic 1915_fate_fates_doctor_doctorate: 24 songs
+  Topic 1082_robots_robot_robotic_robotics: 21 songs
+  Topic 1409_missionaries_charity_nuns_orphanages: 19 songs
+  Topic 192_polygamous_polygamy_polyamory_polygamists: 18 songs
+  Topic 1028_probability_probabilities_doors_car: 16 songs
+  Topic 291_peppers_chili_funk_flea: 16 songs
+  Topic 938_ford_presidency_presidential_presidents: 14 songs
+  Topic 1877_zombie_walkers_zombies_walking: 13 songs
+  Topic 335_trilogy_remastered_gods_editions: 13 songs
+  Topic 2205_bow_actress_1932_laurels: 12 songs
+  Topic 2312_painting_paintings_painter_paint: 11 songs
+  Topic 441_woman_wonder_goddess_feminist: 11 songs
+  Topic 107_anthrax_slayer_thrash_bands: 10 songs
+  Topic 1646_catch_22_circumstance_novel: 10 songs
+  Topic 1756_horse_horses_cavalry_rode: 10 songs
+
+
+Statistics by language:
+
+Language: cs
+  Number of songs: 211
+  Topics assigned: 130
+  Most prominent hard topics (sorted):
+    Topic 107_anthrax_slayer_thrash_bands: 6 songs
+    Topic 1756_horse_horses_cavalry_rode: 5 songs
+    Topic 192_polygamous_polygamy_polyamory_polygamists: 5 songs
+    Topic 790_degree_bachelor_diploma_qualification: 5 songs
+    Topic 1027_daddy_reggaeton_rapper_rap: 4 songs
+    Topic 1446_happiness_wellbeing_unhappiness_happier: 4 songs
+    Topic 1863_rap_rock_album_band: 4 songs
+    Topic 1872_tsar_1812_armies_casualties: 4 songs
+    Topic 2_married_divorced_couple_remarried: 4 songs
+    Topic 441_woman_wonder_goddess_feminist: 4 songs
+    Topic 1083_tanks_tank_partisan_ideological: 3 songs
+    Topic 1409_missionaries_charity_nuns_orphanages: 3 songs
+    Topic 1492_attractiveness_aesthetics_beauty_aesthetic: 3 songs
+    Topic 1513_redheads_redhead_reddish_ginger: 3 songs
+    Topic 1581_mix_albums_little_remix: 3 songs
+    Topic 1770_bugs_insects_insecticides_pest: 3 songs
+    Topic 1973_writer_novels_novel_literary: 3 songs
+    Topic 349_kiss_toured_concerts_tour: 3 songs
+    Topic 551_dances_dance_dancers_traditional: 3 songs
+    Topic 989_cook_voyage_voyages_sailed: 3 songs
+
+Language: et
+  Number of songs: 100
+  Topics assigned: 62
+  Most prominent hard topics (sorted):
+    Topic 1013_law_jurisprudence_judicial_statutes: 11 songs
+    Topic 1502_rooms_room_palace_furnishings: 4 songs
+    Topic 1756_horse_horses_cavalry_rode: 4 songs
+    Topic 213_showrunner_episode_showrunners_episodes: 4 songs
+    Topic 2163_sausage_sausages_bun_chili: 4 songs
+    Topic 1028_probability_probabilities_doors_car: 3 songs
+    Topic 2322_moon_drummer_drums_drummers: 3 songs
+    Topic 551_dances_dance_dancers_traditional: 3 songs
+    Topic 107_anthrax_slayer_thrash_bands: 2 songs
+    Topic 1297_hello_greeting_cat_cuteness: 2 songs
+    Topic 1863_rap_rock_album_band: 2 songs
+    Topic 1877_zombie_walkers_zombies_walking: 2 songs
+    Topic 2222_retailer_store_sales_shop: 2 songs
+    Topic 441_woman_wonder_goddess_feminist: 2 songs
+    Topic 520_spice_concert_girls_spicy: 2 songs
+    Topic 606_sponsors_sponsorship_sponsor_sponsorships: 2 songs
+    Topic 63_breeds_terrier_terriers_shepherd: 2 songs
+    Topic 938_ford_presidency_presidential_presidents: 2 songs
+    Topic 1006_runes_rune_runestones_inscriptions: 1 songs
+    Topic 1039_elves_elf_folklore_fairies: 1 songs
+
+Language: ko
+  Number of songs: 480
+  Topics assigned: 165
+  Most prominent hard topics (sorted):
+    Topic 1013_law_jurisprudence_judicial_statutes: 41 songs
+    Topic 2322_moon_drummer_drums_drummers: 22 songs
+    Topic 2_married_divorced_couple_remarried: 22 songs
+    Topic 1082_robots_robot_robotic_robotics: 21 songs
+    Topic 1513_redheads_redhead_reddish_ginger: 18 songs
+    Topic 1915_fate_fates_doctor_doctorate: 18 songs
+    Topic 291_peppers_chili_funk_flea: 15 songs
+    Topic 1409_missionaries_charity_nuns_orphanages: 11 songs
+    Topic 1028_probability_probabilities_doors_car: 9 songs
+    Topic 1534_famine_famines_starvation_rice: 9 songs
+    Topic 938_ford_presidency_presidential_presidents: 9 songs
+    Topic 1638_contraception_contraceptive_contraceptives_abortion: 8 songs
+    Topic 1646_catch_22_circumstance_novel: 8 songs
+    Topic 918_hemp_cannabis_textiles_cultivated: 8 songs
+    Topic 2205_bow_actress_1932_laurels: 7 songs
+    Topic 238_protesting_activism_protests_protest: 6 songs
+    Topic 0_goalscorer_scored_goals_goal: 5 songs
+    Topic 1225_bean_teddy_episodes_sitcom: 5 songs
+    Topic 1502_rooms_room_palace_furnishings: 5 songs
+    Topic 177_dementia_dementias_neurodegenerative_parkinsonism: 5 songs
+
+Language: nl
+  Number of songs: 149
+  Topics assigned: 76
+  Most prominent hard topics (sorted):
+    Topic 1446_happiness_wellbeing_unhappiness_happier: 19 songs
+    Topic 2312_painting_paintings_painter_paint: 11 songs
+    Topic 192_polygamous_polygamy_polyamory_polygamists: 9 songs
+    Topic 56_bond_royale_spectre_pierce: 7 songs
+    Topic 1100_hill_silent_sequel_remake: 4 songs
+    Topic 1915_fate_fates_doctor_doctorate: 4 songs
+    Topic 2259_easter_holiday_celebrated_feasts: 4 songs
+    Topic 1028_probability_probabilities_doors_car: 3 songs
+    Topic 1297_hello_greeting_cat_cuteness: 3 songs
+    Topic 1790_cents_coins_monetary_shillings: 3 songs
+    Topic 349_kiss_toured_concerts_tour: 3 songs
+    Topic 1323_sheikh_prince_sultan_heir: 2 songs
+    Topic 1453_campaigned_politician_governor_long: 2 songs
+    Topic 1476_evil_eye_gaze_eyes: 2 songs
+    Topic 1645_genomes_genome_mutations_genes: 2 songs
+    Topic 1769_brave_browser_browsers_chrome: 2 songs
+    Topic 2083_radiation_radiographs_rays_radiography: 2 songs
+    Topic 2159_crops_agriculture_agricultural_maize: 2 songs
+    Topic 2205_bow_actress_1932_laurels: 2 songs
+    Topic 238_protesting_activism_protests_protest: 2 songs
+
+Language: uk
+  Number of songs: 257
+  Topics assigned: 132
+  Most prominent hard topics (sorted):
+    Topic 335_trilogy_remastered_gods_editions: 11 songs
+    Topic 1901_sat_exams_exam_admissions: 9 songs
+    Topic 810_butter_gluten_flour_glutenin: 9 songs
+    Topic 1877_zombie_walkers_zombies_walking: 8 songs
+    Topic 515_ribbons_ribbon_gallantry_medals: 8 songs
+    Topic 1338_eggs_egg_yolks_yolk: 6 songs
+    Topic 1513_redheads_redhead_reddish_ginger: 6 songs
+    Topic 1409_missionaries_charity_nuns_orphanages: 5 songs
+    Topic 1813_honeys_honey_honeydew_bees: 5 songs
+    Topic 1353_cherry_blossom_cherries_blossoms: 4 songs
+    Topic 1446_happiness_wellbeing_unhappiness_happier: 4 songs
+    Topic 1755_loaf_meat_duet_duets: 4 songs
+    Topic 2152_transit_commute_commuting_commuters: 4 songs
+    Topic 2322_moon_drummer_drums_drummers: 4 songs
+    Topic 334_boulevard_celebrity_fame_celebrities: 4 songs
+    Topic 1072_resuscitation_defibrillation_defibrillator_cardiopulmonary: 3 songs
+    Topic 1516_microwaves_microwave_oven_ovens: 3 songs
+    Topic 1542_1852_novels_novel_cabin: 3 songs
+    Topic 1550_dew_cola_flavors_soda: 3 songs
+    Topic 1758_noblewomen_empress_maids_governesses: 3 songs
