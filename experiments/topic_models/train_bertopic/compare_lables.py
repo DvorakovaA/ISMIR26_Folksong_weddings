@@ -25,13 +25,20 @@ def main():
     # Collect typology labels from multiple CSV files in given directory
     typology_labels = {}
     files = sorted(glob.glob(os.path.join(args.typology_input, "*.csv")))
+    print(f"Found {len(files)} typology input files.")
+    if len(files) == 0:
+        print("Trying to interpret the input as a single CSV file instead.")
+        files = [args.typology_input]  # Treat the input as a single file
+
+    label_counts = {}
     for file in files:
         typology_df = pd.read_csv(file)
         for _, row in typology_df.iterrows():
             item_id = row['item_id']
             label = str(row['label']) + '_' + str(os.path.basename(file)[:2])
             typology_labels[item_id] = label
-    
+            label_counts[label] = label_counts.get(label, 0) + 1
+
     with open(args.output, 'w') as f:
         for blabel in bertopic_lables:
             ids = bertopic_lables[blabel]
@@ -51,7 +58,7 @@ def main():
             # Print sorted language counts
             print(f"  Language counts: {sorted(lang_counts.items(), key=lambda x: x[1], reverse=True)}", file=f)
             for tlabel, count in sorted_typology_counts:
-                print(f"  Typology label: {tlabel}, Count: {count}", file=f)
+                print(f"  Typology label: {tlabel}, Count: {count} (out of {label_counts[tlabel]})", file=f)
             print(file=f)
 
 
