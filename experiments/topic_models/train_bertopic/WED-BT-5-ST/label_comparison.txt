@@ -1,0 +1,159 @@
+BERTopic label: 0_rice_mother law_household_wash (20 songs)
+  Language counts: [('uk', 7), ('ko', 6), ('cs', 5), ('et', 1), ('nl', 1)]
+  Typology label: Family-ritual_wedding_uk, Count: 7 (out of 257)
+  Typology label: Lament_lament_ko, Count: 6 (out of 480)
+  Typology label: wedding_cs, Count: 5 (out of 210)
+  Typology label: wedding_et, Count: 1 (out of 99)
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 10_church_servant_maiden_dearest (55 songs)
+  Language counts: [('cs', 25), ('uk', 15), ('ko', 11), ('nl', 3), ('et', 1)]
+  Typology label: wedding_cs, Count: 25 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 15 (out of 257)
+  Typology label: Lament_lament_ko, Count: 11 (out of 480)
+  Typology label: wedding_nl, Count: 3 (out of 149)
+  Typology label: wedding_et, Count: 1 (out of 99)
+
+BERTopic label: 11_vodka_maiden_wedding_stove (50 songs)
+  Language counts: [('uk', 16), ('cs', 15), ('ko', 15), ('nl', 3), ('et', 1)]
+  Typology label: Family-ritual_wedding_uk, Count: 16 (out of 257)
+  Typology label: wedding_cs, Count: 15 (out of 210)
+  Typology label: Lament_lament_ko, Count: 15 (out of 480)
+  Typology label: wedding_nl, Count: 3 (out of 149)
+  Typology label: wedding_et, Count: 1 (out of 99)
+
+BERTopic label: 12_rice_husband_cousin_family (73 songs)
+  Language counts: [('ko', 68), ('cs', 2), ('uk', 2), ('nl', 1), ('et', 0)]
+  Typology label: Lament_lament_ko, Count: 68 (out of 480)
+  Typology label: wedding_cs, Count: 2 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 13_dove_flowers_meadow_beloved (40 songs)
+  Language counts: [('ko', 13), ('cs', 12), ('uk', 12), ('nl', 2), ('et', 1)]
+  Typology label: Lament_lament_ko, Count: 13 (out of 480)
+  Typology label: wedding_cs, Count: 12 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 12 (out of 257)
+  Typology label: wedding_nl, Count: 2 (out of 149)
+  Typology label: wedding_et, Count: 1 (out of 99)
+
+BERTopic label: 14_dance_apron_young girl_beautifully (28 songs)
+  Language counts: [('et', 13), ('cs', 6), ('ko', 6), ('uk', 3), ('nl', 0)]
+  Typology label: wedding_et, Count: 13 (out of 99)
+  Typology label: wedding_cs, Count: 6 (out of 210)
+  Typology label: Lament_lament_ko, Count: 6 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 3 (out of 257)
+
+BERTopic label: 15_morning_sleeping_jeníček_sing (60 songs)
+  Language counts: [('ko', 25), ('cs', 12), ('et', 10), ('uk', 7), ('nl', 6)]
+  Typology label: Lament_lament_ko, Count: 25 (out of 480)
+  Typology label: wedding_cs, Count: 12 (out of 210)
+  Typology label: wedding_et, Count: 10 (out of 99)
+  Typology label: Family-ritual_wedding_uk, Count: 7 (out of 257)
+  Typology label: wedding_nl, Count: 6 (out of 149)
+
+BERTopic label: 16_maiden_groom_young lad_servant (29 songs)
+  Language counts: [('cs', 9), ('et', 9), ('ko', 5), ('nl', 5), ('uk', 1)]
+  Typology label: wedding_cs, Count: 9 (out of 210)
+  Typology label: wedding_et, Count: 9 (out of 99)
+  Typology label: Lament_lament_ko, Count: 5 (out of 480)
+  Typology label: wedding_nl, Count: 5 (out of 149)
+  Typology label: Family-ritual_wedding_uk, Count: 1 (out of 257)
+
+BERTopic label: 17_braid_hair_tears_mother (74 songs)
+  Language counts: [('uk', 35), ('ko', 26), ('cs', 10), ('nl', 3), ('et', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 35 (out of 257)
+  Typology label: Lament_lament_ko, Count: 26 (out of 480)
+  Typology label: wedding_cs, Count: 10 (out of 210)
+  Typology label: wedding_nl, Count: 3 (out of 149)
+
+BERTopic label: 18_family_wealth_coming_rich (80 songs)
+  Language counts: [('ko', 41), ('cs', 13), ('uk', 12), ('et', 11), ('nl', 3)]
+  Typology label: Lament_lament_ko, Count: 41 (out of 480)
+  Typology label: wedding_cs, Count: 13 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 12 (out of 257)
+  Typology label: wedding_et, Count: 11 (out of 99)
+  Typology label: wedding_nl, Count: 3 (out of 149)
+
+BERTopic label: 19_road_cross_path_family (49 songs)
+  Language counts: [('uk', 25), ('ko', 13), ('cs', 5), ('nl', 4), ('et', 2)]
+  Typology label: Family-ritual_wedding_uk, Count: 25 (out of 257)
+  Typology label: Lament_lament_ko, Count: 13 (out of 480)
+  Typology label: wedding_cs, Count: 5 (out of 210)
+  Typology label: wedding_nl, Count: 4 (out of 149)
+  Typology label: wedding_et, Count: 2 (out of 99)
+
+BERTopic label: 1_wedding_bride_getting married_groom (126 songs)
+  Language counts: [('nl', 105), ('cs', 15), ('uk', 3), ('ko', 3), ('et', 0)]
+  Typology label: wedding_nl, Count: 105 (out of 149)
+  Typology label: wedding_cs, Count: 15 (out of 210)
+  Typology label: Lament_lament_ko, Count: 3 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 3 (out of 257)
+
+BERTopic label: 20_cousin_brother brother_brother_older (40 songs)
+  Language counts: [('ko', 37), ('uk', 2), ('et', 1), ('cs', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 37 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+  Typology label: wedding_et, Count: 1 (out of 99)
+
+BERTopic label: 2_married life_marriage_married_husband (135 songs)
+  Language counts: [('ko', 129), ('cs', 3), ('uk', 2), ('nl', 1), ('et', 0)]
+  Typology label: Lament_lament_ko, Count: 129 (out of 480)
+  Typology label: wedding_cs, Count: 2 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+  Typology label: military_cs, Count: 1 (out of 1)
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 3_bread_bride_guests_wedding (37 songs)
+  Language counts: [('uk', 27), ('cs', 4), ('et', 3), ('ko', 3), ('nl', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 27 (out of 257)
+  Typology label: wedding_cs, Count: 4 (out of 210)
+  Typology label: wedding_et, Count: 3 (out of 99)
+  Typology label: Lament_lament_ko, Count: 3 (out of 480)
+
+BERTopic label: 4_horses_horse_ride_horns (47 songs)
+  Language counts: [('cs', 21), ('et', 12), ('uk', 6), ('ko', 6), ('nl', 2)]
+  Typology label: wedding_cs, Count: 21 (out of 210)
+  Typology label: wedding_et, Count: 12 (out of 99)
+  Typology label: Lament_lament_ko, Count: 6 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 6 (out of 257)
+  Typology label: wedding_nl, Count: 2 (out of 149)
+
+BERTopic label: 5_brother brother_sister_meal_cousin (42 songs)
+  Language counts: [('ko', 32), ('uk', 6), ('cs', 4), ('et', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 32 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 6 (out of 257)
+  Typology label: wedding_cs, Count: 4 (out of 210)
+
+BERTopic label: 6_wreath_flower_tear_bride (67 songs)
+  Language counts: [('cs', 26), ('uk', 23), ('ko', 9), ('et', 7), ('nl', 2)]
+  Typology label: wedding_cs, Count: 26 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 23 (out of 257)
+  Typology label: Lament_lament_ko, Count: 9 (out of 480)
+  Typology label: wedding_et, Count: 7 (out of 99)
+  Typology label: wedding_nl, Count: 2 (out of 149)
+
+BERTopic label: 7_inside_stove_room_kitchen (38 songs)
+  Language counts: [('et', 20), ('ko', 11), ('cs', 3), ('uk', 3), ('nl', 1)]
+  Typology label: wedding_et, Count: 20 (out of 99)
+  Typology label: Lament_lament_ko, Count: 11 (out of 480)
+  Typology label: wedding_cs, Count: 3 (out of 210)
+  Typology label: Family-ritual_wedding_uk, Count: 3 (out of 257)
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 8_heaven_dear mother_family_father mother (68 songs)
+  Language counts: [('uk', 32), ('cs', 16), ('ko', 15), ('nl', 3), ('et', 2)]
+  Typology label: Family-ritual_wedding_uk, Count: 32 (out of 257)
+  Typology label: wedding_cs, Count: 16 (out of 210)
+  Typology label: Lament_lament_ko, Count: 15 (out of 480)
+  Typology label: wedding_nl, Count: 3 (out of 149)
+  Typology label: wedding_et, Count: 2 (out of 99)
+
+BERTopic label: 9_vodka_wine_drink_bring (38 songs)
+  Language counts: [('uk', 18), ('ko', 6), ('cs', 5), ('et', 5), ('nl', 4)]
+  Typology label: Family-ritual_wedding_uk, Count: 18 (out of 257)
+  Typology label: Lament_lament_ko, Count: 6 (out of 480)
+  Typology label: wedding_cs, Count: 5 (out of 210)
+  Typology label: wedding_et, Count: 5 (out of 99)
+  Typology label: wedding_nl, Count: 4 (out of 149)
+
