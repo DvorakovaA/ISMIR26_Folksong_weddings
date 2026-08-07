@@ -348,7 +348,7 @@ def main():
         output_dir=args.output_dir
     )
 
-    log.info("Training pipeline complete!")
+    log.info("Training complete.")
 
 
 if __name__ == "__main__":
