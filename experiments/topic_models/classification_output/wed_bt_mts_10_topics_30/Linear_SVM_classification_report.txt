@@ -1,0 +1,72 @@
+Model: Linear_SVM
+
+Fold 1:
+              precision    recall  f1-score   support
+
+          cs       0.50      0.05      0.09        43
+          et       0.00      0.00      0.00        19
+          ko       0.44      0.97      0.61        96
+          nl       0.43      0.30      0.35        30
+          uk       0.25      0.02      0.04        52
+
+    accuracy                           0.44       240
+   macro avg       0.32      0.27      0.22       240
+weighted avg       0.37      0.44      0.31       240
+
+
+Fold 2:
+              precision    recall  f1-score   support
+
+          cs       0.26      0.17      0.20        42
+          et       0.00      0.00      0.00        20
+          ko       0.44      0.92      0.59        96
+          nl       0.80      0.13      0.23        30
+          uk       0.33      0.04      0.07        51
+
+    accuracy                           0.42       239
+   macro avg       0.37      0.25      0.22       239
+weighted avg       0.39      0.42      0.32       239
+
+
+Fold 3:
+              precision    recall  f1-score   support
+
+          cs       0.24      0.10      0.14        42
+          et       0.00      0.00      0.00        20
+          ko       0.44      0.99      0.61        96
+          nl       0.67      0.07      0.12        30
+          uk       1.00      0.02      0.04        51
+
+    accuracy                           0.43       239
+   macro avg       0.47      0.23      0.18       239
+weighted avg       0.51      0.43      0.29       239
+
+
+Fold 4:
+              precision    recall  f1-score   support
+
+          cs       0.50      0.02      0.05        42
+          et       0.00      0.00      0.00        20
+          ko       0.42      0.99      0.59        96
+          nl       1.00      0.17      0.29        30
+          uk       0.60      0.06      0.11        51
+
+    accuracy                           0.44       239
+   macro avg       0.50      0.25      0.21       239
+weighted avg       0.51      0.44      0.30       239
+
+
+Fold 5:
+              precision    recall  f1-score   support
+
+          cs       0.00      0.00      0.00        42
+          et       0.00      0.00      0.00        20
+          ko       0.42      0.93      0.57        96
+          nl       0.39      0.24      0.30        29
+          uk       0.20      0.02      0.04        52
+
+    accuracy                           0.41       239
+   macro avg       0.20      0.24      0.18       239
+weighted avg       0.26      0.41      0.27       239
+
+

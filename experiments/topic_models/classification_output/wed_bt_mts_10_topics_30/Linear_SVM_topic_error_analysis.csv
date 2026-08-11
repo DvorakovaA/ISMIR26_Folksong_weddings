@@ -1,0 +1,19 @@
+assigned_topic,topic_label,n_errors,most_confused_true,most_confused_pred,n_total,error_rate
+8,8_holy evening_wreath_praise god_evening good,1,ko (1),uk (1),1,1.0
+10,10_cook_caresses_bake_dear darling,3,uk (3),ko (3),3,1.0
+17,17_seaman_sailing_sailors_dear fatherland,4,nl (4),ko (4),4,1.0
+21,21_bark_shouts_trees_flee,9,uk (3),uk (4),10,0.9
+27,27_shines brightly_praise_worthy praise_praise lord,3,nl (2),ko (3),4,0.75
+25,25_little wine_heaven_drink little_lord god,77,uk (20),ko (26),103,0.7475728155339806
+26,26_beautiful hay_mowed hay_hay_sheepfold,9,cs (4),ko (5),14,0.6428571428571429
+0,0_praise_sorrow_god_soul,534,uk (216),ko (534),862,0.6194895591647331
+23,23_spindle_spinning_rooster_spin,10,et (4),ko (10),19,0.5263157894736842
+12,12_dear maiden_praise_roses_joyful,5,cs (2),ko (5),10,0.5
+18,18_want farmer_pepíček_praises_horses,4,et (2),cs (4),9,0.4444444444444444
+19,19_widow_widow widow_allow mother_green meadow,5,ko (3),uk (5),13,0.38461538461538464
+13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little,3,uk (2),ko (3),8,0.375
+24,24_rice cake_rice fields_arirang arariyo_sangju,11,nl (9),ko (11),40,0.275
+28,28_joyful spirit_bride_feast_noblemen,2,ko (2),nl (2),13,0.15384615384615385
+20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby,5,uk (3),ko (5),41,0.12195121951219512
+9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping,1,et (1),ko (1),12,0.08333333333333333
+22,22_weaving song_song weaving_fairy_sound dragon,1,et (1),ko (1),20,0.05

@@ -1,0 +1,1197 @@
+fold,id,true_label,pred_label,correct,assigned_topic,topic_label
+1,Erb_1809,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1820,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1829,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1834,cs,ko,False,21,21_bark_shouts_trees_flee
+1,Erb_1860,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1864,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1896,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_1897,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1907,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1909,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1924,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1943,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_1944,cs,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+1,Erb_1945,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1946,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1948,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1967,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_1972,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_1979,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1991,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1994,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_1999,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2003,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2009,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2013,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2020,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2022,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2034,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2044,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_2057,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2059,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2063,cs,et,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_2074,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2090,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2091,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2102,cs,et,False,23,23_spindle_spinning_rooster_spin
+1,Erb_2104,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Erb_2109,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2135,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2145,cs,cs,True,18,18_want farmer_pepíček_praises_horses
+1,Erb_2151,cs,uk,False,0,0_praise_sorrow_god_soul
+1,Erb_2180,cs,uk,False,0,0_praise_sorrow_god_soul
+1,THB_102,cs,uk,False,0,0_praise_sorrow_god_soul
+1,h21304930008,et,nl,False,25,25_little wine_heaven_drink little_lord god
+1,eys0807390339,et,uk,False,0,0_praise_sorrow_god_soul
+1,h21305400049,et,uk,False,0,0_praise_sorrow_god_soul
+1,e000093390023,et,uk,False,0,0_praise_sorrow_god_soul
+1,eks1500040003,et,uk,False,0,0_praise_sorrow_god_soul
+1,era202401570002,et,uk,False,0,0_praise_sorrow_god_soul
+1,era202403540008,et,uk,False,0,0_praise_sorrow_god_soul
+1,eys0610680228,et,uk,False,0,0_praise_sorrow_god_soul
+1,eys0715690076,et,uk,False,0,0_praise_sorrow_god_soul
+1,eys0716980268,et,ko,False,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,eys0716980269,et,uk,False,0,0_praise_sorrow_god_soul
+1,eys0722820026,et,uk,False,0,0_praise_sorrow_god_soul
+1,eys0805620068,et,cs,False,18,18_want farmer_pepíček_praises_horses
+1,eys0811780054,et,nl,False,25,25_little wine_heaven_drink little_lord god
+1,h10100180002,et,uk,False,0,0_praise_sorrow_god_soul
+1,h10700370019,et,uk,False,0,0_praise_sorrow_god_soul
+1,h21300830027,et,et,True,23,23_spindle_spinning_rooster_spin
+1,h21301290022,et,uk,False,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+1,h24000901036,et,uk,False,0,0_praise_sorrow_god_soul
+1,gn.goseong-0107,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,yeongam-0423,ko,uk,False,0,0_praise_sorrow_god_soul
+1,icheon-0412,ko,uk,False,0,0_praise_sorrow_god_soul
+1,nonsan-0106,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hampyeong-0404,ko,uk,False,0,0_praise_sorrow_god_soul
+1,cheongsong-0228,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yeocheon-0231,ko,uk,False,0,0_praise_sorrow_god_soul
+1,wando-0233,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,yeonggwang-0519,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jinan-0605,ko,et,False,23,23_spindle_spinning_rooster_spin
+1,goheung-0114,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jeongseon-1406,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,yeongyang-0120,ko,uk,False,0,0_praise_sorrow_god_soul
+1,geochang-0222,ko,nl,False,12,12_dear maiden_praise_roses_joyful
+1,gokseong-0106,ko,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+1,ulreung-0223,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hampyeong-0439,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,cheolwon-1212,ko,uk,False,0,0_praise_sorrow_god_soul
+1,eumseong-0528,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hampyeong-0602,ko,ko,True,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+1,imsil-0520,ko,uk,False,0,0_praise_sorrow_god_soul
+1,gimje-0518,ko,uk,False,0,0_praise_sorrow_god_soul
+1,seungju-0203,ko,ko,True,23,23_spindle_spinning_rooster_spin
+1,goheung-0408,ko,uk,False,0,0_praise_sorrow_god_soul
+1,geumreung-0135,ko,uk,False,0,0_praise_sorrow_god_soul
+1,naju-0219,ko,uk,False,0,0_praise_sorrow_god_soul
+1,muan-0704,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,hampyeong-0408,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hoengseong-0425,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+1,tongyeong-0413,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,gangjin-0602,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,geochang-0315,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,yeonggwang-0609,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yeongil-0524,ko,uk,False,0,0_praise_sorrow_god_soul
+1,samcheok-1012,ko,uk,False,0,0_praise_sorrow_god_soul
+1,inje-0105,ko,uk,False,0,0_praise_sorrow_god_soul
+1,gimhae-0212,ko,uk,False,0,0_praise_sorrow_god_soul
+1,ulreung-0209,ko,uk,False,0,0_praise_sorrow_god_soul
+1,gn.goseong-0531,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,hadong-0136,ko,uk,False,0,0_praise_sorrow_god_soul
+1,sancheong-0443,ko,uk,False,0,0_praise_sorrow_god_soul
+1,samcheok-1209,ko,uk,False,0,0_praise_sorrow_god_soul
+1,milyang-1009,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yeocheon-0326,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,yangyang-1805,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,uljin-0719,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,goheung-0221,ko,uk,False,0,0_praise_sorrow_god_soul
+1,dalseong-0335,ko,uk,False,0,0_praise_sorrow_god_soul
+1,bonghwa-0712,ko,uk,False,0,0_praise_sorrow_god_soul
+1,bonghwa-0312,ko,ko,True,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+1,gokseong-0413,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hwasun-0312,ko,et,False,23,23_spindle_spinning_rooster_spin
+1,ulreung-0224,ko,uk,False,0,0_praise_sorrow_god_soul
+1,naju-0332,ko,uk,False,0,0_praise_sorrow_god_soul
+1,seungju-0319,ko,uk,False,0,0_praise_sorrow_god_soul
+1,sancheong-0441,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jangheung-0515,ko,uk,False,0,0_praise_sorrow_god_soul
+1,haenam-0128,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jindo-0108,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hwasun-0311,ko,uk,False,0,0_praise_sorrow_god_soul
+1,chilgok-0301,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,hampyeong-0612,ko,uk,False,0,0_praise_sorrow_god_soul
+1,namwon-0713,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,boseong-0138,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,cheolwon-0812,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yecheon-0423,ko,uk,False,0,0_praise_sorrow_god_soul
+1,naju-0212,ko,uk,False,0,0_praise_sorrow_god_soul
+1,goheung-0112,ko,uk,False,0,0_praise_sorrow_god_soul
+1,wando-0223,ko,nl,False,21,21_bark_shouts_trees_flee
+1,chilgok-0317,ko,uk,False,0,0_praise_sorrow_god_soul
+1,haenam-0130,ko,uk,False,0,0_praise_sorrow_god_soul
+1,geumsan-0917,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,cheolwon-1051,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+1,imsil-0218,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+1,hampyeong-0443,ko,uk,False,0,0_praise_sorrow_god_soul
+1,goheung-0110,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yeongil-0512,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+1,mungyeong-0510,ko,uk,False,0,0_praise_sorrow_god_soul
+1,seungju-0112,ko,uk,False,0,0_praise_sorrow_god_soul
+1,cheolwon-1205,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yeonggwang-0238,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jangsu-0113,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,jangheung-0509,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,haenam-0433,ko,uk,False,0,0_praise_sorrow_god_soul
+1,geoje-0417,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hamyang-0106,ko,uk,False,0,0_praise_sorrow_god_soul
+1,tongyeong-0625,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jangseong-0538,ko,uk,False,0,0_praise_sorrow_god_soul
+1,jungwon-0338,ko,uk,False,0,0_praise_sorrow_god_soul
+1,tongyeong-0614,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yangyang-0510,ko,uk,False,0,0_praise_sorrow_god_soul
+1,hampyeong-0517,ko,uk,False,0,0_praise_sorrow_god_soul
+1,yeongam-0516,ko,uk,False,0,0_praise_sorrow_god_soul
+1,nonsan-0105,ko,uk,False,0,0_praise_sorrow_god_soul
+1,euiseong-0232,ko,uk,False,0,0_praise_sorrow_god_soul
+1,daejeon-0511,ko,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_349,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_368,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_373,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_374,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_382,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_389,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_392,nl,ko,False,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+1,young_wedding_both_393,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_397,nl,et,False,23,23_spindle_spinning_rooster_spin
+1,young_wedding_both_398,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_401,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_403,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,young_wedding_both_407,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_421,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+1,young_wedding_both_429,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_431,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,young_wedding_both_434,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,young_wedding_both_439,nl,uk,False,17,17_seaman_sailing_sailors_dear fatherland
+1,young_wedding_both_440,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_441,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_447,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+1,young_wedding_both_451,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_456,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_457,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_458,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_464,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+1,young_wedding_both_476,nl,et,False,23,23_spindle_spinning_rooster_spin
+1,young_wedding_both_482,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+1,young_wedding_both_484,nl,uk,False,0,0_praise_sorrow_god_soul
+1,young_wedding_both_493,nl,uk,False,0,0_praise_sorrow_god_soul
+1,Pod_1404,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1407,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1409,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1416,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1419,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1420,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1427,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1430,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1441,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Pod_1444,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1445,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1459,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1467,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1468,uk,uk,True,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+1,Pod_1474,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1478,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+1,Pod_1495,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1498,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1505,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1520,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1522,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1524,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1527,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1528,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1531,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1535,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1544,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1546,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Pod_1548,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1557,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1565,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1572,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1573,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1581,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1586,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1587,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1591,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1596,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1597,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1601,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1602,uk,et,False,23,23_spindle_spinning_rooster_spin
+1,Pod_1605,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1606,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1612,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Pod_1615,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+1,Vol_65,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Vol_68,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Vol_70,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Vol_71,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Vol_82,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Vol_88,uk,uk,True,0,0_praise_sorrow_god_soul
+1,Vol_91,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Erb_1815,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Erb_1816,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1818,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1828,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1839,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1840,cs,ko,False,23,23_spindle_spinning_rooster_spin
+2,Erb_1872,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1873,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1890,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1893,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1917,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1918,cs,nl,False,12,12_dear maiden_praise_roses_joyful
+2,Erb_1929,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1934,cs,cs,True,26,26_beautiful hay_mowed hay_hay_sheepfold
+2,Erb_1955,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1959,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Erb_1969,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1980,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1981,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_1993,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2036,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2051,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2054,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2055,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2062,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2067,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2070,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2077,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2088,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2089,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2095,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Erb_2106,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2112,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2119,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2120,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2124,cs,cs,True,18,18_want farmer_pepíček_praises_horses
+2,Erb_2130,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2131,cs,cs,True,18,18_want farmer_pepíček_praises_horses
+2,Erb_2137,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2153,cs,uk,False,0,0_praise_sorrow_god_soul
+2,Erb_2171,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+2,THB_100,cs,uk,False,0,0_praise_sorrow_god_soul
+2,e000099700006,et,cs,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+2,e000123260005,et,cs,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+2,e000598850000,et,cs,False,18,18_want farmer_pepíček_praises_horses
+2,e000613860003,et,uk,False,0,0_praise_sorrow_god_soul
+2,era201103470003,et,uk,False,0,0_praise_sorrow_god_soul
+2,era202403770004,et,uk,False,0,0_praise_sorrow_god_soul
+2,eys0506170036,et,uk,False,0,0_praise_sorrow_god_soul
+2,eys0716160145,et,uk,False,19,19_widow_widow widow_allow mother_green meadow
+2,eys0723150096,et,et,True,23,23_spindle_spinning_rooster_spin
+2,eys0806100140,et,uk,False,0,0_praise_sorrow_god_soul
+2,eys0806880268,et,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+2,eys0808150447,et,uk,False,0,0_praise_sorrow_god_soul
+2,eys0808210454,et,uk,False,0,0_praise_sorrow_god_soul
+2,eys0909490011,et,uk,False,0,0_praise_sorrow_god_soul
+2,eys0922830094,et,nl,False,25,25_little wine_heaven_drink little_lord god
+2,h10101990032,et,uk,False,0,0_praise_sorrow_god_soul
+2,h10102450128,et,uk,False,0,0_praise_sorrow_god_soul
+2,h21403410004,et,uk,False,0,0_praise_sorrow_god_soul
+2,h22609160021,et,nl,False,25,25_little wine_heaven_drink little_lord god
+2,h30400830001,et,nl,False,25,25_little wine_heaven_drink little_lord god
+2,yeongdong-0104,ko,uk,False,0,0_praise_sorrow_god_soul
+2,jindo-0543,ko,uk,False,0,0_praise_sorrow_god_soul
+2,namhae-0205,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+2,yangyang-1208,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+2,seosan-0204,ko,uk,False,0,0_praise_sorrow_god_soul
+2,sinan-0721,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yeongcheon-0223,ko,uk,False,0,0_praise_sorrow_god_soul
+2,muju-0713,ko,uk,False,0,0_praise_sorrow_god_soul
+2,eumseong-0512,ko,uk,False,0,0_praise_sorrow_god_soul
+2,damyang-0419,ko,uk,False,0,0_praise_sorrow_god_soul
+2,milyang-1008,ko,uk,False,0,0_praise_sorrow_god_soul
+2,pyeongchang-1112,ko,uk,False,0,0_praise_sorrow_god_soul
+2,bonghwa-0204,ko,uk,False,0,0_praise_sorrow_god_soul
+2,bonghwa-0707,ko,uk,False,0,0_praise_sorrow_god_soul
+2,jeongseon-1316,ko,uk,False,0,0_praise_sorrow_god_soul
+2,cheongsong-0521,ko,uk,False,0,0_praise_sorrow_god_soul
+2,gw.goseong-0516,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yangyang-0511,ko,uk,False,0,0_praise_sorrow_god_soul
+2,pyeongchang-0806,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yeongdeok-0207,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+2,muju-0704,ko,uk,False,0,0_praise_sorrow_god_soul
+2,gangjin-0716,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+2,tongyeong-0304,ko,uk,False,0,0_praise_sorrow_god_soul
+2,uljin-0115,ko,uk,False,0,0_praise_sorrow_god_soul
+2,boeun-0211,ko,ko,True,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+2,yeocheon-0227,ko,nl,False,28,28_joyful spirit_bride_feast_noblemen
+2,jeongseon-1111,ko,uk,False,0,0_praise_sorrow_god_soul
+2,wando-0718,ko,ko,True,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+2,jangsu-0342,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+2,daejeon-0510,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,eumseong-0518,ko,uk,False,0,0_praise_sorrow_god_soul
+2,seongju-0143,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,hwacheon-0209,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,jeongseon-0726,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yeongcheon-0120,ko,uk,False,0,0_praise_sorrow_god_soul
+2,haman-0128,ko,uk,False,0,0_praise_sorrow_god_soul
+2,chilgok-0318,ko,uk,False,0,0_praise_sorrow_god_soul
+2,bukjeju-1512,ko,uk,False,0,0_praise_sorrow_god_soul
+2,boseong-0135,ko,uk,False,0,0_praise_sorrow_god_soul
+2,muju-0703,ko,uk,False,0,0_praise_sorrow_god_soul
+2,jungwon-0335,ko,uk,False,0,0_praise_sorrow_god_soul
+2,dalseong-0302,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+2,mungyeong-0317,ko,uk,False,0,0_praise_sorrow_god_soul
+2,jangheung-0411,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yanggu-0435,ko,uk,False,0,0_praise_sorrow_god_soul
+2,milyang-0604,ko,cs,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+2,muan-0705,ko,uk,False,0,0_praise_sorrow_god_soul
+2,seungju-0340,ko,uk,False,0,0_praise_sorrow_god_soul
+2,pyeongchang-1114,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+2,yangyang-2101,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yeongam-0218,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yangyang-0314,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+2,naju-0411,ko,uk,False,0,0_praise_sorrow_god_soul
+2,euiseong-0231,ko,uk,False,0,0_praise_sorrow_god_soul
+2,hamyang-0140,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yecheon-0424,ko,uk,False,0,0_praise_sorrow_god_soul
+2,sangju-1008,ko,uk,False,0,0_praise_sorrow_god_soul
+2,boseong-0126,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+2,yangyang-2103,ko,uk,False,0,0_praise_sorrow_god_soul
+2,seongju-0827,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+2,haenam-0414,ko,uk,False,0,0_praise_sorrow_god_soul
+2,goheung-0115,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,samcheok-1001,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yeongam-0514,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,gimhae-0304,ko,uk,False,0,0_praise_sorrow_god_soul
+2,gunwi-0239,ko,uk,False,0,0_praise_sorrow_god_soul
+2,geoje-0618,ko,uk,False,0,0_praise_sorrow_god_soul
+2,seocheon-0720,ko,uk,False,0,0_praise_sorrow_god_soul
+2,bonghwa-0711,ko,uk,False,0,0_praise_sorrow_god_soul
+2,tongyeong-0710,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+2,imsil-0209,ko,uk,False,0,0_praise_sorrow_god_soul
+2,cheongdo-0705,ko,uk,False,0,0_praise_sorrow_god_soul
+2,hapcheon-0509,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yecheon-0821,ko,uk,False,19,19_widow_widow widow_allow mother_green meadow
+2,damyang-0115,ko,uk,False,0,0_praise_sorrow_god_soul
+2,sinan-1121,ko,uk,False,0,0_praise_sorrow_god_soul
+2,boryeong-0231,ko,uk,False,0,0_praise_sorrow_god_soul
+2,dalseong-0307,ko,uk,False,0,0_praise_sorrow_god_soul
+2,namhae-0219,ko,uk,False,0,0_praise_sorrow_god_soul
+2,muju-0401,ko,uk,False,19,19_widow_widow widow_allow mother_green meadow
+2,naju-0331,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+2,sinan-0118,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+2,sacheon-0210,ko,uk,False,0,0_praise_sorrow_god_soul
+2,bukjeju-0219,ko,uk,False,0,0_praise_sorrow_god_soul
+2,seungju-0347,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,ulsan-0908,ko,et,False,25,25_little wine_heaven_drink little_lord god
+2,geumsan-1108,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+2,jindo-0109,ko,uk,False,0,0_praise_sorrow_god_soul
+2,sinan-0913,ko,et,False,23,23_spindle_spinning_rooster_spin
+2,cheolwon-1020,ko,uk,False,0,0_praise_sorrow_god_soul
+2,goheung-0407,ko,uk,False,0,0_praise_sorrow_god_soul
+2,yecheon-0309,ko,uk,False,0,0_praise_sorrow_god_soul
+2,jeongseon-0809,ko,uk,False,0,0_praise_sorrow_god_soul
+2,cheolwon-0807,ko,uk,False,0,0_praise_sorrow_god_soul
+2,gwangjusi-0147,ko,uk,False,0,0_praise_sorrow_god_soul
+2,muan-0319,ko,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_348,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_350,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_352,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_357,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_365,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_370,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_376,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_380,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+2,young_wedding_both_383,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_384,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_386,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_399,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+2,young_wedding_both_410,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_414,nl,uk,False,17,17_seaman_sailing_sailors_dear fatherland
+2,young_wedding_both_417,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+2,young_wedding_both_420,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_424,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+2,young_wedding_both_425,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+2,young_wedding_both_427,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_436,nl,uk,False,19,19_widow_widow widow_allow mother_green meadow
+2,young_wedding_both_445,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+2,young_wedding_both_452,nl,nl,True,27,27_shines brightly_praise_worthy praise_praise lord
+2,young_wedding_both_463,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_469,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_475,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+2,young_wedding_both_477,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+2,young_wedding_both_486,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+2,young_wedding_both_490,nl,nl,True,21,21_bark_shouts_trees_flee
+2,young_wedding_both_496,nl,uk,False,0,0_praise_sorrow_god_soul
+2,young_wedding_both_497,nl,uk,False,0,0_praise_sorrow_god_soul
+2,Pod_395,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1412,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+2,Pod_1413,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1415,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1422,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1429,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1433,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1439,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1446,uk,nl,False,21,21_bark_shouts_trees_flee
+2,Pod_1447,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1452,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Pod_1457,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1461,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1462,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Pod_1466,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1470,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1473,uk,ko,False,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+2,Pod_1475,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1477,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1483,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1491,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1493,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1506,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1514,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1525,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1536,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1541,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1549,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1550,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1552,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1558,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1562,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1564,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1574,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1575,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1576,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1577,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1578,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1592,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1593,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Pod_1598,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Pod_1600,uk,uk,True,10,10_cook_caresses_bake_dear darling
+2,Pod_1607,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Vol_59,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Vol_64,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+2,Vol_74,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+2,Vol_76,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Vol_78,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Vol_80,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Vol_81,uk,uk,True,0,0_praise_sorrow_god_soul
+2,Vol_85,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Erb_1821,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1838,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1861,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1867,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1868,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1876,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1878,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1879,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1887,cs,et,False,18,18_want farmer_pepíček_praises_horses
+3,Erb_1894,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1895,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1905,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1915,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1930,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Erb_1940,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Erb_1957,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1970,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1974,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1984,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1987,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1988,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1992,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_1997,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2023,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2027,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2039,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2058,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2068,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2075,cs,et,False,18,18_want farmer_pepíček_praises_horses
+3,Erb_2092,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2093,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2100,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2121,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2134,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2163,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2166,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2169,cs,uk,False,0,0_praise_sorrow_god_soul
+3,Erb_2170,cs,et,False,23,23_spindle_spinning_rooster_spin
+3,Erb_2175,cs,uk,False,0,0_praise_sorrow_god_soul
+3,THB_101,cs,uk,False,0,0_praise_sorrow_god_soul
+3,THB_103,cs,uk,False,0,0_praise_sorrow_god_soul
+3,THB_105,cs,uk,False,0,0_praise_sorrow_god_soul
+3,e000138100007,et,nl,False,25,25_little wine_heaven_drink little_lord god
+3,eks1500010001,et,nl,False,25,25_little wine_heaven_drink little_lord god
+3,h31703830047,et,uk,False,0,0_praise_sorrow_god_soul
+3,e000093890060,et,uk,False,0,0_praise_sorrow_god_soul
+3,ekse00380000,et,uk,False,0,0_praise_sorrow_god_soul
+3,era201101840004,et,uk,False,0,0_praise_sorrow_god_soul
+3,era201400770017,et,uk,False,0,0_praise_sorrow_god_soul
+3,estk4000600094,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0706630026,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0715460027,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0722910041,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0723140094,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0806530216,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0808360479,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys080837480b,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys0910020091,et,uk,False,0,0_praise_sorrow_god_soul
+3,eys1022430016,et,uk,False,0,0_praise_sorrow_god_soul
+3,h20102880426,et,uk,False,0,0_praise_sorrow_god_soul
+3,h24607080020,et,ko,False,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+3,h30101360004,et,uk,False,0,0_praise_sorrow_god_soul
+3,gochang-0712,ko,ko,True,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+3,hwacheon-0208,ko,uk,False,0,0_praise_sorrow_god_soul
+3,dalseong-0119,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+3,yeonggwang-0136,ko,uk,False,0,0_praise_sorrow_god_soul
+3,hampyeong-0403,ko,uk,False,0,0_praise_sorrow_god_soul
+3,haenam-0523,ko,ko,True,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+3,dalseong-0308,ko,uk,False,0,0_praise_sorrow_god_soul
+3,dalseong-0213,ko,ko,True,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+3,gimje-0508,ko,uk,False,0,0_praise_sorrow_god_soul
+3,wando-0520,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yangyang-2207,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+3,namwon-0313,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sangju-1409,ko,uk,False,0,0_praise_sorrow_god_soul
+3,icheon-0410,ko,uk,False,0,0_praise_sorrow_god_soul
+3,bonghwa-0720,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jindo-0545,ko,et,False,23,23_spindle_spinning_rooster_spin
+3,muju-0441,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yeongdeok-0333,ko,uk,False,0,0_praise_sorrow_god_soul
+3,dalseong-0531,ko,uk,False,0,0_praise_sorrow_god_soul
+3,seocheon-0202,ko,uk,False,14,14_mandarin ducks_longing_mandarin_giyeok
+3,bonghwa-0614,ko,uk,False,0,0_praise_sorrow_god_soul
+3,uljin-1002,ko,uk,False,0,0_praise_sorrow_god_soul
+3,geumsan-0806,ko,uk,False,0,0_praise_sorrow_god_soul
+3,bonghwa-0403,ko,uk,False,0,0_praise_sorrow_god_soul
+3,samcheok-1207,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gangjin-0601,ko,uk,False,0,0_praise_sorrow_god_soul
+3,geumreung-0433,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+3,gn.goseong-0519,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jinan-0603,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gangjin-0626,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,haenam-0411,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gyeongju-0211,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,chilgok-0606,ko,uk,False,0,0_praise_sorrow_god_soul
+3,hoengseong-0107,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+3,yeongdeok-0309,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yeonggwang-0142,ko,ko,True,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+3,jangsu-0233,ko,nl,False,28,28_joyful spirit_bride_feast_noblemen
+3,yecheon-0503,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jinyang-0907,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jungwon-0336,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sinan-0117,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gunwi-0238,ko,uk,False,0,0_praise_sorrow_god_soul
+3,cheolwon-1201,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,cheolwon-1214,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,hampyeong-0603,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,jangseong-0235,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sancheong-0422,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,dalseong-0214,ko,ko,True,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+3,boeun-0412,ko,uk,False,0,0_praise_sorrow_god_soul
+3,wanju-0424,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,hamyang-0328,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yanggu-0302,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jeongeup-0462,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yangyang-1206,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gimje-0310,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gangjin-0711,ko,uk,False,0,0_praise_sorrow_god_soul
+3,hadong-0409,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+3,jangheung-0228,ko,uk,False,0,0_praise_sorrow_god_soul
+3,seongju-0641,ko,uk,False,0,0_praise_sorrow_god_soul
+3,euiryeong-0326,ko,uk,False,0,0_praise_sorrow_god_soul
+3,goryeong-0614,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+3,yeongdeok-0138,ko,uk,False,0,0_praise_sorrow_god_soul
+3,euiseong-0721,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sancheong-0523,ko,uk,False,0,0_praise_sorrow_god_soul
+3,goheung-0230,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,yangyang-1502,ko,uk,False,0,0_praise_sorrow_god_soul
+3,euiryeong-0214,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jangheung-0221,ko,uk,False,0,0_praise_sorrow_god_soul
+3,goryeong-0529,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+3,sinan-0614,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sangju-1039,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gwangyang-0114,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+3,gokseong-0409,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+3,gw.goseong-0708,ko,uk,False,0,0_praise_sorrow_god_soul
+3,changwon-0208,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yeongwol-0107,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+3,gunwi-0240,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,haenam-0511,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yangyang-1714,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+3,naju-0511,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jungwon-0337,ko,uk,False,0,0_praise_sorrow_god_soul
+3,boryeong-0232,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gangjin-0310,ko,uk,False,0,0_praise_sorrow_god_soul
+3,jinyang-0406,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sinan-0843,ko,uk,False,0,0_praise_sorrow_god_soul
+3,hampyeong-0422,ko,uk,False,0,0_praise_sorrow_god_soul
+3,yeongil-0606,ko,uk,False,0,0_praise_sorrow_god_soul
+3,hamyang-0139,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sangju-1014,ko,uk,False,0,0_praise_sorrow_god_soul
+3,gimje-0511,ko,uk,False,0,0_praise_sorrow_god_soul
+3,hampyeong-0523,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sinan-0216,ko,uk,False,0,0_praise_sorrow_god_soul
+3,wonju-0106,ko,uk,False,0,0_praise_sorrow_god_soul
+3,sangju-1009,ko,uk,False,0,0_praise_sorrow_god_soul
+3,inje-0210,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+3,hwasun-0201,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,young_wedding_both_355,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_360,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_367,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_369,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_387,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+3,young_wedding_both_394,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+3,young_wedding_both_402,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_404,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_405,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_411,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_413,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_416,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_418,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_422,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_430,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+3,young_wedding_both_432,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_443,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+3,young_wedding_both_450,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_462,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_472,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_478,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_479,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+3,young_wedding_both_480,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+3,young_wedding_both_483,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+3,young_wedding_both_485,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+3,young_wedding_both_492,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_494,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_499,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_500,nl,uk,False,0,0_praise_sorrow_god_soul
+3,young_wedding_both_502,nl,uk,False,27,27_shines brightly_praise_worthy praise_praise lord
+3,Pod_1408,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1411,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1414,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1418,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Pod_1421,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Pod_1424,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1431,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1432,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1451,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+3,Pod_1455,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1476,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1490,uk,uk,True,10,10_cook_caresses_bake_dear darling
+3,Pod_1499,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1500,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1503,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1504,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1509,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1510,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1511,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1512,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1513,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1517,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1521,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1530,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1532,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1537,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1540,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1545,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Pod_1547,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1560,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1561,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1571,uk,ko,False,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+3,Pod_1582,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1584,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1585,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1594,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1595,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1599,uk,uk,True,10,10_cook_caresses_bake_dear darling
+3,Pod_1603,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1609,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Pod_1611,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Pod_1616,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_56,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_57,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_58,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_72,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+3,Vol_73,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_75,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_83,uk,uk,True,0,0_praise_sorrow_god_soul
+3,Vol_89,uk,ko,False,21,21_bark_shouts_trees_flee
+3,Vol_116,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_1814,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1823,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_1827,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1833,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_1843,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_1848,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1858,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1866,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_1874,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1882,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1884,cs,ko,False,12,12_dear maiden_praise_roses_joyful
+4,Erb_1931,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1950,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1952,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_1973,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1978,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1982,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1989,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_1995,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2005,cs,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+4,Erb_2018,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2024,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2026,cs,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+4,Erb_2040,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2049,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2052,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2056,cs,et,False,21,21_bark_shouts_trees_flee
+4,Erb_2060,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2061,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_2069,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2072,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2082,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2084,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2108,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2110,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Erb_2114,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2138,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2143,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2146,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2154,cs,uk,False,21,21_bark_shouts_trees_flee
+4,Erb_2159,cs,uk,False,0,0_praise_sorrow_god_soul
+4,Erb_2160,cs,uk,False,0,0_praise_sorrow_god_soul
+4,h21305000012,et,nl,False,25,25_little wine_heaven_drink little_lord god
+4,e000151070015,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys0617770000,et,nl,False,25,25_little wine_heaven_drink little_lord god
+4,eys0617830287,et,uk,False,0,0_praise_sorrow_god_soul
+4,e000076970008,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys0910530166,et,uk,False,0,0_praise_sorrow_god_soul
+4,era200101440001,et,uk,False,0,0_praise_sorrow_god_soul
+4,era201402870024,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys0614410114,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys0615110244,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys0715340010,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys0722920043,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys1022630061,et,ko,False,12,12_dear maiden_praise_roses_joyful
+4,eys1022880100,et,uk,False,0,0_praise_sorrow_god_soul
+4,eys1029050081,et,uk,False,0,0_praise_sorrow_god_soul
+4,h21109540011,et,nl,False,25,25_little wine_heaven_drink little_lord god
+4,h21306030003,et,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,h25706320016,et,uk,False,0,0_praise_sorrow_god_soul
+4,h30101400008,et,uk,False,0,0_praise_sorrow_god_soul
+4,h31708530008,et,uk,False,0,0_praise_sorrow_god_soul
+4,hampyeong-0402,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,cheolwon-0310,ko,uk,False,0,0_praise_sorrow_god_soul
+4,ulsan-0919,ko,uk,False,0,0_praise_sorrow_god_soul
+4,muju-0508,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yanggu-0929,ko,uk,False,0,0_praise_sorrow_god_soul
+4,mungyeong-0513,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeonggwang-0225,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+4,yeonggwang-0411,ko,uk,False,0,0_praise_sorrow_god_soul
+4,damyang-0417,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,gyeongsan-0703,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gyeongju-0210,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,hwacheon-0216,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeonggwang-0420,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+4,yeongwol-0306,ko,uk,False,0,0_praise_sorrow_god_soul
+4,seongju-0336,ko,uk,False,0,0_praise_sorrow_god_soul
+4,hampyeong-0428,ko,uk,False,0,0_praise_sorrow_god_soul
+4,sangju-0820,ko,uk,False,0,0_praise_sorrow_god_soul
+4,bonghwa-0706,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yanggu-0716,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gochang-0525,ko,uk,False,0,0_praise_sorrow_god_soul
+4,buan-0615,ko,uk,False,0,0_praise_sorrow_god_soul
+4,sinan-0427,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeongam-0224,ko,uk,False,0,0_praise_sorrow_god_soul
+4,samcheok-1104,ko,uk,False,0,0_praise_sorrow_god_soul
+4,haenam-0127,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gangjin-0618,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeocheon-0327,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gangjin-0312,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+4,hapcheon-0516,ko,uk,False,0,0_praise_sorrow_god_soul
+4,damyang-0122,ko,uk,False,0,0_praise_sorrow_god_soul
+4,muan-0155,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gangjin-0212,ko,uk,False,0,0_praise_sorrow_god_soul
+4,geumreung-0206,ko,uk,False,0,0_praise_sorrow_god_soul
+4,chilgok-0471,ko,uk,False,0,0_praise_sorrow_god_soul
+4,naju-0319,ko,uk,False,0,0_praise_sorrow_god_soul
+4,seongju-0313,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+4,tongyeong-0713,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeongdeok-0204,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,chilgok-0402,ko,uk,False,0,0_praise_sorrow_god_soul
+4,wando-0408,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,yeongyang-0118,ko,uk,False,0,0_praise_sorrow_god_soul
+4,uljin-0613,ko,uk,False,0,0_praise_sorrow_god_soul
+4,sancheong-0527,ko,uk,False,0,0_praise_sorrow_god_soul
+4,jangheung-0514,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yanggu-0408,ko,uk,False,0,0_praise_sorrow_god_soul
+4,samcheok-1017,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,yeonggwang-0612,ko,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+4,milyang-1711,ko,uk,False,0,0_praise_sorrow_god_soul
+4,euiryeong-0508,ko,uk,False,0,0_praise_sorrow_god_soul
+4,inje-0208,ko,uk,False,0,0_praise_sorrow_god_soul
+4,bonghwa-0713,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,seosan-0706,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gw.goseong-0607,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,yeongdeok-0202,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gn.goseong-0211,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeongil-0616,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,geochang-0509,ko,uk,False,0,0_praise_sorrow_god_soul
+4,jeongseon-0811,ko,uk,False,0,0_praise_sorrow_god_soul
+4,namhae-0110,ko,uk,False,0,0_praise_sorrow_god_soul
+4,seungju-0342,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,naju-0311,ko,uk,False,0,0_praise_sorrow_god_soul
+4,jangheung-0225,ko,et,False,23,23_spindle_spinning_rooster_spin
+4,uljin-1003,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+4,yecheon-0504,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gw.goseong-0604,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yangsan-0214,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,boseong-0134,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,boseong-0142,ko,cs,False,18,18_want farmer_pepíček_praises_horses
+4,wando-0423,ko,uk,False,0,0_praise_sorrow_god_soul
+4,geochang-0510,ko,uk,False,0,0_praise_sorrow_god_soul
+4,geumsan-0920,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeongam-0424,ko,uk,False,0,0_praise_sorrow_god_soul
+4,seungju-0346,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gimhae-0110,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+4,namwon-0312,ko,uk,False,0,0_praise_sorrow_god_soul
+4,hongcheon-0411,ko,uk,False,0,0_praise_sorrow_god_soul
+4,damyang-0124,ko,uk,False,0,0_praise_sorrow_god_soul
+4,sinan-0805,ko,uk,False,0,0_praise_sorrow_god_soul
+4,wonju-0222,ko,uk,False,0,0_praise_sorrow_god_soul
+4,hampyeong-0522,ko,uk,False,0,0_praise_sorrow_god_soul
+4,jeongseon-0810,ko,uk,False,0,0_praise_sorrow_god_soul
+4,chilgok-0314,ko,uk,False,0,0_praise_sorrow_god_soul
+4,goesan-0315,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+4,yecheon-0809,ko,uk,False,0,0_praise_sorrow_god_soul
+4,cheolwon-1203,ko,uk,False,0,0_praise_sorrow_god_soul
+4,daejeon-0501,ko,uk,False,0,0_praise_sorrow_god_soul
+4,geoje-0409,ko,uk,False,0,0_praise_sorrow_god_soul
+4,chilgok-0514,ko,uk,False,0,0_praise_sorrow_god_soul
+4,jangheung-0220,ko,uk,False,0,0_praise_sorrow_god_soul
+4,seonsan-0609,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+4,namwon-0311,ko,uk,False,0,0_praise_sorrow_god_soul
+4,yeongdeok-0209,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,hampyeong-0444,ko,ko,True,12,12_dear maiden_praise_roses_joyful
+4,gn.goseong-0319,ko,uk,False,0,0_praise_sorrow_god_soul
+4,gokseong-0105,ko,uk,False,0,0_praise_sorrow_god_soul
+4,hwacheon-0312,ko,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_351,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+4,young_wedding_both_353,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_354,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_359,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+4,young_wedding_both_361,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+4,young_wedding_both_363,nl,ko,False,12,12_dear maiden_praise_roses_joyful
+4,young_wedding_both_364,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_371,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_385,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+4,young_wedding_both_390,nl,uk,False,21,21_bark_shouts_trees_flee
+4,young_wedding_both_395,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_396,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_400,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_406,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_412,nl,uk,False,17,17_seaman_sailing_sailors_dear fatherland
+4,young_wedding_both_435,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+4,young_wedding_both_446,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_448,nl,uk,False,17,17_seaman_sailing_sailors_dear fatherland
+4,young_wedding_both_449,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+4,young_wedding_both_455,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+4,young_wedding_both_459,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+4,young_wedding_both_461,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+4,young_wedding_both_465,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_466,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+4,young_wedding_both_468,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_471,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_487,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_491,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_495,nl,uk,False,0,0_praise_sorrow_god_soul
+4,young_wedding_both_498,nl,nl,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+4,Pod_396,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1406,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1410,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1417,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Pod_1425,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1428,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1434,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1437,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1440,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1442,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1448,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1453,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1456,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1458,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1463,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1464,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Pod_1471,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Pod_1472,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1479,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1482,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1484,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1485,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1486,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1487,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1488,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1492,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1496,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1501,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1518,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1519,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1526,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1529,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1533,uk,et,False,25,25_little wine_heaven_drink little_lord god
+4,Pod_1538,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+4,Pod_1539,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Pod_1542,uk,nl,False,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+4,Pod_1551,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1554,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1568,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1580,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1583,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1588,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1590,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+4,Pod_1613,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Pod_1639,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+4,Vol_51,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Vol_52,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Vol_54,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Vol_79,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Vol_87,uk,uk,True,0,0_praise_sorrow_god_soul
+4,Vol_90,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Erb_1811,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1817,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1819,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1824,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1831,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1836,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+5,Erb_1844,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1865,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1875,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1877,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1883,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1898,cs,uk,False,27,27_shines brightly_praise_worthy praise_praise lord
+5,Erb_1910,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1928,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1932,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1942,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1951,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1958,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_1968,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+5,Erb_2004,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2016,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2017,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2025,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2041,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2048,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2065,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2083,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2086,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2097,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2099,cs,nl,False,25,25_little wine_heaven_drink little_lord god
+5,Erb_2107,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2113,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2116,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2117,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2126,cs,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+5,Erb_2127,cs,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+5,Erb_2128,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2141,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2150,cs,uk,False,0,0_praise_sorrow_god_soul
+5,Erb_2177,cs,uk,False,0,0_praise_sorrow_god_soul
+5,THB_40,cs,uk,False,0,0_praise_sorrow_god_soul
+5,THB_104,cs,uk,False,0,0_praise_sorrow_god_soul
+5,h21400660083,et,uk,False,0,0_praise_sorrow_god_soul
+5,ea00006930012,et,nl,False,25,25_little wine_heaven_drink little_lord god
+5,era203201730004,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0506300060,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0614660155,et,nl,False,25,25_little wine_heaven_drink little_lord god
+5,eys0614760170,et,et,True,23,23_spindle_spinning_rooster_spin
+5,eys0614860183,et,et,True,26,26_beautiful hay_mowed hay_hay_sheepfold
+5,eys0616190047,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0706800056,et,cs,False,21,21_bark_shouts_trees_flee
+5,eys0715960116,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0717540369,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0717550372,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0805580059,et,uk,False,0,0_praise_sorrow_god_soul
+5,eys0811530008,et,et,True,23,23_spindle_spinning_rooster_spin
+5,eys1022780086,et,ko,False,22,22_weaving song_song weaving_fairy_sound dragon
+5,h10102020037,et,uk,False,0,0_praise_sorrow_god_soul
+5,h10700600059,et,uk,False,0,0_praise_sorrow_god_soul
+5,h20102850423,et,uk,False,0,0_praise_sorrow_god_soul
+5,h21304900006,et,uk,False,0,0_praise_sorrow_god_soul
+5,h21304960009,et,uk,False,0,0_praise_sorrow_god_soul
+5,goheung-0512,ko,uk,False,0,0_praise_sorrow_god_soul
+5,hwacheon-0217,ko,uk,False,0,0_praise_sorrow_god_soul
+5,gangjin-0309,ko,ko,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,gwangjusi-0235,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+5,andong-0223,ko,et,False,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+5,namhae-0206,ko,cs,False,25,25_little wine_heaven_drink little_lord god
+5,inje-0209,ko,uk,False,0,0_praise_sorrow_god_soul
+5,hwacheon-0917,ko,uk,False,0,0_praise_sorrow_god_soul
+5,sancheong-0118,ko,et,False,12,12_dear maiden_praise_roses_joyful
+5,gwangyang-0108,ko,uk,False,8,8_holy evening_wreath_praise god_evening good
+5,chilgok-0403,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+5,hongcheon-1312,ko,uk,False,0,0_praise_sorrow_god_soul
+5,gn.goseong-0602,ko,uk,False,0,0_praise_sorrow_god_soul
+5,goesan-0120,ko,et,False,23,23_spindle_spinning_rooster_spin
+5,seongju-0303,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+5,yeongil-0332,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,cheolwon-0813,ko,uk,False,0,0_praise_sorrow_god_soul
+5,jangheung-0229,ko,uk,False,0,0_praise_sorrow_god_soul
+5,goheung-0113,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,yecheon-0704,ko,uk,False,0,0_praise_sorrow_god_soul
+5,wando-0523,ko,uk,False,0,0_praise_sorrow_god_soul
+5,seongju-0629,ko,et,False,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+5,yeonggwang-0614,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+5,jindo-0523,ko,et,False,23,23_spindle_spinning_rooster_spin
+5,yeongdeok-0208,ko,uk,False,0,0_praise_sorrow_god_soul
+5,sinan-1013,ko,uk,False,0,0_praise_sorrow_god_soul
+5,sinan-0314,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yecheon-0422,ko,uk,False,0,0_praise_sorrow_god_soul
+5,seungju-0304,ko,uk,False,0,0_praise_sorrow_god_soul
+5,jungwon-0334,ko,uk,False,0,0_praise_sorrow_god_soul
+5,bonghwa-0311,ko,et,False,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+5,jeongseon-0724,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yeongam-0512,ko,ko,True,12,12_dear maiden_praise_roses_joyful
+5,geoje-0521,ko,uk,False,0,0_praise_sorrow_god_soul
+5,sancheong-0509,ko,uk,False,0,0_praise_sorrow_god_soul
+5,iksan-0206,ko,uk,False,0,0_praise_sorrow_god_soul
+5,wanju-0523,ko,uk,False,0,0_praise_sorrow_god_soul
+5,seungju-0307,ko,uk,False,0,0_praise_sorrow_god_soul
+5,jinan-0626,ko,uk,False,0,0_praise_sorrow_god_soul
+5,cheongdo-0111,ko,uk,False,0,0_praise_sorrow_god_soul
+5,jeongseon-0723,ko,uk,False,0,0_praise_sorrow_god_soul
+5,imsil-0208,ko,et,False,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+5,nonsan-0201,ko,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+5,jangseong-0228,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,goheung-0220,ko,uk,False,0,0_praise_sorrow_god_soul
+5,gangjin-0714,ko,et,False,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+5,jangheung-0219,ko,uk,False,0,0_praise_sorrow_god_soul
+5,gw.goseong-1210,ko,uk,False,0,0_praise_sorrow_god_soul
+5,chuncheon-0313,ko,uk,False,0,0_praise_sorrow_god_soul
+5,gangjin-0319,ko,uk,False,0,0_praise_sorrow_god_soul
+5,seongju-0833,ko,et,False,12,12_dear maiden_praise_roses_joyful
+5,yeonggwang-0611,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yeongam-0520,ko,uk,False,0,0_praise_sorrow_god_soul
+5,haman-0616,ko,uk,False,0,0_praise_sorrow_god_soul
+5,nonsan-0101,ko,uk,False,0,0_praise_sorrow_god_soul
+5,sangju-0817,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+5,gwangjusi-0140,ko,uk,False,0,0_praise_sorrow_god_soul
+5,geumsan-1106,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,milyang-0606,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+5,hapcheon-0510,ko,uk,False,0,0_praise_sorrow_god_soul
+5,imsil-0510,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yanggu-0110,ko,uk,False,0,0_praise_sorrow_god_soul
+5,ulsan-0409,ko,ko,True,22,22_weaving song_song weaving_fairy_sound dragon
+5,wando-0407,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+5,hampyeong-0139,ko,uk,False,0,0_praise_sorrow_god_soul
+5,bonghwa-0705,ko,uk,False,0,0_praise_sorrow_god_soul
+5,chilgok-0316,ko,uk,False,0,0_praise_sorrow_god_soul
+5,sacheon-0110,ko,uk,False,0,0_praise_sorrow_god_soul
+5,ganghwa-0702,ko,uk,False,0,0_praise_sorrow_god_soul
+5,incheon-0102,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yeonggwang-0433,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yeongwol-0106,ko,uk,False,0,0_praise_sorrow_god_soul
+5,haenam-0409,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+5,ulreung-0325,ko,uk,False,0,0_praise_sorrow_god_soul
+5,hoengseong-0424,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+5,boseong-0123,ko,uk,False,19,19_widow_widow widow_allow mother_green meadow
+5,cheolwon-1019,ko,uk,False,0,0_praise_sorrow_god_soul
+5,jinyang-0911,ko,uk,False,0,0_praise_sorrow_god_soul
+5,cheongdo-0515,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yeocheon-0225,ko,uk,False,0,0_praise_sorrow_god_soul
+5,yeongdeok-0203,ko,uk,False,0,0_praise_sorrow_god_soul
+5,wando-0207,ko,uk,False,0,0_praise_sorrow_god_soul
+5,jangsu-0223,ko,et,False,9,9_lullaby lullaby_lullaby_sleeping lullaby_lullaby sleeping
+5,goheung-0119,ko,uk,False,0,0_praise_sorrow_god_soul
+5,hadong-0410,ko,ko,True,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+5,hongcheon-0406,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+5,yangyang-2102,ko,uk,False,0,0_praise_sorrow_god_soul
+5,seungju-0339,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+5,namhae-0315,ko,uk,False,0,0_praise_sorrow_god_soul
+5,hampyeong-0518,ko,et,False,23,23_spindle_spinning_rooster_spin
+5,gwangyang-0113,ko,nl,False,25,25_little wine_heaven_drink little_lord god
+5,ulsan-0421,ko,nl,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,seungju-0336,ko,ko,True,19,19_widow_widow widow_allow mother_green meadow
+5,yangyang-1315,ko,ko,True,3,3_farming_harvest_crescent moon_moon crescent
+5,goheung-0513,ko,uk,False,0,0_praise_sorrow_god_soul
+5,geoje-0616,ko,et,False,26,26_beautiful hay_mowed hay_hay_sheepfold
+5,young_wedding_both_356,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_358,nl,uk,False,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_362,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_366,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_372,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_375,nl,nl,True,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,young_wedding_both_377,nl,uk,False,27,27_shines brightly_praise_worthy praise_praise lord
+5,young_wedding_both_378,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_379,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_381,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_388,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_391,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_408,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_409,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_415,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_419,nl,nl,True,28,28_joyful spirit_bride_feast_noblemen
+5,young_wedding_both_423,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_426,nl,ko,False,24,24_rice cake_rice fields_arirang arariyo_sangju
+5,young_wedding_both_433,nl,et,False,12,12_dear maiden_praise_roses_joyful
+5,young_wedding_both_438,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_442,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_444,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_454,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_467,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_474,nl,uk,False,0,0_praise_sorrow_god_soul
+5,young_wedding_both_481,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_488,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_489,nl,nl,True,25,25_little wine_heaven_drink little_lord god
+5,young_wedding_both_501,nl,uk,False,0,0_praise_sorrow_god_soul
+5,Pod_1405,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1423,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1426,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1435,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1436,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1438,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1443,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1449,uk,uk,True,19,19_widow_widow widow_allow mother_green meadow
+5,Pod_1450,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1454,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1460,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1465,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1480,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1481,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1489,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1494,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1497,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1507,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1508,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1515,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1516,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1523,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1534,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1543,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1553,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1555,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1556,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1559,uk,cs,False,18,18_want farmer_pepíček_praises_horses
+5,Pod_1563,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1566,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1567,uk,nl,False,25,25_little wine_heaven_drink little_lord god
+5,Pod_1569,uk,nl,False,21,21_bark_shouts_trees_flee
+5,Pod_1570,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1579,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1589,uk,ko,False,20,20_lullaby lullaby_lullaby_lullaby baby_sleep lullaby
+5,Pod_1604,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1608,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1610,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Pod_1614,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_50,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_53,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_55,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_60,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_61,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_62,uk,uk,True,13,13_lullaby baby_lullaby_lullaby lullaby_lullaby little
+5,Vol_63,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_66,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_67,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_69,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_77,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_84,uk,uk,True,0,0_praise_sorrow_god_soul
+5,Vol_117,uk,uk,True,0,0_praise_sorrow_god_soul

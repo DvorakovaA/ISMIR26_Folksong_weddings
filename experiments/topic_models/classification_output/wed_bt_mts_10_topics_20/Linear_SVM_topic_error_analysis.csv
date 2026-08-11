@@ -1,0 +1,18 @@
+assigned_topic,topic_label,n_errors,most_confused_true,most_confused_pred,n_total,error_rate
+5,5_horses_grazing_maidens_clover,2,cs (1),uk (1),2,1.0
+15,15_slave_goats_ants_feathers,13,et (5),ko (10),16,0.8125
+12,12_orphans_trees_plowed field_wilderness,3,et (3),uk (3),4,0.75
+17,17_mocking_squirrel_don laugh_laugh,15,cs (4),uk (9),20,0.75
+0,0_dear_sorrow_wish_weaving,320,ko (133),uk (320),470,0.6808510638297872
+8,8_garden little_young maiden_nightingale_little cuckoo,2,et (2),ko (2),3,0.6666666666666666
+3,3_saint nicholas_saint_nicholas_holy evening,7,nl (5),uk (5),11,0.6363636363636364
+10,10_young cossack_cossack_horseback_love young,5,ko (3),uk (5),8,0.625
+9,9_wreath_wreaths_wreath wreath_periwinkle,28,ko (8),uk (20),47,0.5957446808510638
+18,18_farmer_rye_oats_horses,71,uk (28),cs (57),132,0.5378787878787878
+13,13_september_thirty_march_summer,31,nl (9),ko (30),73,0.4246575342465753
+6,6_poplar_eyebrows_bright_boast,11,ko (5),uk (10),26,0.4230769230769231
+14,14_gyeongsang_jeolla_country_blow,49,nl (20),ko (48),121,0.4049586776859504
+16,16_song praise_cheerful song_sing song_sing,18,cs (8),nl (16),52,0.34615384615384615
+11,11_little horses_horses_maids_altar,15,uk (7),cs (15),48,0.3125
+7,7_street_streets_fence_corner,7,et (4),ko (7),24,0.2916666666666667
+2,2_married life_sister_husband_mother law,4,nl (4),ko (4),138,0.028985507246376812

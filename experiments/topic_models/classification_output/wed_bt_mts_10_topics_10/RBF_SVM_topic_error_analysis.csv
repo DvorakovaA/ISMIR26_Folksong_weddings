@@ -1,0 +1,9 @@
+assigned_topic,topic_label,n_errors,most_confused_true,most_confused_pred,n_total,error_rate
+2,2_servants_piet_books_dip,4,ko (4),uk (4),4,1.0
+3,3_servant_servants_piet_dip,19,ko (7),et (10),21,0.9047619047619048
+0,0_spirit_flowers_maiden_wind,426,ko (245),uk (426),613,0.6949429037520392
+6,6_village_skirt_autumn_bread,110,ko (50),cs (45),162,0.6790123456790124
+7,7_tended herd_servant_plow_shepherd,41,ko (18),et (41),61,0.6721311475409836
+4,4_little birds_horses_horse_poor parish,2,cs (1),uk (2),4,0.5
+8,8_bride_wedding_maidens_marriage,121,ko (44),nl (114),254,0.4763779527559055
+5,5_hwanghae_flowers_river_bloom flowers,14,et (5),ko (14),77,0.18181818181818182

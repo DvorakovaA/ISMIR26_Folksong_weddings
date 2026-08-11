@@ -1,0 +1,6 @@
+model,label,support,precision,recall,f1,confusion_rate,top_confused_with,top_confused_pct
+RBF_SVM,cs,42,0.1471,0.119,0.1316,0.881,uk,0.5952
+RBF_SVM,et,20,0.2105,0.2,0.2051,0.8,uk,0.55
+RBF_SVM,ko,96,0.9091,0.2083,0.339,0.7917,uk,0.4271
+RBF_SVM,uk,52,0.3471,0.8077,0.4855,0.1923,cs,0.0769
+RBF_SVM,nl,29,0.5814,0.8621,0.6944,0.1379,uk,0.069

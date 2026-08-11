@@ -1,0 +1,64 @@
+assigned_topic,topic_label,n_errors,most_confused_true,most_confused_pred,n_total,error_rate
+9,9_path afterlife_afterlife long_afterlife far_gate afterlife,1,ko (1),uk (1),1,1.0
+91,91_autumn_summer autumn_weary_autumn winter,2,ko (2),uk (2),2,1.0
+88,88_mother poor_poor mother_dear parents_mother raised,2,cs (2),uk (2),2,1.0
+87,87_chinese characters_seven characters_characters_looking characters,2,ko (2),uk (2),2,1.0
+84,84_forest dear_little birds_alder forest_maidens,2,et (2),uk (2),2,1.0
+78,78_beloved girl_wife beautiful_heartfelt_making love,6,et (2),cs (3),6,1.0
+72,72_sail sea_sail_sailor_sailed,1,cs (1),uk (1),1,1.0
+126,126_poor maiden_orphans_dear andulka_garden little,1,cs (1),uk (1),1,1.0
+136,136_barking_young maiden_flea_little bell,3,et (3),uk (2),3,1.0
+110,110_comfort heart_dwell_perished_beloved walking,1,uk (1),ko (1),1,1.0
+138,138_korean folk_white feathers_home bowed_raft,6,uk (3),ko (4),7,0.8571428571428571
+86,86_little stars_little honzík_little sun_ladybug,4,et (3),uk (2),5,0.8
+135,135_slave_little hop_child lullaby_sisters,4,uk (2),uk (2),5,0.8
+99,99_beloved little_beloved girl_lord little_dear andulka,3,cs (1),uk (2),4,0.75
+137,137_horses_rye_buns_buy horse,11,uk (4),uk (6),15,0.7333333333333333
+73,73_bagpipes_maids_home wife_men little,5,ko (2),cs (4),7,0.7142857142857143
+139,139_tree apple_apple tree_tree seen_barley field,7,et (5),cs (4),10,0.7
+111,111_lord praise_praise_praise lord_cheerful song,2,nl (1),uk (1),3,0.6666666666666666
+29,29_rice field_seedling_plant seedlings_seedlings,2,ko (2),uk (2),3,0.6666666666666666
+130,130_mourn_hurts mother_little soldier_thorns,6,cs (3),uk (4),9,0.6666666666666666
+125,125_joy sorrow_melody unknown_comfort heart_grant happiness,4,nl (2),ko (2),7,0.5714285714285714
+140,140_hay_pasture_little grandmother_grass little,5,et (2),ko (3),9,0.5555555555555556
+118,118_golden maiden_little wreath_nightingale_dove dear,12,cs (4),ko (5),22,0.5454545454545454
+60,60_bridesmaid_bridesmaids_farewell dear_little wine,7,uk (3),cs (4),13,0.5384615384615384
+129,129_beloved dear_loved faithfully_silent dear_dear andulka,8,uk (4),cs (4),15,0.5333333333333333
+0,0_midsummer_mother grave_hay_rise dear,173,ko (72),uk (173),329,0.5258358662613982
+81,81_candles_generous evening_solemnly_father dear,2,et (1),cs (1),4,0.5
+33,33_northern fairy_fairy_nang river_nan river,1,uk (1),ko (1),2,0.5
+96,96_god born_sailing sea_miracle_bethlehem,1,ko (1),uk (1),2,0.5
+41,41_ilgwangdan_namsan_hyeo_diyeocha,3,ko (3),uk (3),6,0.5
+34,34_joy_leaving dear_dear golden_dear mother,1,nl (1),uk (1),2,0.5
+141,141_yangsan_jade railing_northern fairy_loom jade,1,ko (1),nl (1),2,0.5
+134,134_ran away_nanynka_chasing_wounds,5,cs (3),ko (4),10,0.5
+128,128_die young_green trees_want die_andong,1,nl (1),cs (1),2,0.5
+123,123_praise joyful_joyful spirit_joy rejoice_celebration,10,nl (5),nl (5),20,0.5
+112,112_tended herd_plow_slave tended_manor,2,et (1),ko (1),4,0.5
+122,122_mocking_squirrel_laughed_don laugh,3,uk (2),et (2),6,0.5
+142,142_little bouquet_dear ones_soldiers_little feet,7,ko (2),cs (5),16,0.4375
+127,127_candle_candles_naughty_home morning,9,uk (5),uk (4),22,0.4090909090909091
+94,94_little roses_bells_little lady_ran away,2,nl (1),uk (2),5,0.4
+121,121_hymn_praise honor_heaven blessing_charms,4,nl (2),ko (2),10,0.4
+124,124_horse god_little horse_altar_wife little,12,uk (4),cs (11),34,0.35294117647058826
+93,93_poor maiden_fair maiden_white maiden_wove wreath,1,cs (1),uk (1),3,0.3333333333333333
+100,100_did spruce_spruce old_dry spruce_forest dry,2,cs (1),ko (2),6,0.3333333333333333
+53,53_rice field_yangsan_weed field_weed fields,1,cs (1),ko (1),3,0.3333333333333333
+107,107_confess_nuns_love girl_wounds,1,cs (1),ko (1),3,0.3333333333333333
+133,133_little horses_whip_poppy_love little,9,uk (4),cs (6),28,0.32142857142857145
+115,115_joyful wedding_dear mother_little horses_mother gave,28,cs (17),ko (26),88,0.3181818181818182
+103,103_dog went_went herd_whistled_nest forest,5,et (3),ko (5),16,0.3125
+55,55_jinju_mandarin ducks_mandarin_geogyeo body,3,uk (3),ko (3),11,0.2727272727272727
+85,85_violet_comfort heart_peacock feathers_little heart,4,nl (2),cs (4),15,0.26666666666666666
+101,101_little maiden_golden maiden_little dove_farmer wife,6,uk (3),et (4),23,0.2608695652173913
+65,65_saint nicholas_nicholas saint_nicholas good_bring little,1,et (1),uk (1),4,0.25
+120,120_gentle little_dear brothers_fly little_dear daddy,3,uk (3),cs (3),15,0.2
+75,75_maidens young_honzíček_men maidens_roses,1,ko (1),cs (1),6,0.16666666666666666
+116,116_lullaby_lullaby lullaby_lullaby baby_child lullaby,1,nl (1),ko (1),6,0.16666666666666666
+144,144_horseback_farmer_emperor_bowing,4,et (2),ko (4),27,0.14814814814814814
+62,62_delights_love faithfulness_bride bridegroom_love beloved,1,uk (1),nl (1),7,0.14285714285714285
+38,38_dear jeníček_dove little_rye little_grove dear,1,uk (1),ko (1),9,0.1111111111111111
+43,43_joyful wedding_dear bride_bridegroom bride_groom bride,1,uk (1),nl (1),14,0.07142857142857142
+143,143_crow_fate life_fate_good fate,1,uk (1),ko (1),19,0.05263157894736842
+23,23_welcome wedding_dear bride_wedding celebration_wedding,1,cs (1),nl (1),21,0.047619047619047616
+44,44_sister law_brother married_brother law_life married,1,uk (1),ko (1),96,0.010416666666666666
