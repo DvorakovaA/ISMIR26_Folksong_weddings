@@ -1,0 +1,148 @@
+BERTopic label: 0_fate_weaving_wind_song (8035 songs)
+  Language counts: [('uk', 206), ('ko', 199), ('cs', 102), ('nl', 39), ('et', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 206 (out of 257)
+  Typology label: Lament_lament_ko, Count: 199 (out of 480)
+  Typology label: wedding_cs, Count: 101 (out of 210)
+  Typology label: wedding_nl, Count: 39 (out of 149)
+  Typology label: military_cs, Count: 1 (out of 1)
+
+BERTopic label: 10_loved faithfully_love dear_little heart_loved (11 songs)
+  Language counts: [('nl', 1), ('cs', 0), ('et', 0), ('uk', 0), ('ko', 0)]
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 11_sails_ashore_ship_weaving (144 songs)
+  Language counts: [('ko', 7), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 7 (out of 480)
+
+BERTopic label: 12_praise lord_lords_praise_sins (12 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 13_takes wife_father law_mother law_horse (22 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 14_young maiden_maiden young_maiden hears_maidens (30 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 15_bridegroom_altar_bridesmaids_maid (16 songs)
+  Language counts: [('uk', 4), ('cs', 2), ('nl', 2), ('et', 0), ('ko', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 4 (out of 257)
+  Typology label: wedding_nl, Count: 2 (out of 149)
+  Typology label: wedding_cs, Count: 2 (out of 210)
+
+BERTopic label: 16_manor_whip_tormented_poor parish (41 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 17_weaving_loom_spinning_jade railing (68 songs)
+  Language counts: [('ko', 1), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 1 (out of 480)
+
+BERTopic label: 18_lullaby lullaby_lullaby_lullaby baby_sleeps lullaby (399 songs)
+  Language counts: [('ko', 20), ('cs', 2), ('uk', 2), ('nl', 1), ('et', 0)]
+  Typology label: Lament_lament_ko, Count: 20 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+  Typology label: wedding_cs, Count: 2 (out of 210)
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 19_lullaby lullaby_lullaby_lullaby baby_baby sleeps (105 songs)
+  Language counts: [('ko', 34), ('uk', 1), ('cs', 0), ('et', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 34 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 1 (out of 257)
+
+BERTopic label: 20_bridegroom bride_bride_wedding_wedding feast (243 songs)
+  Language counts: [('nl', 93), ('uk', 4), ('cs', 0), ('et', 0), ('ko', 0)]
+  Typology label: wedding_nl, Count: 93 (out of 149)
+  Typology label: Family-ritual_wedding_uk, Count: 4 (out of 257)
+
+BERTopic label: 21_young lad_stallions_crying young_village (87 songs)
+  Language counts: [('ko', 3), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 3 (out of 480)
+
+BERTopic label: 22_little bird_golden bird_hare_mandarin duck (112 songs)
+  Language counts: [('ko', 5), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 5 (out of 480)
+
+BERTopic label: 23_battle_cheerful_trumpets_soldiers (207 songs)
+  Language counts: [('cs', 1), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+  Typology label: wedding_cs, Count: 1 (out of 210)
+
+BERTopic label: 24_lullaby baby_baby lullaby_lullaby little_lullaby (264 songs)
+  Language counts: [('ko', 7), ('uk', 2), ('cs', 0), ('et', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 7 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+
+BERTopic label: 25_saint nicholas_nicholas_virtue_joyful (21 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 26_love sorrow_married dear_god dear_great sorrow (259 songs)
+  Language counts: [('cs', 23), ('ko', 2), ('uk', 1), ('et', 0), ('nl', 0)]
+  Typology label: wedding_cs, Count: 23 (out of 210)
+  Typology label: Lament_lament_ko, Count: 2 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 1 (out of 257)
+
+BERTopic label: 27_parting_maiden_fair maiden_wreath (190 songs)
+  Language counts: [('cs', 13), ('ko', 1), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: wedding_cs, Count: 13 (out of 210)
+  Typology label: Lament_lament_ko, Count: 1 (out of 480)
+
+BERTopic label: 28_shepherdess_shepherd_sheep_wolf (120 songs)
+  Language counts: [('ko', 2), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 2 (out of 480)
+
+BERTopic label: 29_bridesmaid_bridesmaids_bid farewell_little kiss (632 songs)
+  Language counts: [('cs', 36), ('ko', 24), ('uk', 11), ('nl', 1), ('et', 0)]
+  Typology label: wedding_cs, Count: 36 (out of 210)
+  Typology label: Lament_lament_ko, Count: 24 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 11 (out of 257)
+  Typology label: wedding_nl, Count: 1 (out of 149)
+
+BERTopic label: 30_saint nicholas_nicholas saint_nicholas good_child golden (332 songs)
+  Language counts: [('uk', 5), ('nl', 3), ('ko', 2), ('cs', 1), ('et', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 5 (out of 257)
+  Typology label: wedding_nl, Count: 3 (out of 149)
+  Typology label: Lament_lament_ko, Count: 2 (out of 480)
+  Typology label: wedding_cs, Count: 1 (out of 210)
+
+BERTopic label: 31_lullaby_lullaby lullaby_lullaby little_lullaby baby (218 songs)
+  Language counts: [('ko', 4), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 4 (out of 480)
+
+BERTopic label: 32_mary_little jesus_christ born_given mother (82 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 33_lullaby lullaby_lullaby_lullaby baby_sleep lullaby (163 songs)
+  Language counts: [('ko', 27), ('uk', 4), ('cs', 0), ('et', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 27 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 4 (out of 257)
+
+BERTopic label: 34_maids_husband home_husband_heaven (708 songs)
+  Language counts: [('cs', 16), ('ko', 13), ('uk', 10), ('nl', 2), ('et', 0)]
+  Typology label: wedding_cs, Count: 16 (out of 210)
+  Typology label: Lament_lament_ko, Count: 13 (out of 480)
+  Typology label: Family-ritual_wedding_uk, Count: 10 (out of 257)
+  Typology label: wedding_nl, Count: 2 (out of 149)
+
+BERTopic label: 35_honzíček_monastery_maidens young_set beloved (1063 songs)
+  Language counts: [('cs', 15), ('ko', 11), ('nl', 7), ('uk', 3), ('et', 0)]
+  Typology label: wedding_cs, Count: 15 (out of 210)
+  Typology label: Lament_lament_ko, Count: 11 (out of 480)
+  Typology label: wedding_nl, Count: 7 (out of 149)
+  Typology label: Family-ritual_wedding_uk, Count: 3 (out of 257)
+
+BERTopic label: 36_village maiden_singing forest_meadow_golden bird (126 songs)
+  Language counts: [('uk', 2), ('cs', 0), ('et', 0), ('ko', 0), ('nl', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+
+BERTopic label: 4_lullaby lullaby_lullaby_lullaby worry_sleeps lullaby (30 songs)
+  Language counts: [('ko', 1), ('cs', 0), ('et', 0), ('uk', 0), ('nl', 0)]
+  Typology label: Lament_lament_ko, Count: 1 (out of 480)
+
+BERTopic label: 5_drowned_small tears_young cossack_sorrow (123 songs)
+  Language counts: [('uk', 2), ('cs', 0), ('et', 0), ('ko', 0), ('nl', 0)]
+  Typology label: Family-ritual_wedding_uk, Count: 2 (out of 257)
+
+BERTopic label: 8_end little_little field_pasture_young widow (29 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
+BERTopic label: 9_hans_hans harju_riga_barn (4 songs)
+  Language counts: [('cs', 0), ('et', 0), ('uk', 0), ('ko', 0), ('nl', 0)]
+
