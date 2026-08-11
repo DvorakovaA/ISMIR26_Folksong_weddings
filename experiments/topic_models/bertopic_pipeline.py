@@ -84,7 +84,7 @@ def load_model(model_name: str = "MaartenGr/BERTopic_Wikipedia") -> BERTopic:
     Download (or load from cache) a pretrained BERTopic model from HuggingFace.
 
     Args:
-        model_name: HuggingFace model identifier.
+        model_name: HuggingFace model identifier OR path to locally stored.
 
     Returns:
         Loaded BERTopic instance.
