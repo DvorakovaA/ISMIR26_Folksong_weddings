@@ -1,0 +1,41 @@
+------------------------------
+L1 FEATURE SELECTION: 'cs'  vs  'nl'
+------------------------------
+Top-K requested : 5
+Best C selected : 0.5
+CV AUC (5-fold) : 0.8998
+
+Top 5 discriminative topics:
+------------------------------
+
+Rank 1: topic_20  (20_bridegroom bride_bride_wedding_wedding feast)
+  L1 coefficient : +2.577907  -> favours: nl
+  Mean prob in 'cs' : 0.004400 ± 0.040525
+  Mean prob in 'nl' : 0.587844 ± 0.437016
+  Mean diff (b-a)          : +0.583444
+
+Rank 2: topic_26  (26_love sorrow_married dear_god dear_great sorrow)
+  L1 coefficient : -1.059790  -> favours: cs
+  Mean prob in 'cs' : 0.105514 ± 0.269370
+  Mean prob in 'nl' : 0.007413 ± 0.043965
+  Mean diff (b-a)          : -0.098100
+
+Rank 3: topic_29  (29_bridesmaid_bridesmaids_bid farewell_little kiss)
+  L1 coefficient : -0.713274  -> favours: cs
+  Mean prob in 'cs' : 0.159618 ± 0.340025
+  Mean prob in 'nl' : 0.012169 ± 0.066067
+  Mean diff (b-a)          : -0.147448
+
+Rank 4: topic_27  (27_parting_maiden_fair maiden_wreath)
+  L1 coefficient : -0.477874  -> favours: cs
+  Mean prob in 'cs' : 0.064064 ± 0.215723
+  Mean prob in 'nl' : 0.004394 ± 0.041973
+  Mean diff (b-a)          : -0.059670
+
+Rank 5: topic_34  (34_maids_husband home_husband_heaven)
+  L1 coefficient : -0.210643  -> favours: cs
+  Mean prob in 'cs' : 0.076852 ± 0.241985
+  Mean prob in 'nl' : 0.020364 ± 0.106424
+  Mean diff (b-a)          : -0.056488
+
+------------------------------------------------

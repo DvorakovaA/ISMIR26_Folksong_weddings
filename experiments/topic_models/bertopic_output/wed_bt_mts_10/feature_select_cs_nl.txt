@@ -1,0 +1,41 @@
+------------------------------
+L1 FEATURE SELECTION: 'cs'  vs  'nl'
+------------------------------
+Top-K requested : 5
+Best C selected : 0.5
+CV AUC (5-fold) : 0.9167
+
+Top 5 discriminative topics:
+------------------------------
+
+Rank 1: topic_114  (114_dear bride_bride_wedding celebration_marriage)
+  L1 coefficient : +2.066640  -> favours: nl
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'nl' : 0.214225 ± 0.270266
+  Mean diff (b-a)          : +0.214225
+
+Rank 2: topic_43  (43_joyful wedding_dear bride_bridegroom bride_groom bride)
+  L1 coefficient : +0.867433  -> favours: nl
+  Mean prob in 'cs' : 0.002059 ± 0.029841
+  Mean prob in 'nl' : 0.107643 ± 0.163225
+  Mean diff (b-a)          : +0.105584
+
+Rank 3: topic_57  (57_dear jeníček_scripture_marries_harshly)
+  L1 coefficient : -0.726373  -> favours: cs
+  Mean prob in 'cs' : 0.042124 ± 0.168206
+  Mean prob in 'nl' : 0.002395 ± 0.021154
+  Mean diff (b-a)          : -0.039728
+
+Rank 4: topic_123  (123_praise joyful_joyful spirit_joy rejoice_celebration)
+  L1 coefficient : +0.713289  -> favours: nl
+  Mean prob in 'cs' : 0.005010 ± 0.049563
+  Mean prob in 'nl' : 0.081401 ± 0.216323
+  Mean diff (b-a)          : +0.076392
+
+Rank 5: topic_121  (121_hymn_praise honor_heaven blessing_charms)
+  L1 coefficient : +0.601880  -> favours: nl
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'nl' : 0.060842 ± 0.150817
+  Mean diff (b-a)          : +0.060842
+
+------------------------------------------------

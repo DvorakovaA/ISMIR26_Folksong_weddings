@@ -1,0 +1,41 @@
+------------------------------
+L1 FEATURE SELECTION: 'cs'  vs  'ko'
+------------------------------
+Top-K requested : 5
+Best C selected : 10.0
+CV AUC (5-fold) : 0.7833
+
+Top 5 discriminative topics:
+------------------------------
+
+Rank 1: topic_19  (19_lullaby lullaby_lullaby_lullaby baby_baby sleeps)
+  L1 coefficient : +5.532771  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.099487 ± 0.276084
+  Mean diff (b-a)          : +0.099487
+
+Rank 2: topic_33  (33_lullaby lullaby_lullaby_lullaby baby_sleep lullaby)
+  L1 coefficient : +4.390559  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.084315 ± 0.255638
+  Mean diff (b-a)          : +0.084315
+
+Rank 3: topic_31  (31_lullaby_lullaby lullaby_lullaby little_lullaby baby)
+  L1 coefficient : +1.523495  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.011478 ± 0.097503
+  Mean diff (b-a)          : +0.011478
+
+Rank 4: topic_24  (24_lullaby baby_baby lullaby_lullaby little_lullaby)
+  L1 coefficient : +0.827820  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.014826 ± 0.092949
+  Mean diff (b-a)          : +0.014826
+
+Rank 5: topic_26  (26_love sorrow_married dear_god dear_great sorrow)
+  L1 coefficient : -0.599779  -> favours: cs
+  Mean prob in 'cs' : 0.105514 ± 0.269370
+  Mean prob in 'ko' : 0.005586 ± 0.071430
+  Mean diff (b-a)          : -0.099928
+
+------------------------------------------------

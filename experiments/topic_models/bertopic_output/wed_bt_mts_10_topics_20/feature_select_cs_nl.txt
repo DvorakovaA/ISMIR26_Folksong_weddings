@@ -1,0 +1,41 @@
+------------------------------
+L1 FEATURE SELECTION: 'cs'  vs  'nl'
+------------------------------
+Top-K requested : 5
+Best C selected : 0.1
+CV AUC (5-fold) : 0.7638
+
+Top 5 discriminative topics:
+------------------------------
+
+Rank 1: topic_16  (16_song praise_cheerful song_sing song_sing)
+  L1 coefficient : +0.526647  -> favours: nl
+  Mean prob in 'cs' : 0.041255 ± 0.183034
+  Mean prob in 'nl' : 0.227680 ± 0.376378
+  Mean diff (b-a)          : +0.186426
+
+Rank 2: topic_14  (14_gyeongsang_jeolla_country_blow)
+  L1 coefficient : +0.316159  -> favours: nl
+  Mean prob in 'cs' : 0.033567 ± 0.160272
+  Mean prob in 'nl' : 0.130892 ± 0.303931
+  Mean diff (b-a)          : +0.097325
+
+Rank 3: topic_11  (11_little horses_horses_maids_altar)
+  L1 coefficient : -0.266649  -> favours: cs
+  Mean prob in 'cs' : 0.159309 ± 0.342470
+  Mean prob in 'nl' : 0.034787 ± 0.169254
+  Mean diff (b-a)          : -0.124522
+
+Rank 4: topic_18  (18_farmer_rye_oats_horses)
+  L1 coefficient : -0.242915  -> favours: cs
+  Mean prob in 'cs' : 0.190139 ± 0.364463
+  Mean prob in 'nl' : 0.058010 ± 0.205404
+  Mean diff (b-a)          : -0.132129
+
+Rank 5: topic_2  (2_married life_sister_husband_mother law)
+  L1 coefficient : +0.164731  -> favours: nl
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'nl' : 0.028531 ± 0.157745
+  Mean diff (b-a)          : +0.028531
+
+------------------------------------------------
