@@ -1,0 +1,20 @@
+assigned_topic,topic_label,n_errors,most_confused_true,most_confused_pred,n_total,error_rate
+3,3_oxen_gentlemen_peasants_plow,17,cs (6),uk (7),21,0.8095238095238095
+14,14_herd_dog_tail_turning,24,et (12),uk (15),32,0.75
+16,16_wolf_bear_anne_leg,15,et (7),uk (12),20,0.75
+12,12_march_thirty_month_june,20,et (7),uk (11),28,0.7142857142857143
+1,1_nicholas_saint_blessed_god,22,cs (8),uk (16),31,0.7096774193548387
+9,9_wedding_crows_crow_married,73,nl (31),uk (61),106,0.6886792452830188
+18,18_hats_hat_cap_hay,15,cs (7),uk (8),23,0.6521739130434783
+10,10_wheat_barley_rye_pea,22,cs (11),uk (21),35,0.6285714285714286
+4,4_servants_thousand_soul_book,24,cs (9),uk (22),39,0.6153846153846154
+11,11_apples_tree_sisters_wine,17,cs (6),uk (9),28,0.6071428571428571
+0,0_servant_cat_wreath_horse,44,cs (38),uk (44),74,0.5945945945945946
+5,5_matchmaker_vodka_melody_wedding,21,cs (13),uk (17),36,0.5833333333333334
+13,13_bake_basket_bells_eggs,27,cs (13),uk (24),51,0.5294117647058824
+17,17_crooked_tavern_trembles_straight,10,et (6),cs (7),19,0.5263157894736842
+6,6_sparrow_cabbage_pea_chirp,14,cs (9),uk (14),28,0.5
+7,7_legs_calf_reed_nest,15,et (6),uk (9),30,0.5
+8,8_june_march_saint_day,16,nl (7),uk (15),35,0.45714285714285713
+15,15_bow_fall_sail_singing,22,cs (6),nl (16),51,0.43137254901960786
+2,2_beer_beer drink_drank_eating,11,nl (5),uk (11),29,0.3793103448275862
