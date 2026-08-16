@@ -43,7 +43,19 @@ def load_csvs(input_path: str, id_col: str = "id", text_col: str = "text") -> pd
     files = sorted(glob.glob(pattern))
     if not files:
         raise FileNotFoundError(f"No CSV files found: {pattern}")
-    frames = [pd.read_csv(f, dtype={id_col: str})[[id_col, text_col]] for f in files]
+    # select subsampled version of file if both exist
+    fil_files = set()
+    for f in files:
+        if f.endswith("_subsampled.csv"):
+            fil_files.add(f)
+        elif f.endswith(".csv") and not f.endswith("_subsampled.csv"):
+            # check if subsampled version exists
+            subsampled_f = f.replace(".csv", "_subsampled.csv")
+            if subsampled_f not in files:
+                fil_files.add(f)
+    log.info(f"Loading {len(fil_files)} CSV file(s) from {input_path} ...")
+
+    frames = [pd.read_csv(f, dtype={id_col: str})[[id_col, text_col]] for f in fil_files]
     df = pd.concat(frames, ignore_index=True).dropna(subset=[text_col])
     df[text_col] = df[text_col].astype(str).str.strip()
     df = df[df[text_col] != ""].reset_index(drop=True)
@@ -241,8 +253,8 @@ def save_model(model: BERTopic, output_dir: str) -> None:
     """
     Save the BERTopic model using safetensors serialization (fast and lightweight).
     """
-    model_path = os.path.join(output_dir, "bertopic_model")
-    model.save(model_path, serialization="safetensors", save_ctfidf=True)
+    model_path = output_dir + "/bertopic_model.pickle"
+    model.save(model_path, serialization="pickle")
     log.info(f"Model saved to {model_path}")
 
 
@@ -307,6 +319,7 @@ def parse_args():
     p.add_argument("--batch-size", type=int, default=128,
                    help="Embedding batch size.")
     p.add_argument("--seed", type=int, default=41)
+    p.add_argument("--save-model", action="store_true", help="Save the trained BERTopic model.")
     return p.parse_args()
 
 

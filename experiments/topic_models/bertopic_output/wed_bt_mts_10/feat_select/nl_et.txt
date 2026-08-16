@@ -1,0 +1,131 @@
+------------------------------
+L1 FEATURE SELECTION: 'nl'  vs  'et'
+------------------------------
+Top-K requested : 20
+Best C selected : 0.5
+CV AUC (5-fold) : 0.9462
+
+Top 20 discriminative topics:
+------------------------------
+
+Rank 1: topic_114  (114_dear bride_bride_wedding celebration_marriage)
+  L1 coefficient : -1.341151  -> favours: nl
+  Mean prob in 'nl' : 0.214225 ± 0.270266
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.214225
+
+Rank 2: topic_23  (23_welcome wedding_dear bride_wedding celebration_wedding)
+  L1 coefficient : -0.956182  -> favours: nl
+  Mean prob in 'nl' : 0.126957 ± 0.185202
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.126957
+
+Rank 3: topic_43  (43_joyful wedding_dear bride_bridegroom bride_groom bride)
+  L1 coefficient : -0.823364  -> favours: nl
+  Mean prob in 'nl' : 0.107643 ± 0.163225
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.107643
+
+Rank 4: topic_123  (123_praise joyful_joyful spirit_joy rejoice_celebration)
+  L1 coefficient : -0.767828  -> favours: nl
+  Mean prob in 'nl' : 0.081401 ± 0.216323
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.081401
+
+Rank 5: topic_101  (101_little maiden_golden maiden_little dove_farmer wife)
+  L1 coefficient : +0.762732  -> favours: et
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.122277 ± 0.274237
+  Mean diff (b-a)          : +0.122277
+
+Rank 6: topic_125  (125_joy sorrow_melody unknown_comfort heart_grant happiness)
+  L1 coefficient : -0.570835  -> favours: nl
+  Mean prob in 'nl' : 0.028243 ± 0.109795
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.028243
+
+Rank 7: topic_121  (121_hymn_praise honor_heaven blessing_charms)
+  L1 coefficient : -0.522541  -> favours: nl
+  Mean prob in 'nl' : 0.060842 ± 0.150817
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.060842
+
+Rank 8: topic_62  (62_delights_love faithfulness_bride bridegroom_love beloved)
+  L1 coefficient : -0.470750  -> favours: nl
+  Mean prob in 'nl' : 0.040823 ± 0.163574
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.040823
+
+Rank 9: topic_139  (139_tree apple_apple tree_tree seen_barley field)
+  L1 coefficient : +0.461889  -> favours: et
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.042658 ± 0.133522
+  Mean diff (b-a)          : +0.042658
+
+Rank 10: topic_85  (85_violet_comfort heart_peacock feathers_little heart)
+  L1 coefficient : -0.331784  -> favours: nl
+  Mean prob in 'nl' : 0.026084 ± 0.112360
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.026084
+
+Rank 11: topic_136  (136_barking_young maiden_flea_little bell)
+  L1 coefficient : +0.306205  -> favours: et
+  Mean prob in 'nl' : 0.000272 ± 0.003306
+  Mean prob in 'et' : 0.027619 ± 0.119411
+  Mean diff (b-a)          : +0.027347
+
+Rank 12: topic_86  (86_little stars_little honzík_little sun_ladybug)
+  L1 coefficient : +0.277229  -> favours: et
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.032662 ± 0.165791
+  Mean diff (b-a)          : +0.032662
+
+Rank 13: topic_127  (127_candle_candles_naughty_home morning)
+  L1 coefficient : -0.274672  -> favours: nl
+  Mean prob in 'nl' : 0.034022 ± 0.100052
+  Mean prob in 'et' : 0.013544 ± 0.061500
+  Mean diff (b-a)          : -0.020478
+
+Rank 14: topic_75  ()
+  L1 coefficient : -0.264540  -> favours: nl
+  Mean prob in 'nl' : 0.004093 ± 0.027911
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.004093
+
+Rank 15: topic_115  (115_joyful wedding_dear mother_little horses_mother gave)
+  L1 coefficient : -0.250904  -> favours: nl
+  Mean prob in 'nl' : 0.013113 ± 0.090988
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.013113
+
+Rank 16: topic_116  (116_lullaby_lullaby lullaby_lullaby baby_child lullaby)
+  L1 coefficient : -0.183958  -> favours: nl
+  Mean prob in 'nl' : 0.006711 ± 0.081648
+  Mean prob in 'et' : 0.003218 ± 0.031855
+  Mean diff (b-a)          : -0.003494
+
+Rank 17: topic_144  (144_horseback_farmer_emperor_bowing)
+  L1 coefficient : +0.169703  -> favours: et
+  Mean prob in 'nl' : 0.002818 ± 0.031511
+  Mean prob in 'et' : 0.028841 ± 0.148498
+  Mean diff (b-a)          : +0.026023
+
+Rank 18: topic_111  (111_lord praise_praise_praise lord_cheerful song)
+  L1 coefficient : -0.168792  -> favours: nl
+  Mean prob in 'nl' : 0.005608 ± 0.050346
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.005608
+
+Rank 19: topic_142  (142_little bouquet_dear ones_soldiers_little feet)
+  L1 coefficient : -0.164669  -> favours: nl
+  Mean prob in 'nl' : 0.012637 ± 0.101606
+  Mean prob in 'et' : 0.017613 ± 0.081555
+  Mean diff (b-a)          : +0.004976
+
+Rank 20: topic_118  (118_golden maiden_little wreath_nightingale_dove dear)
+  L1 coefficient : -0.159726  -> favours: nl
+  Mean prob in 'nl' : 0.012768 ± 0.067954
+  Mean prob in 'et' : 0.005325 ± 0.041270
+  Mean diff (b-a)          : -0.007443
+
+------------------------------------------------

@@ -1,0 +1,131 @@
+------------------------------
+L1 FEATURE SELECTION: 'ko'  vs  'nl'
+------------------------------
+Top-K requested : 20
+Best C selected : 0.5
+CV AUC (5-fold) : 0.9553
+
+Top 20 discriminative topics:
+------------------------------
+
+Rank 1: topic_44  (44_sister law_brother married_brother law_life married)
+  L1 coefficient : -1.541879  -> favours: ko
+  Mean prob in 'ko' : 0.138594 ± 0.235302
+  Mean prob in 'nl' : 0.003046 ± 0.021310
+  Mean diff (b-a)          : -0.135548
+
+Rank 2: topic_114  (114_dear bride_bride_wedding celebration_marriage)
+  L1 coefficient : +1.501550  -> favours: nl
+  Mean prob in 'ko' : 0.000304 ± 0.006647
+  Mean prob in 'nl' : 0.214225 ± 0.270266
+  Mean diff (b-a)          : +0.213921
+
+Rank 3: topic_43  (43_joyful wedding_dear bride_bridegroom bride_groom bride)
+  L1 coefficient : +0.976671  -> favours: nl
+  Mean prob in 'ko' : 0.000292 ± 0.006394
+  Mean prob in 'nl' : 0.107643 ± 0.163225
+  Mean diff (b-a)          : +0.107351
+
+Rank 4: topic_23  (23_welcome wedding_dear bride_wedding celebration_wedding)
+  L1 coefficient : +0.891914  -> favours: nl
+  Mean prob in 'ko' : 0.000504 ± 0.011023
+  Mean prob in 'nl' : 0.126957 ± 0.185202
+  Mean diff (b-a)          : +0.126454
+
+Rank 5: topic_123  (123_praise joyful_joyful spirit_joy rejoice_celebration)
+  L1 coefficient : +0.645628  -> favours: nl
+  Mean prob in 'ko' : 0.001040 ± 0.019963
+  Mean prob in 'nl' : 0.081401 ± 0.216323
+  Mean diff (b-a)          : +0.080361
+
+Rank 6: topic_144  (144_horseback_farmer_emperor_bowing)
+  L1 coefficient : -0.591618  -> favours: ko
+  Mean prob in 'ko' : 0.043788 ± 0.150167
+  Mean prob in 'nl' : 0.002818 ± 0.031511
+  Mean diff (b-a)          : -0.040970
+
+Rank 7: topic_131  (131_good harvest_harvest_seedlings rice_field harvest)
+  L1 coefficient : -0.473125  -> favours: ko
+  Mean prob in 'ko' : 0.007888 ± 0.066648
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.007888
+
+Rank 8: topic_85  (85_violet_comfort heart_peacock feathers_little heart)
+  L1 coefficient : +0.465093  -> favours: nl
+  Mean prob in 'ko' : 0.001461 ± 0.018068
+  Mean prob in 'nl' : 0.026084 ± 0.112360
+  Mean diff (b-a)          : +0.024622
+
+Rank 9: topic_76  (76_sister law_married life_law mother_mother law)
+  L1 coefficient : -0.458615  -> favours: ko
+  Mean prob in 'ko' : 0.055452 ± 0.150107
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.055452
+
+Rank 10: topic_143  (143_crow_fate life_fate_good fate)
+  L1 coefficient : -0.449481  -> favours: ko
+  Mean prob in 'ko' : 0.034508 ± 0.154839
+  Mean prob in 'nl' : 0.005440 ± 0.034544
+  Mean diff (b-a)          : -0.029068
+
+Rank 11: topic_134  (134_ran away_nanynka_chasing_wounds)
+  L1 coefficient : -0.438734  -> favours: ko
+  Mean prob in 'ko' : 0.012922 ± 0.085046
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.012922
+
+Rank 12: topic_117  (117_husband house_brother law_law mother_son law)
+  L1 coefficient : -0.401022  -> favours: ko
+  Mean prob in 'ko' : 0.031297 ± 0.104765
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.031297
+
+Rank 13: topic_64  (64_law mother_sister law_daughter law_brother law)
+  L1 coefficient : -0.367059  -> favours: ko
+  Mean prob in 'ko' : 0.065089 ± 0.139603
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.065089
+
+Rank 14: topic_55  (55_jinju_mandarin ducks_mandarin_geogyeo body)
+  L1 coefficient : -0.364510  -> favours: ko
+  Mean prob in 'ko' : 0.018147 ± 0.094474
+  Mean prob in 'nl' : 0.000278 ± 0.003385
+  Mean diff (b-a)          : -0.017869
+
+Rank 15: topic_115  (115_joyful wedding_dear mother_little horses_mother gave)
+  L1 coefficient : -0.333561  -> favours: ko
+  Mean prob in 'ko' : 0.102633 ± 0.256235
+  Mean prob in 'nl' : 0.013113 ± 0.090988
+  Mean diff (b-a)          : -0.089520
+
+Rank 16: topic_62  (62_delights_love faithfulness_bride bridegroom_love beloved)
+  L1 coefficient : +0.300237  -> favours: nl
+  Mean prob in 'ko' : 0.001433 ± 0.023738
+  Mean prob in 'nl' : 0.040823 ± 0.163574
+  Mean diff (b-a)          : +0.039390
+
+Rank 17: topic_81  (81_candles_generous evening_solemnly_father dear)
+  L1 coefficient : +0.295842  -> favours: nl
+  Mean prob in 'ko' : 0.001554 ± 0.019869
+  Mean prob in 'nl' : 0.013167 ± 0.069811
+  Mean diff (b-a)          : +0.011612
+
+Rank 18: topic_38  (38_dear jeníček_dove little_rye little_grove dear)
+  L1 coefficient : -0.278855  -> favours: ko
+  Mean prob in 'ko' : 0.013892 ± 0.087192
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.013892
+
+Rank 19: topic_104  (104_silver child_child silver_child lullaby_lullaby baby)
+  L1 coefficient : -0.250547  -> favours: ko
+  Mean prob in 'ko' : 0.010408 ± 0.073595
+  Mean prob in 'nl' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.010408
+
+Rank 20: topic_137  (137_horses_rye_buns_buy horse)
+  L1 coefficient : -0.226049  -> favours: ko
+  Mean prob in 'ko' : 0.013082 ± 0.091226
+  Mean prob in 'nl' : 0.000319 ± 0.003875
+  Mean diff (b-a)          : -0.012764
+
+------------------------------------------------

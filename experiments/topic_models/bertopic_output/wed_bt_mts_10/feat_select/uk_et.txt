@@ -1,0 +1,131 @@
+------------------------------
+L1 FEATURE SELECTION: 'uk'  vs  'et'
+------------------------------
+Top-K requested : 20
+Best C selected : 0.5
+CV AUC (5-fold) : 0.7282
+
+Top 20 discriminative topics:
+------------------------------
+
+Rank 1: topic_136  (136_barking_young maiden_flea_little bell)
+  L1 coefficient : +1.389398  -> favours: et
+  Mean prob in 'uk' : 0.000196 ± 0.003128
+  Mean prob in 'et' : 0.027619 ± 0.119411
+  Mean diff (b-a)          : +0.027423
+
+Rank 2: topic_139  (139_tree apple_apple tree_tree seen_barley field)
+  L1 coefficient : +0.656280  -> favours: et
+  Mean prob in 'uk' : 0.001184 ± 0.018941
+  Mean prob in 'et' : 0.042658 ± 0.133522
+  Mean diff (b-a)          : +0.041475
+
+Rank 3: topic_115  (115_joyful wedding_dear mother_little horses_mother gave)
+  L1 coefficient : -0.548801  -> favours: uk
+  Mean prob in 'uk' : 0.024087 ± 0.125958
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.024087
+
+Rank 4: topic_101  (101_little maiden_golden maiden_little dove_farmer wife)
+  L1 coefficient : +0.541217  -> favours: et
+  Mean prob in 'uk' : 0.014308 ± 0.111035
+  Mean prob in 'et' : 0.122277 ± 0.274237
+  Mean diff (b-a)          : +0.107969
+
+Rank 5: topic_118  (118_golden maiden_little wreath_nightingale_dove dear)
+  L1 coefficient : -0.395372  -> favours: uk
+  Mean prob in 'uk' : 0.016597 ± 0.095144
+  Mean prob in 'et' : 0.005325 ± 0.041270
+  Mean diff (b-a)          : -0.011272
+
+Rank 6: topic_144  (144_horseback_farmer_emperor_bowing)
+  L1 coefficient : +0.354954  -> favours: et
+  Mean prob in 'uk' : 0.002903 ± 0.037331
+  Mean prob in 'et' : 0.028841 ± 0.148498
+  Mean diff (b-a)          : +0.025938
+
+Rank 7: topic_56  ()
+  L1 coefficient : +0.341831  -> favours: et
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.004350 ± 0.025759
+  Mean diff (b-a)          : +0.004350
+
+Rank 8: topic_112  (112_tended herd_plow_slave tended_manor)
+  L1 coefficient : +0.335363  -> favours: et
+  Mean prob in 'uk' : 0.001276 ± 0.020421
+  Mean prob in 'et' : 0.023318 ± 0.114522
+  Mean diff (b-a)          : +0.022042
+
+Rank 9: topic_84  (84_forest dear_little birds_alder forest_maidens)
+  L1 coefficient : +0.332058  -> favours: et
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.025135 ± 0.144174
+  Mean diff (b-a)          : +0.025135
+
+Rank 10: topic_123  (123_praise joyful_joyful spirit_joy rejoice_celebration)
+  L1 coefficient : -0.294095  -> favours: uk
+  Mean prob in 'uk' : 0.017258 ± 0.125155
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.017258
+
+Rank 11: topic_117  ()
+  L1 coefficient : +0.215779  -> favours: et
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.001643 ± 0.016264
+  Mean diff (b-a)          : +0.001643
+
+Rank 12: topic_120  (120_gentle little_dear brothers_fly little_dear daddy)
+  L1 coefficient : -0.193071  -> favours: uk
+  Mean prob in 'uk' : 0.014977 ± 0.110445
+  Mean prob in 'et' : 0.000562 ± 0.005562
+  Mean diff (b-a)          : -0.014415
+
+Rank 13: topic_86  (86_little stars_little honzík_little sun_ladybug)
+  L1 coefficient : +0.191822  -> favours: et
+  Mean prob in 'uk' : 0.009688 ± 0.092851
+  Mean prob in 'et' : 0.032662 ± 0.165791
+  Mean diff (b-a)          : +0.022975
+
+Rank 14: topic_129  (129_beloved dear_loved faithfully_silent dear_dear andulka)
+  L1 coefficient : -0.179301  -> favours: uk
+  Mean prob in 'uk' : 0.011187 ± 0.081032
+  Mean prob in 'et' : 0.002463 ± 0.024385
+  Mean diff (b-a)          : -0.008724
+
+Rank 15: topic_99  (99_beloved little_beloved girl_lord little_dear andulka)
+  L1 coefficient : +0.171897  -> favours: et
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.010101 ± 0.099995
+  Mean diff (b-a)          : +0.010101
+
+Rank 16: topic_94  (94_little roses_bells_little lady_ran away)
+  L1 coefficient : -0.166643  -> favours: uk
+  Mean prob in 'uk' : 0.011673 ± 0.107410
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.011673
+
+Rank 17: topic_127  (127_candle_candles_naughty_home morning)
+  L1 coefficient : -0.161660  -> favours: uk
+  Mean prob in 'uk' : 0.022711 ± 0.115989
+  Mean prob in 'et' : 0.013544 ± 0.061500
+  Mean diff (b-a)          : -0.009167
+
+Rank 18: topic_130  (130_mourn_hurts mother_little soldier_thorns)
+  L1 coefficient : -0.146793  -> favours: uk
+  Mean prob in 'uk' : 0.009717 ± 0.093002
+  Mean prob in 'et' : 0.000592 ± 0.005859
+  Mean diff (b-a)          : -0.009125
+
+Rank 19: topic_40  ()
+  L1 coefficient : +0.144640  -> favours: et
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.004418 ± 0.043736
+  Mean diff (b-a)          : +0.004418
+
+Rank 20: topic_33  (33_northern fairy_fairy_nang river_nan river)
+  L1 coefficient : -0.141629  -> favours: uk
+  Mean prob in 'uk' : 0.005553 ± 0.063007
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.005553
+
+------------------------------------------------

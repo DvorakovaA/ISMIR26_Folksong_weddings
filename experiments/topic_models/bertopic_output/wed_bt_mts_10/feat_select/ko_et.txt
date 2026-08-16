@@ -1,0 +1,131 @@
+------------------------------
+L1 FEATURE SELECTION: 'ko'  vs  'et'
+------------------------------
+Top-K requested : 20
+Best C selected : 1.0
+CV AUC (5-fold) : 0.9083
+
+Top 20 discriminative topics:
+------------------------------
+
+Rank 1: topic_44  (44_sister law_brother married_brother law_life married)
+  L1 coefficient : -2.126059  -> favours: ko
+  Mean prob in 'ko' : 0.138594 ± 0.235302
+  Mean prob in 'et' : 0.003142 ± 0.031101
+  Mean diff (b-a)          : -0.135453
+
+Rank 2: topic_115  (115_joyful wedding_dear mother_little horses_mother gave)
+  L1 coefficient : -1.891251  -> favours: ko
+  Mean prob in 'ko' : 0.102633 ± 0.256235
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.102633
+
+Rank 3: topic_55  (55_jinju_mandarin ducks_mandarin_geogyeo body)
+  L1 coefficient : -1.630039  -> favours: ko
+  Mean prob in 'ko' : 0.018147 ± 0.094474
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.018147
+
+Rank 4: topic_136  (136_barking_young maiden_flea_little bell)
+  L1 coefficient : +1.319602  -> favours: et
+  Mean prob in 'ko' : 0.000427 ± 0.006927
+  Mean prob in 'et' : 0.027619 ± 0.119411
+  Mean diff (b-a)          : +0.027192
+
+Rank 5: topic_101  (101_little maiden_golden maiden_little dove_farmer wife)
+  L1 coefficient : +1.294084  -> favours: et
+  Mean prob in 'ko' : 0.006488 ± 0.048023
+  Mean prob in 'et' : 0.122277 ± 0.274237
+  Mean diff (b-a)          : +0.115789
+
+Rank 6: topic_76  (76_sister law_married life_law mother_mother law)
+  L1 coefficient : -0.881053  -> favours: ko
+  Mean prob in 'ko' : 0.055452 ± 0.150107
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.055452
+
+Rank 7: topic_143  (143_crow_fate life_fate_good fate)
+  L1 coefficient : -0.844337  -> favours: ko
+  Mean prob in 'ko' : 0.034508 ± 0.154839
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.034508
+
+Rank 8: topic_104  (104_silver child_child silver_child lullaby_lullaby baby)
+  L1 coefficient : -0.734742  -> favours: ko
+  Mean prob in 'ko' : 0.010408 ± 0.073595
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.010408
+
+Rank 9: topic_64  (64_law mother_sister law_daughter law_brother law)
+  L1 coefficient : -0.717455  -> favours: ko
+  Mean prob in 'ko' : 0.065089 ± 0.139603
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.065089
+
+Rank 10: topic_139  (139_tree apple_apple tree_tree seen_barley field)
+  L1 coefficient : +0.691956  -> favours: et
+  Mean prob in 'ko' : 0.000382 ± 0.008361
+  Mean prob in 'et' : 0.042658 ± 0.133522
+  Mean diff (b-a)          : +0.042276
+
+Rank 11: topic_92  (92_nang river_nang_hanyang seoul_oyo uyu)
+  L1 coefficient : -0.654996  -> favours: ko
+  Mean prob in 'ko' : 0.009312 ± 0.074741
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.009312
+
+Rank 12: topic_84  (84_forest dear_little birds_alder forest_maidens)
+  L1 coefficient : +0.481616  -> favours: et
+  Mean prob in 'ko' : 0.000000 ± 0.000000
+  Mean prob in 'et' : 0.025135 ± 0.144174
+  Mean diff (b-a)          : +0.025135
+
+Rank 13: topic_28  ()
+  L1 coefficient : -0.480584  -> favours: ko
+  Mean prob in 'ko' : 0.004318 ± 0.030126
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.004318
+
+Rank 14: topic_38  (38_dear jeníček_dove little_rye little_grove dear)
+  L1 coefficient : -0.452998  -> favours: ko
+  Mean prob in 'ko' : 0.013892 ± 0.087192
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.013892
+
+Rank 15: topic_117  (117_husband house_brother law_law mother_son law)
+  L1 coefficient : -0.398010  -> favours: ko
+  Mean prob in 'ko' : 0.031297 ± 0.104765
+  Mean prob in 'et' : 0.001643 ± 0.016264
+  Mean diff (b-a)          : -0.029654
+
+Rank 16: topic_118  (118_golden maiden_little wreath_nightingale_dove dear)
+  L1 coefficient : -0.397785  -> favours: ko
+  Mean prob in 'ko' : 0.013984 ± 0.083435
+  Mean prob in 'et' : 0.005325 ± 0.041270
+  Mean diff (b-a)          : -0.008659
+
+Rank 17: topic_83  (83_lament fate_precious time_school song_door mother)
+  L1 coefficient : -0.381402  -> favours: ko
+  Mean prob in 'ko' : 0.019942 ± 0.074561
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.019942
+
+Rank 18: topic_130  (130_mourn_hurts mother_little soldier_thorns)
+  L1 coefficient : -0.380513  -> favours: ko
+  Mean prob in 'ko' : 0.006824 ± 0.062214
+  Mean prob in 'et' : 0.000592 ± 0.005859
+  Mean diff (b-a)          : -0.006232
+
+Rank 19: topic_97  ()
+  L1 coefficient : -0.347943  -> favours: ko
+  Mean prob in 'ko' : 0.002383 ± 0.025615
+  Mean prob in 'et' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.002383
+
+Rank 20: topic_100  (100_did spruce_spruce old_dry spruce_forest dry)
+  L1 coefficient : -0.336742  -> favours: ko
+  Mean prob in 'ko' : 0.008504 ± 0.069552
+  Mean prob in 'et' : 0.018026 ± 0.080675
+  Mean diff (b-a)          : +0.009522
+
+------------------------------------------------

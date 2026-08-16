@@ -1,0 +1,131 @@
+------------------------------
+L1 FEATURE SELECTION: 'cs'  vs  'ko'
+------------------------------
+Top-K requested : 20
+Best C selected : 0.5
+CV AUC (5-fold) : 0.9001
+
+Top 20 discriminative topics:
+------------------------------
+
+Rank 1: topic_44  (44_sister law_brother married_brother law_life married)
+  L1 coefficient : +2.364435  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.138594 ± 0.235302
+  Mean diff (b-a)          : +0.138594
+
+Rank 2: topic_143  (143_crow_fate life_fate_good fate)
+  L1 coefficient : +0.795690  -> favours: ko
+  Mean prob in 'cs' : 0.000296 ± 0.004291
+  Mean prob in 'ko' : 0.034508 ± 0.154839
+  Mean diff (b-a)          : +0.034212
+
+Rank 3: topic_117  (117_husband house_brother law_law mother_son law)
+  L1 coefficient : +0.732057  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.031297 ± 0.104765
+  Mean diff (b-a)          : +0.031297
+
+Rank 4: topic_76  (76_sister law_married life_law mother_mother law)
+  L1 coefficient : +0.700620  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.055452 ± 0.150107
+  Mean diff (b-a)          : +0.055452
+
+Rank 5: topic_85  (85_violet_comfort heart_peacock feathers_little heart)
+  L1 coefficient : -0.634533  -> favours: cs
+  Mean prob in 'cs' : 0.052989 ± 0.195650
+  Mean prob in 'ko' : 0.001461 ± 0.018068
+  Mean diff (b-a)          : -0.051528
+
+Rank 6: topic_57  (57_dear jeníček_scripture_marries_harshly)
+  L1 coefficient : -0.545067  -> favours: cs
+  Mean prob in 'cs' : 0.042124 ± 0.168206
+  Mean prob in 'ko' : 0.000511 ± 0.011182
+  Mean diff (b-a)          : -0.041613
+
+Rank 7: topic_104  (104_silver child_child silver_child lullaby_lullaby baby)
+  L1 coefficient : +0.510186  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.010408 ± 0.073595
+  Mean diff (b-a)          : +0.010408
+
+Rank 8: topic_55  (55_jinju_mandarin ducks_mandarin_geogyeo body)
+  L1 coefficient : +0.481630  -> favours: ko
+  Mean prob in 'cs' : 0.001936 ± 0.016449
+  Mean prob in 'ko' : 0.018147 ± 0.094474
+  Mean diff (b-a)          : +0.016211
+
+Rank 9: topic_141  (141_yangsan_jade railing_northern fairy_loom jade)
+  L1 coefficient : +0.440216  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.002732 ± 0.022850
+  Mean diff (b-a)          : +0.002732
+
+Rank 10: topic_144  (144_horseback_farmer_emperor_bowing)
+  L1 coefficient : +0.440063  -> favours: ko
+  Mean prob in 'cs' : 0.004789 ± 0.054797
+  Mean prob in 'ko' : 0.043788 ± 0.150167
+  Mean diff (b-a)          : +0.038999
+
+Rank 11: topic_131  (131_good harvest_harvest_seedlings rice_field harvest)
+  L1 coefficient : +0.422400  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.007888 ± 0.066648
+  Mean diff (b-a)          : +0.007888
+
+Rank 12: topic_92  (92_nang river_nang_hanyang seoul_oyo uyu)
+  L1 coefficient : +0.396654  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.009312 ± 0.074741
+  Mean diff (b-a)          : +0.009312
+
+Rank 13: topic_64  (64_law mother_sister law_daughter law_brother law)
+  L1 coefficient : +0.392223  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.065089 ± 0.139603
+  Mean diff (b-a)          : +0.065089
+
+Rank 14: topic_29  (29_rice field_seedling_plant seedlings_seedlings)
+  L1 coefficient : +0.378396  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.003669 ± 0.041823
+  Mean diff (b-a)          : +0.003669
+
+Rank 15: topic_60  (60_bridesmaid_bridesmaids_farewell dear_little wine)
+  L1 coefficient : -0.368297  -> favours: cs
+  Mean prob in 'cs' : 0.035779 ± 0.144038
+  Mean prob in 'ko' : 0.003098 ± 0.030390
+  Mean diff (b-a)          : -0.032681
+
+Rank 16: topic_120  (120_gentle little_dear brothers_fly little_dear daddy)
+  L1 coefficient : -0.359107  -> favours: cs
+  Mean prob in 'cs' : 0.045198 ± 0.192439
+  Mean prob in 'ko' : 0.002895 ± 0.026391
+  Mean diff (b-a)          : -0.042303
+
+Rank 17: topic_105  (105_beautiful hay_hay cutter_washed head_wool)
+  L1 coefficient : -0.291848  -> favours: cs
+  Mean prob in 'cs' : 0.024816 ± 0.135460
+  Mean prob in 'ko' : 0.000345 ± 0.007553
+  Mean diff (b-a)          : -0.024471
+
+Rank 18: topic_133  (133_little horses_whip_poppy_love little)
+  L1 coefficient : -0.289913  -> favours: cs
+  Mean prob in 'cs' : 0.067388 ± 0.191514
+  Mean prob in 'ko' : 0.015034 ± 0.075882
+  Mean diff (b-a)          : -0.052354
+
+Rank 19: topic_28  ()
+  L1 coefficient : +0.285197  -> favours: ko
+  Mean prob in 'cs' : 0.000000 ± 0.000000
+  Mean prob in 'ko' : 0.004318 ± 0.030126
+  Mean diff (b-a)          : +0.004318
+
+Rank 20: topic_38  (38_dear jeníček_dove little_rye little_grove dear)
+  L1 coefficient : +0.282016  -> favours: ko
+  Mean prob in 'cs' : 0.001608 ± 0.021383
+  Mean prob in 'ko' : 0.013892 ± 0.087192
+  Mean diff (b-a)          : +0.012284
+
+------------------------------------------------

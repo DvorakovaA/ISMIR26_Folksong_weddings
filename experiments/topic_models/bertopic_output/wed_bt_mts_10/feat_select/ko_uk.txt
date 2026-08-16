@@ -1,0 +1,131 @@
+------------------------------
+L1 FEATURE SELECTION: 'ko'  vs  'uk'
+------------------------------
+Top-K requested : 20
+Best C selected : 0.1
+CV AUC (5-fold) : 0.8573
+
+Top 20 discriminative topics:
+------------------------------
+
+Rank 1: topic_44  (44_sister law_brother married_brother law_life married)
+  L1 coefficient : -1.015728  -> favours: ko
+  Mean prob in 'ko' : 0.138594 ± 0.235302
+  Mean prob in 'uk' : 0.004509 ± 0.062624
+  Mean diff (b-a)          : -0.134086
+
+Rank 2: topic_115  (115_joyful wedding_dear mother_little horses_mother gave)
+  L1 coefficient : -0.584266  -> favours: ko
+  Mean prob in 'ko' : 0.102633 ± 0.256235
+  Mean prob in 'uk' : 0.024087 ± 0.125958
+  Mean diff (b-a)          : -0.078546
+
+Rank 3: topic_144  (144_horseback_farmer_emperor_bowing)
+  L1 coefficient : -0.490383  -> favours: ko
+  Mean prob in 'ko' : 0.043788 ± 0.150167
+  Mean prob in 'uk' : 0.002903 ± 0.037331
+  Mean diff (b-a)          : -0.040885
+
+Rank 4: topic_64  (64_law mother_sister law_daughter law_brother law)
+  L1 coefficient : -0.475765  -> favours: ko
+  Mean prob in 'ko' : 0.065089 ± 0.139603
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.065089
+
+Rank 5: topic_76  (76_sister law_married life_law mother_mother law)
+  L1 coefficient : -0.447190  -> favours: ko
+  Mean prob in 'ko' : 0.055452 ± 0.150107
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.055452
+
+Rank 6: topic_117  (117_husband house_brother law_law mother_son law)
+  L1 coefficient : -0.411664  -> favours: ko
+  Mean prob in 'ko' : 0.031297 ± 0.104765
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.031297
+
+Rank 7: topic_143  (143_crow_fate life_fate_good fate)
+  L1 coefficient : -0.345284  -> favours: ko
+  Mean prob in 'ko' : 0.034508 ± 0.154839
+  Mean prob in 'uk' : 0.003891 ± 0.062257
+  Mean diff (b-a)          : -0.030617
+
+Rank 8: topic_134  (134_ran away_nanynka_chasing_wounds)
+  L1 coefficient : -0.208098  -> favours: ko
+  Mean prob in 'ko' : 0.012922 ± 0.085046
+  Mean prob in 'uk' : 0.000489 ± 0.007819
+  Mean diff (b-a)          : -0.012433
+
+Rank 9: topic_28  ()
+  L1 coefficient : -0.202993  -> favours: ko
+  Mean prob in 'ko' : 0.004318 ± 0.030126
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.004318
+
+Rank 10: topic_104  (104_silver child_child silver_child lullaby_lullaby baby)
+  L1 coefficient : -0.195944  -> favours: ko
+  Mean prob in 'ko' : 0.010408 ± 0.073595
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.010408
+
+Rank 11: topic_92  (92_nang river_nang_hanyang seoul_oyo uyu)
+  L1 coefficient : -0.190320  -> favours: ko
+  Mean prob in 'ko' : 0.009312 ± 0.074741
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.009312
+
+Rank 12: topic_116  (116_lullaby_lullaby lullaby_lullaby baby_child lullaby)
+  L1 coefficient : -0.184293  -> favours: ko
+  Mean prob in 'ko' : 0.011425 ± 0.086270
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.011425
+
+Rank 13: topic_83  (83_lament fate_precious time_school song_door mother)
+  L1 coefficient : -0.174289  -> favours: ko
+  Mean prob in 'ko' : 0.019942 ± 0.074561
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.019942
+
+Rank 14: topic_131  (131_good harvest_harvest_seedlings rice_field harvest)
+  L1 coefficient : -0.162003  -> favours: ko
+  Mean prob in 'ko' : 0.007888 ± 0.066648
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.007888
+
+Rank 15: topic_95  (95_lullaby lullaby_lullaby_lullaby sleeping_sleeps lullaby)
+  L1 coefficient : -0.156403  -> favours: ko
+  Mean prob in 'ko' : 0.006159 ± 0.057102
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.006159
+
+Rank 16: topic_107  (107_confess_nuns_love girl_wounds)
+  L1 coefficient : -0.145813  -> favours: ko
+  Mean prob in 'ko' : 0.008301 ± 0.071999
+  Mean prob in 'uk' : 0.001130 ± 0.018072
+  Mean diff (b-a)          : -0.007171
+
+Rank 17: topic_32  ()
+  L1 coefficient : +0.133616  -> favours: uk
+  Mean prob in 'ko' : 0.000000 ± 0.000000
+  Mean prob in 'uk' : 0.002569 ± 0.024018
+  Mean diff (b-a)          : +0.002569
+
+Rank 18: topic_125  (125_joy sorrow_melody unknown_comfort heart_grant happiness)
+  L1 coefficient : -0.120420  -> favours: ko
+  Mean prob in 'ko' : 0.007985 ± 0.075110
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.007985
+
+Rank 19: topic_29  (29_rice field_seedling_plant seedlings_seedlings)
+  L1 coefficient : -0.107116  -> favours: ko
+  Mean prob in 'ko' : 0.003669 ± 0.041823
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.003669
+
+Rank 20: topic_70  (70_pines wet_wet pines_pines dry_water cattle)
+  L1 coefficient : -0.101915  -> favours: ko
+  Mean prob in 'ko' : 0.004784 ± 0.046449
+  Mean prob in 'uk' : 0.000000 ± 0.000000
+  Mean diff (b-a)          : -0.004784
+
+------------------------------------------------
